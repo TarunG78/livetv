@@ -1,4 +1,5 @@
 import json
+import sys
 
 def json_to_m3u(json_file, m3u_file):
     with open(json_file, "r") as f:
@@ -13,4 +14,10 @@ def json_to_m3u(json_file, m3u_file):
             )
 
 if __name__ == "__main__":
-    json_to_m3u('channels.json', 'playlist.m3u')
+    if len(sys.argv) >= 3:
+        input_file = sys.argv[1]
+        output_file = sys.argv[2]
+    else:
+        input_file = 'channels.json'
+        output_file = 'playlist.m3u'
+    json_to_m3u(input_file, output_file)
