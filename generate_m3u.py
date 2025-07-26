@@ -9961,7 +9961,7 @@ def generate_m3u(channels):
     return playlist
 
 # Generate playlist content
-m3u_content = generate_m3u(channels)
+m3u_content = generate_m3u
 
 # Save to a file
 with open("channels.m3u", "w", encoding="utf-8") as file:
