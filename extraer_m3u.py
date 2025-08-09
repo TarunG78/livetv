@@ -13,12 +13,13 @@ try:
         m3u_content = response.text
         
         # Guardar el contenido en un archivo
-        with open('lista.m3u', 'w') as file:
-            file.write(m3u_content)
+        with open('lista_varios.m3u', 'w') as file:
+    file.write(m3u_content)
         
         print("La lista M3U ha sido creada con éxito.")
     else:
         print(f"Error al hacer la solicitud: {response.status_code}")
 
 except Exception as e:
+
     print(f"Ocurrió un error: {e}")
