@@ -1,25 +1,24 @@
-import requests
+import requests  
 
-# URL del archivo PHP que genera el contenido M3U
-url = 'https://raw.githubusercontent.com/vijay-iptv/tv/refs/heads/main/public/index.php'
+# URL del archivo PHP que genera el contenido M3U 
+url = 'https://raw.githubusercontent.com/vijay-iptv/tv/refs/heads/main/public/index.php' 
 
-try:
-    # Hacer la solicitud GET a la URL
-    response = requests.get(url)
+try: 
+    # Hacer la solicitud GET a la URL 
+    response = requests.get(url) 
     
-    # Verificar si la solicitud fue exitosa
-    if response.status_code == 200:
-        # Obtener el contenido
-        m3u_content = response.text
+    # Verificar si la solicitud fue exitosa 
+    if response.status_code == 200: 
+        # Obtener el contenido 
+        m3u_content = response.text 
         
-        # Guardar el contenido en un archivo
-    with open('lista_varios.m3u', 'w') as file:  # Asegúrate de que esta línea tenga la indentación correcta
-        file.write(m3u_content)  # Esta línea debe estar indentada también
-        
+        # Guardar el contenido en un archivo 
+        with open('lista_varios.m3u', 'w') as file:  # Asegúrate de que esta línea tenga la indentación correcta
+            file.write(m3u_content)  # Esta línea debe estar indentada también
+            
         print("La lista_varios.m3u ha sido creada con éxito.")
-    else:
+    else: 
         print(f"Error al hacer la solicitud: {response.status_code}")
 
-except Exception as e:
+except Exception as e: 
     print(f"Ocurrió un error: {e}")
-
