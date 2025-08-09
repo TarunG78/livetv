@@ -24,3 +24,13 @@ jobs:
 
       - name: Ejecutar el script
         run: python extraer_m3u.py
+
+      - name: Hacer commit de lista_varios.m3u
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add lista_varios.m3u
+          git commit -m "Actualizar lista_varios.m3u"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
