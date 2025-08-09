@@ -13,8 +13,8 @@ try:
         m3u_content = response.text
         
         # Guardar el contenido en un archivo
-        with open('lista_varios.m3u', 'w') as file:  # Asegúrate de que esta línea tenga la indentación correcta
-            file.write(m3u_content)  # Esta línea debe estar indentada también
+    with open('lista_varios.m3u', 'w') as file:  # Asegúrate de que esta línea tenga la indentación correcta
+        file.write(m3u_content)  # Esta línea debe estar indentada también
         
         print("La lista_varios.m3u ha sido creada con éxito.")
     else:
@@ -22,3 +22,4 @@ try:
 
 except Exception as e:
     print(f"Ocurrió un error: {e}")
+
