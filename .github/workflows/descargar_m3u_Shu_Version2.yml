@@ -17,4 +17,4 @@ jobs:
         env:
           M3U_LINK: ${{ secrets.URL_FILE_LINK }}
         run: |
-          python extraer_m3u.py
+          python extraer_m3u_Shu_Version2.py
