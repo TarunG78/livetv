@@ -1,12 +1,17 @@
 name: Descargar M3U
 
-on:
-  workflow_dispatch:
+on: [push]
 
 jobs:
-  descargar:
+  build:
     runs-on: ubuntu-latest
+    env:
+      M3U_LINK: ${{ secrets.M3U_LINK }}
+      URL_FILE_LINK: ${{ secrets.URL_FILE_LINK }} # <-- Add this line
     steps:
+      # your steps here
+
+  
       - name: Checkout repo
         uses: actions/checkout@v3
 
