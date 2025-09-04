@@ -1,0 +1,20 @@
+name: Descargar M3U
+
+on:
+  workflow_dispatch:
+
+jobs:
+  descargar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Descargar archivo M3U usando el secreto
+        env:
+          M3U_LINK: ${{ secrets.URL_FILE_LINK }}
+        run: |
+          python extraer_m3u.py
