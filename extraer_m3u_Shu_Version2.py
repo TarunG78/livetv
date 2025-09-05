@@ -18,7 +18,7 @@ try:
             file.write(m3u_content)
         print(f"El archivo {filename} ha sido creado con éxito.")
 
-        # Carpeta de exportación
+        # Crear carpeta de exportación si no existe
         export_folder = 'export'
         if not os.path.exists(export_folder):
             os.makedirs(export_folder)
