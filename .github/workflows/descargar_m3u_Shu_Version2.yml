@@ -6,12 +6,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      M3U_LINK: ${{ secrets.M3U_LINK }}
-      URL_FILE_LINK: ${{ secrets.URL_FILE_LINK }} # <-- Add this line
+      M3U_LINK: ${{ secrets.URL_FILE_LINK }}
     steps:
-      # your steps here
-
-  
       - name: Checkout repo
         uses: actions/checkout@v3
 
@@ -19,18 +15,16 @@ jobs:
         run: pip install requests
 
       - name: Descargar archivo M3U usando el secreto
+        run: python extraer_m3u_Shu_Version2.py
         env:
           M3U_LINK: ${{ secrets.URL_FILE_LINK }}
-        run: |
-          python extraer_m3u_Shu_Version2.py
 
       - name: Hacer commit de lista_varios.m3u
         run: |
-         git config --local user.name "GitHub Actions"
-         git config --local user.email "actions@github.com"
-         git add lista_varios.m3u
-         git commit -m "Actualizar lista_varios.m3u"
-         git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/TarunG78/livetv.git HEAD:main
-         env:
-         PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
-         
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add lista_varios.m3u
+          git commit -m "Actualizar lista_varios.m3u" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/TarunG78/livetv.git HEAD:main
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
