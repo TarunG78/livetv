@@ -20,3 +20,4 @@ try:
         print(f"Error al hacer la solicitud: {response.status_code}")
 except Exception as e:
     print(f"Ocurrió un error: {e}")
+
