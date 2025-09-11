@@ -27,6 +27,6 @@ jobs:
           git commit -m "Actualizar lista_varios.m3u" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/TarunG78/livetv.git HEAD:main
         env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           
           
