@@ -35,7 +35,7 @@ $response = curl_exec($ch);
 curl_close($ch);
 
 // Process M3U lines
-$combined_m3u = $jiom3u ."\n". $zee5m3u. "\n". $response;
+$combined_m3u = $jiom3u ."\n". $zee5m3u;
 $lines = explode("\n", $combined_m3u);
 foreach ($lines as &$line) {
     if (strpos($line, '#EXTINF:') === 0) {
@@ -69,8 +69,37 @@ foreach ($lines as &$line) {
     }
 }
 header('Content-Type: text/plain');
-echo '#EXTM3U x-tvg-url="https://live.dinesh29.com.np/epg/jiotvplus/master-epg.xml.gz';
+echo '#EXTM3U x-tvg-url="https://live.dinesh29.com.np/epg/jiotvplus/master-epg.xml.gz \n';
 echo implode("\n", $lines);
+
+$dinesh_url = "http://live.dinesh29.com.np/jiotvplus.m3u"; // Your API URL
+$ch = curl_init(); 
+curl_setopt($ch, CURLOPT_URL, $dinesh_url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 10);
+curl_setopt($ch, CURLOPT_TIMEOUT, 30);
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+
+$m3u = curl_exec($ch);
+curl_close($ch);
+foreach ($json as $channel) {
+    $tvgId = strtolower(str_replace(' ', '', $channel['channel_name']));
+    
+    // Match EXTINF line with this tvg-id
+    $pattern = '/(#EXTINF:-1\s+tvg-id="'.$tvgId.'".*?),(.*)/i';
+    
+    if (preg_match($pattern, $m3u, $matches)) {
+        // Build replacement EXTINF line
+        $replacement = '#EXTINF:-1 tvg-id="'.$tvgId.'" tvg-logo="'.$channel['logoUrl'].'" group-title="JioPlus2-'.$channel['channelLanguageId'].'",'.$channel['channel_name'];
+        
+        // Replace in whole playlist
+        $m3u = str_replace($matches[0], $replacement, $m3u);
+    }
+}
+
+header('Content-Type: text/plain');
+echo $m3u;
 
 $url = "https://arunjunan20.github.io/My-IPTV/"; // Your API URL
 $ch = curl_init(); 
@@ -84,6 +113,16 @@ curl_close($ch);
 $response = preg_replace(
     '/tvg-logo\s*=\s*"https:\/\/yt3\.googleusercontent\.com\/GJVGgzRXxK1FDoUpC8ztBHPu81PMnhc8inodKtEckH-rykiYLzg93HUQIoTIirwORynozMkR=s900-c-k-c0x00ffffff-no-rj"/',
     'tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Tamil_News.png"',
+    $response
+);
+$response = preg_replace(
+    '/tvg-id\s*=\s*"HBO"/',
+     'tvg-id="HBO" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/HBO.png"',
+    $response
+);
+$response = preg_replace(
+    '/tvg-id\s*=\s*"Cinemax"/',
+     'tvg-id="Cinemax" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Cinemax.png"',
     $response
 );
 echo "$response";
