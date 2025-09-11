@@ -34,7 +34,7 @@ jobs:
           echo "M3U_URL_SECRET=${M3U_URL_SECRET}" > .env
 
       - name: Ejecutar el script para la IP indicada
-        run: python download_and_modify_m3u_by_ip.py ${{ github.event.inputs.ip_destino }}
+        run: python m3u_ip.py ${{ github.event.inputs.ip_destino }}
 
       - name: Subir archivo generado como artefacto
         uses: actions/upload-artifact@v4
