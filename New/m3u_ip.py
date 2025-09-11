@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 def main():
     # Verificar argumento de IP
     if len(sys.argv) != 2:
-        print("Uso: python download_and_modify_m3u_by_ip.py <79.144.187.114>")
+        print("Uso: python m3u_ip.py <79.144.187.114>")
         return
     ip_destino = sys.argv[1]
 
