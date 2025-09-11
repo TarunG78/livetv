@@ -30,9 +30,9 @@ def main():
         if 'group-title="' in line:
             line = re.sub(r'group-title="(?!Z5 )([^"]+)"', r'group-title="Z5 \1"', line)
         # Si quieres agregar la IP como parámetro a los streams, descomenta esto:
-        # if line.startswith('http'):
-        #     sep = '&' if '?' in line else '?'
-        #     line = f"{line}{sep}ip={ip_destino}"
+         if line.startswith('http'):
+             sep = '&' if '?' in line else '?'
+             line = f"{line}{sep}ip={ip_destino}"
         modified_lines.append(line)
 
     output_filename = f'all_tv_{ip_destino}.m3u'
