@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 def main():
     # Verificar argumento de IP
     if len(sys.argv) != 2:
-        print("Uso: python download_and_modify_m3u_by_ip.py <ip_publica>")
+        print("Uso: python download_and_modify_m3u_by_ip.py <79.144.187.114>")
         return
     ip_destino = sys.argv[1]
 
@@ -26,7 +26,7 @@ def main():
 
     modified_lines = []
     for line in response.text.splitlines():
-        # Modificar el group-title como antes
+        # Modificar el grupo como antes
         if 'group-title="' in line:
             line = re.sub(r'group-title="(?!Z5 )([^"]+)"', r'group-title="Z5 \1"', line)
         # Si quieres agregar la IP como parámetro a los streams, descomenta esto:
