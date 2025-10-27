@@ -17,7 +17,7 @@ jobs:
       - name: Descargar archivo M3U usando el secreto
         run: python extraer_m3u_Shu_Version2.py
         env:
-          M3U_LINK: ${{ secrets.URL_FILE_LINK }}
+          URL_FILE_LINK: ${{ secrets.URL_FILE_LINK }}
 
       - name: Hacer commit de lista_varios.m3u
         run: |
