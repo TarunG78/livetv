@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 */6 * * *'  # Cada 6 horas
 
 jobs:
   run_script:
@@ -25,13 +27,16 @@ jobs:
       - name: Ejecutar el script
         run: python extraer_m3u.py
 
-      - name: Hacer commit de lista_varios.m3u
+      - name: Comprobar y hacer commit de lista_varios.m3u si hay cambios
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add lista_varios.m3u
-          git commit -m "Actualizar lista_varios.m3u"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar lista_varios.m3u"
+            git push
+          else
+            echo "No hay cambios para commitear."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
