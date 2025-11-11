@@ -1,7 +1,7 @@
 import requests  
 
 # URL del archivo PHP que genera el contenido M3U 
-url = 'https://raw.githubusercontent.com/vijay-iptv/tv/refs/heads/main/public/index.php' 
+url = 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/in.m3u' 
 
 try: 
     # Hacer la solicitud GET a la URL 
@@ -22,3 +22,4 @@ try:
 
 except Exception as e: 
     print(f"Ocurrió un error: {e}")
+
