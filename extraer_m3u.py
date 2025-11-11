@@ -11,11 +11,18 @@ sources = [
         'url': 'https://raw.githubusercontent.com/Raulpa78/m3u/refs/heads/main/z5.m3u',
         'mode': 'prepend',   # Mantiene pero antepone (Z5 TARUN)
     },
+    {
+        'url': 'https://raw.githubusercontent.com/Raulpa78/tkg/refs/heads/main/I_L_BK.m3u',
+        'mode': 'none',  # No modificar ni nombres de grupos ni contenido
+    },
     # Puedes añadir más fuentes con sus "mode" correspondiente
 ]
 
 def process_line(line, mode):
-    # Solo procesar líneas EXTINF
+    # Si el modo es "none", respeta el contenido como está
+    if mode == 'none':
+        return line
+    # Solo procesar líneas EXTINF para otros modos
     if line.startswith("#EXTINF"):
         if mode == 'override':
             # Sobrescribe cualquier group-title
