@@ -1,31 +1,25 @@
 import requests
 import re
+import os
+import json
 
-# Define las fuentes y sus tipos de procesado
-sources = [
-    {
-        'url': 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/in.m3u',
-        'mode': 'override',  # Sobrescribe el nombre del grupo (ALL INDIA FREE)
-    },
-    {
-        'url': 'https://raw.githubusercontent.com/Raulpa78/m3u/refs/heads/main/z5.m3u',
-        'mode': 'prepend',   # Mantiene pero antepone (Z5 TARUN)
-    },
-    {
-        'url': 'https://raw.githubusercontent.com/Raulpa78/tkg/refs/heads/main/I_L_BK.m3u',
-        'mode': 'none',  # No modificar ni nombres de grupos ni contenido
-    },
-    # Puedes añadir más fuentes con sus "mode" correspondiente
-]
+# Intenta cargar los sources desde el secret M3U_SOURCES
+sources_json = os.environ.get("M3U_SOURCES")
+if not sources_json:
+    print("ERROR: No se encontró el secret M3U_SOURCES como variable de entorno.")
+    exit(1)
+
+try:
+    sources = json.loads(sources_json)
+except Exception as e:
+    print(f"ERROR al decodificar el JSON de sources: {e}")
+    exit(1)
 
 def process_line(line, mode):
-    # Si el modo es "none", respeta el contenido como está
     if mode == 'none':
         return line
-    # Solo procesar líneas EXTINF para otros modos
     if line.startswith("#EXTINF"):
         if mode == 'override':
-            # Sobrescribe cualquier group-title
             if 'group-title="' in line:
                 line = re.sub(r'group-title=".*?"', 'group-title="ALL INDIA FREE"', line)
             else:
@@ -33,16 +27,13 @@ def process_line(line, mode):
                 if idx != -1:
                     line = line[:idx] + ' group-title="ALL INDIA FREE"' + line[idx:]
         elif mode == 'prepend':
-            # Si existe group-title, anteponer Z5 TARUN
             if 'group-title="' in line:
-                # Cambia group-title="X" por group-title="Z5 TARUN X"
                 line = re.sub(
                     r'group-title="(.*?)"',
                     lambda m: f'group-title="Z5 TARUN {m.group(1)}"',
                     line
                 )
             else:
-                # Si no existe, simplemente añade el group-title nuevo
                 idx = line.find(',')
                 if idx != -1:
                     line = line[:idx] + ' group-title="Z5 TARUN"' + line[idx:]
@@ -50,18 +41,22 @@ def process_line(line, mode):
 
 new_lines = []
 for source in sources:
+    url = source.get('url')
+    mode = source.get('mode')
+    if not url or not mode:
+        print(f"Fuente mal formada: {source}")
+        continue
     try:
-        response = requests.get(source['url'])
+        response = requests.get(url)
         if response.status_code == 200:
             m3u_content = response.text
             for line in m3u_content.splitlines():
-                new_lines.append(process_line(line, source['mode']))
+                new_lines.append(process_line(line, mode))
         else:
-            print(f"Error al obtener {source['url']}: {response.status_code}")
+            print(f"Error al obtener {url}: {response.status_code}")
     except Exception as e:
-        print(f"Ocurrió un error con la fuente {source['url']}: {e}")
+        print(f"Ocurrió un error con la fuente {url}: {e}")
 
-# Reconstruir el archivo M3U combinado
 new_content = "\n".join(new_lines)
 
 try:
