@@ -1295,7 +1295,7 @@ http://103.140.254.2:3500/live/3395.m3u8
 #EXTINF:-1 tvg-id="BrioTV.in@SD" group-title="ALL INDIA FREE",Brio TV (576p)
 http://103.140.254.2:3500/live/3381.m3u8
 #EXTM3U
-#Generated on 1764679407
+#Generated on 1764725960
 
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
