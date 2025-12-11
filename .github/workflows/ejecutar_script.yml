@@ -37,11 +37,17 @@ jobs:
           git add lista_varios.m3u
           if ! git diff --cached --quiet; then
             git commit -m "Actualizar lista_varios.m3u"
-            git push
+      
+      - name: Pull latest main before push
+        run: git pull origin main --rebase
+
+      - name: Push changes
+        run: git push origin main   
           else
             echo "No hay cambios para commitear."
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
