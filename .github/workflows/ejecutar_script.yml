@@ -32,22 +32,18 @@ jobs:
 
       - name: Comprobar y hacer commit de lista_varios.m3u si hay cambios
         run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
-          git add lista_varios.m3u
-          if ! git diff --cached --quiet; then
-            git commit -m "Actualizar lista_varios.m3u"
-      
-      - name: Pull latest main before push
-        run: git pull origin main --rebase
-
-      - name: Push changes
-        run: git push origin main   
-          else
-            echo "No hay cambios para commitear."
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         git config --local user.name "GitHub Actions"
+         git config --local user.email "actions@github.com"
+         git add lista_varios.m3u
+         if ! git diff --cached --quiet; then
+         git commit -m "Actualizar lista_varios.m3u"
+         git pull origin main --rebase
+         git push origin main
+         else
+         echo "No hay cambios para commitear."
+         fi
+         env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 
