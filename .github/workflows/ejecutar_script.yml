@@ -36,12 +36,13 @@ jobs:
          git config --local user.email "actions@github.com"
          git add lista_varios.m3u
          if ! git diff --cached --quiet; then
-         git commit -m "Actualizar lista_varios.m3u"
-         git pull origin main --rebase
-         git push origin main
+          git commit -m "Actualizar lista_varios.m3u"
+          git pull origin main --rebase
+          git push origin main
          else
-         echo "No hay cambios para commitear."
+          echo "No hay cambios para commitear."
          fi
         env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
