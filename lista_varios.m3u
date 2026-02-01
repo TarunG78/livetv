@@ -1684,7 +1684,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Z5 TARUN Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1769999165~acl=%2f*~id=1d4c3955-fecc-44e9-abcf-4d210f7e022c~data=hdntl~hmac=f163689e8734c85659c18aa80b2cbf1540ce09ee5a414c2e2a823c788476383f
-#EXTM3U billed-msg="Actualizado 11/diciembre/2025"
+#EXTM3U billed-msg="Actualizado 01/Feb/2026"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 #EXTINF:-1 group-title="SAT 🇮🇳® IPTV",&flix HD - Rs 19.00
 http://66.102.120.18:8000/play/a022/index.m3u8
