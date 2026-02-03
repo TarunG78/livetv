@@ -1,1821 +1,956 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (576p)
+#EXTINF:-1 tvg-id="7SMusic.in@SD",7S Music (576p)
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="9XJalwa.in@SD" group-title="ALL INDIA FREE",9X Jalwa (1080p)
+#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (1080p)
 https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
-#EXTINF:-1 tvg-id="9XJalwa.in@SD" group-title="ALL INDIA FREE",9X Jalwa
+#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa
 https://mumt03.tangotv.in/9XJALWA/index.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD" group-title="ALL INDIA FREE",9X Jhakaas
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas
 https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD" group-title="ALL INDIA FREE",9X Jhakaas
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD" group-title="ALL INDIA FREE",9X Tashan
+#EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan
 https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD" group-title="ALL INDIA FREE",9X Tashan
+#EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD" group-title="ALL INDIA FREE",9XM (576p)
+#EXTINF:-1 tvg-id="9XM.in@SD",9XM (576p)
 https://b.jsrdn.com/strm/channels/9xm/master.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD" group-title="ALL INDIA FREE",9XM
+#EXTINF:-1 tvg-id="9XM.in@SD",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-id="22ScopeNews.in@SD" group-title="ALL INDIA FREE",22Scope News (1080p)
+#EXTINF:-1 tvg-id="22ScopeNews.in@SD",22Scope News (1080p)
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="AndTV.in@International" group-title="ALL INDIA FREE",&TV International (1080p)
+#EXTINF:-1 tvg-id="AndTV.in@International",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 tvg-id="AadinathTV.in@SD" group-title="ALL INDIA FREE",Aadinath TV (396p)
+#EXTINF:-1 tvg-id="AadinathTV.in@SD",Aadinath TV (396p)
 #EXTVLCOPT:http-referrer=https://keralive.com/
 https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8
-#EXTINF:-1 tvg-id="AajTak.in@SD" group-title="ALL INDIA FREE",Aaj Tak (1080p)
+#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (1080p)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 tvg-id="AajTak.in@SD" group-title="ALL INDIA FREE",Aaj Tak (404p)
+#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (404p)
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
-#EXTINF:-1 tvg-id="AajTak.in@SD" group-title="ALL INDIA FREE",Aaj Tak
+#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="AaseervathamTV.in@SD" group-title="ALL INDIA FREE",Aaseervatham TV (576p)
+#EXTINF:-1 tvg-id="AaseervathamTV.in@SD",Aaseervatham TV (576p)
 https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8
-#EXTINF:-1 tvg-id="Aastha.in@SD" group-title="ALL INDIA FREE",Aastha (720p)
+#EXTINF:-1 tvg-id="Aastha.in@SD",Aastha (720p)
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
-#EXTINF:-1 tvg-id="AasthaBhajan.in@SD" group-title="ALL INDIA FREE",Aastha Bhajan (480p)
+#EXTINF:-1 tvg-id="AasthaBhajan.in@SD",Aastha Bhajan (480p)
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AasthaGujarati.in@SD" group-title="ALL INDIA FREE",Aastha Gujarati (480p)
+#EXTINF:-1 tvg-id="AasthaGujarati.in@SD",Aastha Gujarati (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AasthaKannada.in@SD" group-title="ALL INDIA FREE",Aastha Kannada (480p)
+#EXTINF:-1 tvg-id="AasthaKannada.in@SD",Aastha Kannada (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AasthaPrime1.in@SD" group-title="ALL INDIA FREE",Aastha Prime 1 (720p)
+#EXTINF:-1 tvg-id="AasthaPrime1.in@SD",Aastha Prime 1 (720p)
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
-#EXTINF:-1 tvg-id="AasthaTamil.in@SD" group-title="ALL INDIA FREE",Aastha Tamil (480p)
+#EXTINF:-1 tvg-id="AasthaTamil.in@SD",Aastha Tamil (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AasthaTelugu.in@SD" group-title="ALL INDIA FREE",Aastha Telugu (480p)
+#EXTINF:-1 tvg-id="AasthaTelugu.in@SD",Aastha Telugu (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AathavanTV.uk@SD" group-title="ALL INDIA FREE",Aathavan TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AathavanTV.uk@SD",Aathavan TV (720p) [Not 24/7]
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ABPAnanda.in@SD" group-title="ALL INDIA FREE",ABP Ananda (1080p)
+#EXTINF:-1 tvg-id="ABPAnanda.in@SD",ABP Ananda (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 tvg-id="ABPAsmita.in@SD" group-title="ALL INDIA FREE",ABP Asmita (1080p)
+#EXTINF:-1 tvg-id="ABPAsmita.in@SD",ABP Asmita (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
-#EXTINF:-1 tvg-id="ABPGanga.in@SD" group-title="ALL INDIA FREE",ABP Ganga (1080p)
+#EXTINF:-1 tvg-id="ABPGanga.in@SD",ABP Ganga (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
-#EXTINF:-1 tvg-id="ABPMajha.in@SD" group-title="ALL INDIA FREE",ABP Majha (360p)
+#EXTINF:-1 tvg-id="ABPMajha.in@SD",ABP Majha (360p)
 https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
-#EXTINF:-1 tvg-id="ABPNews.in@SD" group-title="ALL INDIA FREE",ABP News (1080p)
+#EXTINF:-1 tvg-id="ABPNews.in@SD",ABP News (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-#EXTINF:-1 tvg-id="AbzyDhakad.in@SD" group-title="ALL INDIA FREE",Abzy Dhakad (504p)
+#EXTINF:-1 tvg-id="AbzyDhakad.in@SD",Abzy Dhakad (504p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
-#EXTINF:-1 tvg-id="AbzyDhakad.in@SD" group-title="ALL INDIA FREE",Abzy Dhakad
+#EXTINF:-1 tvg-id="AbzyDhakad.in@SD",Abzy Dhakad
 http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
-#EXTINF:-1 tvg-id="AbzyMovies.in@SD" group-title="ALL INDIA FREE",Abzy Movies (480p)
+#EXTINF:-1 tvg-id="AbzyMovies.in@SD",Abzy Movies (480p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
-#EXTINF:-1 tvg-id="AbzyMovies.in@SD" group-title="ALL INDIA FREE",Abzy Movies
+#EXTINF:-1 tvg-id="AbzyMovies.in@SD",Abzy Movies
 http://57.129.53.130:21001/ABZY_Movies/master.m3u8
-#EXTINF:-1 tvg-id="AlankarTV.in@SD" group-title="ALL INDIA FREE",Alankar TV (720p)
+#EXTINF:-1 tvg-id="AlankarTV.in@SD",Alankar TV (720p)
 https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" group-title="ALL INDIA FREE",All Time Movies (576p)
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="AmarUjala.in@SD" group-title="ALL INDIA FREE",AmarUjala (1080p)
+#EXTINF:-1 tvg-id="AmarUjala.in@SD",AmarUjala (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amar-ujala/index.m3u8
-#EXTINF:-1 tvg-id="AmritaTV.in@SD" group-title="ALL INDIA FREE",Amrita TV (720p)
+#EXTINF:-1 tvg-id="AmritaTV.in@SD",Amrita TV (720p)
 https://ddash74r36xqp.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="AnandTV.in@SD" group-title="ALL INDIA FREE",Anand TV (1080p)
+#EXTINF:-1 tvg-id="AnandTV.in@SD",Anand TV (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AnandaBarta.in@SD" group-title="ALL INDIA FREE",Ananda Barta (720p)
+#EXTINF:-1 tvg-id="AnandaBarta.in@SD",Ananda Barta (720p)
 https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
-#EXTINF:-1 tvg-id="AnandhamTV.in@SD" group-title="ALL INDIA FREE",Anandham TV (1080p)
+#EXTINF:-1 tvg-id="AnandhamTV.in@SD",Anandham TV (1080p)
 https://stream.galaxyott.live/live/anandhamtv/index.m3u8
-#EXTINF:-1 tvg-id="ANBNews.in@SD" group-title="ALL INDIA FREE",ANB News (396p)
+#EXTINF:-1 tvg-id="ANBNews.in@SD",ANB News (396p)
 #EXTVLCOPT:http-referrer=https://keralive.com/
 https://keralive.com/yupp/tv.php?c=anb-news&e=.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@India" group-title="ALL INDIA FREE",Angel TV (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@India",Angel TV (720p)
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Africa" group-title="ALL INDIA FREE",Angel TV Africa (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@Africa",Angel TV Africa (720p)
 https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@America" group-title="ALL INDIA FREE",Angel TV America (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@America",Angel TV America (720p)
 https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Arabia" group-title="ALL INDIA FREE",Angel TV Arabia (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@Arabia",Angel TV Arabia (720p)
 https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Australia" group-title="ALL INDIA FREE",Angel TV Australia (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@Australia",Angel TV Australia (720p)
 https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Chinese" group-title="ALL INDIA FREE",Angel TV Chinese (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@Chinese",Angel TV Chinese (720p)
 https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Europe" group-title="ALL INDIA FREE",Angel TV Europe (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@Europe",Angel TV Europe (720p)
 https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@FarEast" group-title="ALL INDIA FREE",Angel TV FarEast (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@FarEast",Angel TV FarEast (720p)
 https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Hebrew" group-title="ALL INDIA FREE",Angel TV Hebrew (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@Hebrew",Angel TV Hebrew (720p)
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@IndoChina" group-title="ALL INDIA FREE",Angel TV Indo-China (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@IndoChina",Angel TV Indo-China (720p)
 https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Indonesia" group-title="ALL INDIA FREE",Angel TV Indonesia (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@Indonesia",Angel TV Indonesia (720p)
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Portuguese" group-title="ALL INDIA FREE",Angel TV Portuguese (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@Portuguese",Angel TV Portuguese (720p)
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Russian" group-title="ALL INDIA FREE",Angel TV Russian (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@Russian",Angel TV Russian (720p)
 https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Spanish" group-title="ALL INDIA FREE",Angel TV Spanish (720p)
+#EXTINF:-1 tvg-id="AngelTV.in@Spanish",Angel TV Spanish (720p)
 https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ANNNews.in@HD" group-title="ALL INDIA FREE",ANN News (1080p)
+#EXTINF:-1 tvg-id="ANNNews.in@HD",ANN News (1080p)
 https://legitpro.co.in/annnews/annnews/index.m3u8
-#EXTINF:-1 tvg-id="ANNNews.in@HD" group-title="ALL INDIA FREE",ANN News (720p)
+#EXTINF:-1 tvg-id="ANNNews.in@HD",ANN News (720p)
 https://cdn.ottlive.co.in/annnews/index.m3u8
-#EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD" group-title="ALL INDIA FREE",Apna Punjab TV (720p)
+#EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD",Apna Punjab TV (720p)
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
-#EXTINF:-1 tvg-id="ArgusNews.in@SD" group-title="ALL INDIA FREE",Argus News (396p)
+#EXTINF:-1 tvg-id="ArgusNews.in@SD",Argus News (396p)
 #EXTVLCOPT:http-referrer=https://keralive.com/
 https://keralive.com/yupp/tv.php?c=argus-news&e=.m3u8
-#EXTINF:-1 tvg-id="Asianet.in@HD" group-title="ALL INDIA FREE",Asianet HD (720p)
+#EXTINF:-1 tvg-id="Asianet.in@HD",Asianet HD (720p)
 http://217.20.112.199/asianet/index.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in@SD" group-title="ALL INDIA FREE",Asianet News (1080p)
+#EXTINF:-1 tvg-id="AsianetNews.in@SD",Asianet News (1080p)
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in@SD" group-title="ALL INDIA FREE",Asianet News (360p)
+#EXTINF:-1 tvg-id="AsianetNews.in@SD",Asianet News (360p)
 https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" group-title="ALL INDIA FREE",Asianet Suvarna News (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD",Asianet Suvarna News (1080p) [Not 24/7]
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
-#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" group-title="ALL INDIA FREE",Awaaz India TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD",Awaaz India TV (720p) [Not 24/7]
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-#EXTINF:-1 tvg-id="AwakeningTV.in@SD" group-title="ALL INDIA FREE",Awakening TV (576p)
+#EXTINF:-1 tvg-id="AwakeningTV.in@SD",Awakening TV (576p)
 #EXTVLCOPT:http-referrer=https://keralive.com/
 https://keralive.com/yupp/tv.php?c=awakening-tv&e=.m3u8
-#EXTINF:-1 tvg-id="AyushTV.in@SD" group-title="ALL INDIA FREE",Ayush TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="AyushTV.in@SD",Ayush TV (360p) [Not 24/7]
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" group-title="ALL INDIA FREE",B4U Bhojpuri (1080p)
+#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" group-title="ALL INDIA FREE",B4U Bhojpuri
+#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD",B4U Bhojpuri
 https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="ALL INDIA FREE",B4U Kadak (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (1080p) [Geo-blocked]
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="ALL INDIA FREE",B4U Kadak (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (1080p) [Not 24/7]
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="ALL INDIA FREE",B4U Kadak
+#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak
 https://mumt02.tangotv.in/B4UKADAK/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="ALL INDIA FREE",B4U Movies (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (1080p) [Geo-blocked]
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="ALL INDIA FREE",B4U Movies
+#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies
 https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="ALL INDIA FREE",B4U Movies India (1080p)
+#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies India (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" group-title="ALL INDIA FREE",B4U Music (1080p)
+#EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" group-title="ALL INDIA FREE",B4U Music
+#EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music
 https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="BadaKhabar.in@SD" group-title="ALL INDIA FREE",Bada Khabar (432p)
+#EXTINF:-1 tvg-id="BadaKhabar.in@SD",Bada Khabar (432p)
 https://stream.ashokadigital.net/badakhabar/badakhabar/index.m3u8
-#EXTINF:-1 tvg-id="BalleBalle.in@SD" group-title="ALL INDIA FREE",Balle Balle (720p)
+#EXTINF:-1 tvg-id="BalleBalle.in@SD",Balle Balle (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 tvg-id="BflixMovies.in@SD" group-title="ALL INDIA FREE",Bflix Movies (576p)
+#EXTINF:-1 tvg-id="BflixMovies.in@SD",Bflix Movies (576p)
 https://mumt03.tangotv.in/BFLIX/index.m3u8
-#EXTINF:-1 tvg-id="Bharat24.in@SD" group-title="ALL INDIA FREE",Bharat24 (1080p)
+#EXTINF:-1 tvg-id="Bharat24.in@SD",Bharat24 (1080p)
 #EXTVLCOPT:http-referrer=https://cdn.ottlive.co.in/bharat24/embed.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="BharatExpress.in@SD" group-title="ALL INDIA FREE",Bharat Express (480p)
+#EXTINF:-1 tvg-id="BharatExpress.in@SD",Bharat Express (480p)
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
-#EXTINF:-1 tvg-id="BharatSamacharTV.in@SD" group-title="ALL INDIA FREE",Bharat Samachar TV (480p)
+#EXTINF:-1 tvg-id="BharatSamacharTV.in@SD",Bharat Samachar TV (480p)
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" group-title="ALL INDIA FREE",Bhojpuri Cinema (720p)
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="BigMagic.in@SD" group-title="ALL INDIA FREE",Big Magic (576p)
+#EXTINF:-1 tvg-id="BigMagic.in@SD",Big Magic (576p)
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
-#EXTINF:-1 tvg-id="BrioTV.in@SD" group-title="ALL INDIA FREE",Brio TV (576p)
+#EXTINF:-1 tvg-id="BrioTV.in@SD",Brio TV (576p)
 https://mumt02.tangotv.in/BRIOTV/index.m3u8
-#EXTINF:-1 tvg-id="BVG.in@SD" group-title="ALL INDIA FREE",BVG (576p)
+#EXTINF:-1 tvg-id="BVG.in@SD",BVG (576p)
 https://mumt05.tangotv.in/BVG/index.m3u8
-#EXTINF:-1 tvg-id="CCV.in@SD" group-title="ALL INDIA FREE",CCV (480p)
+#EXTINF:-1 tvg-id="CCV.in@SD",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelDivya.in@SD" group-title="ALL INDIA FREE",Channel Divya (1080p)
+#EXTINF:-1 tvg-id="ChannelDivya.in@SD",Channel Divya (1080p)
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelY.ca@SD" group-title="ALL INDIA FREE",Channel Y (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ChannelY.ca@SD",Channel Y (720p) [Not 24/7]
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in@SD" group-title="ALL INDIA FREE",Chardikla Gurbaani TV (1080p)
+#EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in@SD",Chardikla Gurbaani TV (1080p)
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" group-title="ALL INDIA FREE",Chardikla Time TV (1080p)
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD",Chardikla Time TV (1080p)
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD" group-title="ALL INDIA FREE",Chardikla Time TV North America (1080p)
+#EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD",Chardikla Time TV North America (1080p)
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCAwaaz.in@SD" group-title="ALL INDIA FREE",CNBC Awaaz (1080p)
+#EXTINF:-1 tvg-id="CNBCAwaaz.in@SD",CNBC Awaaz (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="CNBCBajar.in@SD" group-title="ALL INDIA FREE",CNBC Bajar (1080p)
+#EXTINF:-1 tvg-id="CNBCBajar.in@SD",CNBC Bajar (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18.in@SD" group-title="ALL INDIA FREE",CNBC TV18 (1080p)
+#EXTINF:-1 tvg-id="CNBCTV18.in@SD",CNBC TV18 (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD" group-title="ALL INDIA FREE",CNBC TV18 Prime HD (1080p)
+#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD",CNBC TV18 Prime HD (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="CnewsBharat.in@SD" group-title="ALL INDIA FREE",Cnews Bharat (720p)
+#EXTINF:-1 tvg-id="CnewsBharat.in@SD",Cnews Bharat (720p)
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD" group-title="ALL INDIA FREE",Colors Bangla HD (720p)
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (720p)
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" group-title="ALL INDIA FREE",Colors Cineplex Bollywood (576p)
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p)
 http://103.182.170.32:8888/play/a01o
-#EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD" group-title="ALL INDIA FREE",CTVN AKD Plus (1080p)
+#EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD",CTVN AKD Plus (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ctvn-akd-plus/index.m3u8
-#EXTINF:-1 tvg-id="CVRNews.in@SD" group-title="ALL INDIA FREE",CVR News (576p)
+#EXTINF:-1 tvg-id="CVRNews.in@SD",CVR News (576p)
 https://mumt04.tangotv.in/CVRNEWS/index.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD" group-title="ALL INDIA FREE",Dangal 2 (720p)
+#EXTINF:-1 tvg-id="Dangal2.in@SD",Dangal 2 (720p)
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD" group-title="ALL INDIA FREE",Dangal TV (720p)
+#EXTINF:-1 tvg-id="DangalTV.in@SD",Dangal TV (720p)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="DarshanaTV.in@SD" group-title="ALL INDIA FREE",Darshana TV (576p)
+#EXTINF:-1 tvg-id="DarshanaTV.in@SD",Darshana TV (576p)
 https://mumt04.tangotv.in/DARSHANATV/index.m3u8
-#EXTINF:-1 tvg-id="DesiChannel.in@SD" group-title="ALL INDIA FREE",Desi Channel (720p)
+#EXTINF:-1 tvg-id="DesiChannel.in@SD",Desi Channel (720p)
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
-#EXTINF:-1 tvg-id="DharsanTV.in@SD" group-title="ALL INDIA FREE",Dharsan TV (720p)
+#EXTINF:-1 tvg-id="DharsanTV.in@SD",Dharsan TV (720p)
 https://galaxyott.live/hls/dharshantv.m3u8
-#EXTINF:-1 tvg-id="DheeranTV.in@SD" group-title="ALL INDIA FREE",Dheeran TV (576p)
+#EXTINF:-1 tvg-id="DheeranTV.in@SD",Dheeran TV (576p)
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
-#EXTINF:-1 tvg-id="DoctorLive.in@SD" group-title="ALL INDIA FREE",Doctor Live (720p)
+#EXTINF:-1 tvg-id="DoctorLive.in@SD",Doctor Live (720p)
 https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-id="DY365.in@SD" group-title="ALL INDIA FREE",DY 365 (360p)
+#EXTINF:-1 tvg-id="DY365.in@SD",DY 365 (360p)
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 tvg-id="E24.in@SD" group-title="ALL INDIA FREE",E 24
+#EXTINF:-1 tvg-id="E24.in@SD",E 24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EagleOneNews.us@SD" group-title="ALL INDIA FREE",Eagle One News (576p)
+#EXTINF:-1 tvg-id="EagleOneNews.us@SD",Eagle One News (576p)
 https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
-#EXTINF:-1 tvg-id="EETTV.in@SD" group-title="ALL INDIA FREE",EET TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="EETTV.in@SD",EET TV (1080p) [Not 24/7]
 https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" group-title="ALL INDIA FREE",Enterr 10 Bangla (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (720p) [Not 24/7]
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="EpicTV.in@SD" group-title="ALL INDIA FREE",Epic TV (1080p)
+#EXTINF:-1 tvg-id="EpicTV.in@SD",Epic TV (1080p)
 https://epiconvh.akamaized.net/live/epic/master.m3u8
-#EXTINF:-1 tvg-id="ETNow.in@SD" group-title="ALL INDIA FREE",ET Now (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ETNow.in@SD",ET Now (720p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
-#EXTINF:-1 tvg-id="ETNow.in@SD" group-title="ALL INDIA FREE",ET Now (720p)
+#EXTINF:-1 tvg-id="ETNow.in@SD",ET Now (720p)
 https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
-#EXTINF:-1 tvg-id="ETNowSwadesh.in@SD" group-title="ALL INDIA FREE",ET Now Swadesh (720p)
+#EXTINF:-1 tvg-id="ETNowSwadesh.in@SD",ET Now Swadesh (720p)
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="ETVAbhiruchi.in@SD" group-title="ALL INDIA FREE",ETV Abhiruchi (1080p)
+#EXTINF:-1 tvg-id="ETVAbhiruchi.in@SD",ETV Abhiruchi (1080p)
 https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
-#EXTINF:-1 tvg-id="ETVAndhraPradesh.in@SD" group-title="ALL INDIA FREE",ETV Andhra Pradesh (1080p)
+#EXTINF:-1 tvg-id="ETVAndhraPradesh.in@SD",ETV Andhra Pradesh (1080p)
 https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVCinema.in@HD" group-title="ALL INDIA FREE",ETV Cinema HD (1080p)
+#EXTINF:-1 tvg-id="ETVCinema.in@HD",ETV Cinema HD (1080p)
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVComedy.in@HD" group-title="ALL INDIA FREE",ETV Comedy (1080p)
+#EXTINF:-1 tvg-id="ETVComedy.in@HD",ETV Comedy (1080p)
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVJosh.in@HD" group-title="ALL INDIA FREE",ETV Josh (1080p)
+#EXTINF:-1 tvg-id="ETVJosh.in@HD",ETV Josh (1080p)
 https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVLife.in@SD" group-title="ALL INDIA FREE",ETV Life (480p)
+#EXTINF:-1 tvg-id="ETVLife.in@SD",ETV Life (480p)
 https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVMusic.in@HD" group-title="ALL INDIA FREE",ETV Music (1080p)
+#EXTINF:-1 tvg-id="ETVMusic.in@HD",ETV Music (1080p)
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVNews.in@HD" group-title="ALL INDIA FREE",ETV News (1080p)
+#EXTINF:-1 tvg-id="ETVNews.in@HD",ETV News (1080p)
 https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVPlus.in@HD" group-title="ALL INDIA FREE",ETV Plus HD (1080p)
+#EXTINF:-1 tvg-id="ETVPlus.in@HD",ETV Plus HD (1080p)
 https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVTelangana.in@SD" group-title="ALL INDIA FREE",ETV Telangana (1080p)
+#EXTINF:-1 tvg-id="ETVTelangana.in@SD",ETV Telangana (1080p)
 https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVTelugu.in@HD" group-title="ALL INDIA FREE",ETV Telugu HD (1080p)
+#EXTINF:-1 tvg-id="ETVTelugu.in@HD",ETV Telugu HD (1080p)
 https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="FatehTV.in@SD" group-title="ALL INDIA FREE",Fateh TV
+#EXTINF:-1 tvg-id="FatehTV.in@SD",Fateh TV
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
-#EXTINF:-1 tvg-id="FilamchiBhojpuri.in@SD" group-title="ALL INDIA FREE",Filamchi Bhojpuri (1080p)
+#EXTINF:-1 tvg-id="FilamchiBhojpuri.in@SD",Filamchi Bhojpuri (1080p)
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-#EXTINF:-1 tvg-id="FirstIndiaNews.in@SD" group-title="ALL INDIA FREE",First India News (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="FirstIndiaNews.in@SD",First India News (360p) [Not 24/7]
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="GlobalPunjab.in@SD" group-title="ALL INDIA FREE",Global Punjab (1080p)
+#EXTINF:-1 tvg-id="GlobalPunjab.in@SD",Global Punjab (1080p)
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
-#EXTINF:-1 tvg-id="GlobalPunjab.in@SD" group-title="ALL INDIA FREE",Global Punjab (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="GlobalPunjab.in@SD",Global Punjab (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
-#EXTINF:-1 tvg-id="Goa365.in@SD" group-title="ALL INDIA FREE",Goa365 (1080p)
+#EXTINF:-1 tvg-id="Goa365.in@SD",Goa365 (1080p)
 https://ktismaservers.in:3086/live/goa365live.m3u8
-#EXTINF:-1 tvg-id="GoodNewsToday.in@SD" group-title="ALL INDIA FREE",Good News Today (720p)
+#EXTINF:-1 tvg-id="GoodNewsToday.in@SD",Good News Today (720p)
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
-#EXTINF:-1 tvg-id="GoodNewsToday.in@SD" group-title="ALL INDIA FREE",Good News Today (720p)
+#EXTINF:-1 tvg-id="GoodNewsToday.in@SD",Good News Today (720p)
 https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
-#EXTINF:-1 tvg-id="GoodNewsTV.in@SD" group-title="ALL INDIA FREE",GoodNews TV (720p)
+#EXTINF:-1 tvg-id="GoodNewsTV.in@SD",GoodNews TV (720p)
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GSTV.in@SD" group-title="ALL INDIA FREE",GS TV (1080p)
+#EXTINF:-1 tvg-id="GSTV.in@SD",GS TV (1080p)
 https://cdnplay.livecast.io/560828843292539228453915.m3u8
-#EXTINF:-1 tvg-id="Gubbare.in@SD" group-title="ALL INDIA FREE",Gubbare (1080p)
+#EXTINF:-1 tvg-id="Gubbare.in@SD",Gubbare (1080p)
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:-1 tvg-id="GujaratFirst.in@SD" group-title="ALL INDIA FREE",Gujarat First (1080p)
+#EXTINF:-1 tvg-id="GujaratFirst.in@SD",Gujarat First (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8
-#EXTINF:-1 tvg-id="GulistanNews.in@SD" group-title="ALL INDIA FREE",Gulistan News (720p)
+#EXTINF:-1 tvg-id="GulistanNews.in@SD",Gulistan News (720p)
 https://live.gulistannews.in/hls/gul.m3u8
-#EXTINF:-1 tvg-id="HamdardTV.ca@SD" group-title="ALL INDIA FREE",Hamdard TV (1080p)
+#EXTINF:-1 tvg-id="HamdardTV.ca@SD",Hamdard TV (1080p)
 https://tv.hamdardtv.com/hamdard/index.m3u8
-#EXTINF:-1 tvg-id="HarvestTV.in@SD" group-title="ALL INDIA FREE",Harvest TV (720p)
+#EXTINF:-1 tvg-id="HarvestTV.in@SD",Harvest TV (720p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-#EXTINF:-1 tvg-id="HarvestTVKeralam.in@SD" group-title="ALL INDIA FREE",Harvest TV Keralam (720p)
+#EXTINF:-1 tvg-id="HarvestTVKeralam.in@SD",Harvest TV Keralam (720p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
-#EXTINF:-1 tvg-id="HarvestUSA.in@SD" group-title="ALL INDIA FREE",Harvest USA (576p)
+#EXTINF:-1 tvg-id="HarvestUSA.in@SD",Harvest USA (576p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HebronTV.in@SD" group-title="ALL INDIA FREE",Hebron TV (432p)
+#EXTINF:-1 tvg-id="HebronTV.in@SD",Hebron TV (432p)
 https://account20.livebox.co.in/charleshls/live.m3u8
-#EXTINF:-1 tvg-id="HighNews.in@SD" group-title="ALL INDIA FREE",High News (480p)
+#EXTINF:-1 tvg-id="HighNews.in@SD",High News (480p)
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" group-title="ALL INDIA FREE",History TV18 HD (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" group-title="ALL INDIA FREE",History TV18 HD Hindi (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD Hindi (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="HNN24x7.in@SD" group-title="ALL INDIA FREE",HNN 24x7 (576p)
+#EXTINF:-1 tvg-id="HNN24x7.in@SD",HNN 24x7 (576p)
 https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="IndTVUSA.us@SD" group-title="ALL INDIA FREE",Ind TV USA (720p)
+#EXTINF:-1 tvg-id="IndTVUSA.us@SD",Ind TV USA (720p)
 https://indtv-pull.secure.footprint.net/indtv/stream.m3u8
-#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" group-title="ALL INDIA FREE",India Daily Live (1080p)
+#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD",India Daily Live (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/india-daily-24x7/index.m3u8
-#EXTINF:-1 tvg-id="IndiaNews.in@SD" group-title="ALL INDIA FREE",India News (1080p)
+#EXTINF:-1 tvg-id="IndiaNews.in@SD",India News (1080p)
 #EXTVLCOPT:http-referrer=https://newsxott.in/embed.html?channel=indianewsnational
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://newsxott.in/hls/indianewsnational.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsGujarati.in@SD" group-title="ALL INDIA FREE",India News Gujarati (1080p)
+#EXTINF:-1 tvg-id="IndiaNewsGujarati.in@SD",India News Gujarati (1080p)
 https://newsxott.in/hls/indianewsgujarat.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsHaryana.in@SD" group-title="ALL INDIA FREE",India News Haryana (1080p)
+#EXTINF:-1 tvg-id="IndiaNewsHaryana.in@SD",India News Haryana (1080p)
 https://newsxott.in/hls/indianewsharyana.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in@SD" group-title="ALL INDIA FREE",India News Madhya Pradesh/Chhattisgarh (576p)
+#EXTINF:-1 tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in@SD",India News Madhya Pradesh/Chhattisgarh (576p)
 https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in@SD" group-title="ALL INDIA FREE",India News Punjab/Himachal (1080p)
+#EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in@SD",India News Punjab/Himachal (1080p)
 https://newsxott.in/hls/indianewspunjab.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsUttarPradesh.in@SD" group-title="ALL INDIA FREE",India News Uttar Pradesh (1080p)
+#EXTINF:-1 tvg-id="IndiaNewsUttarPradesh.in@SD",India News Uttar Pradesh (1080p)
 https://newsxott.in/hls/indianewsupuk.m3u8
-#EXTINF:-1 tvg-id="IndiaToday.in@SD" group-title="ALL INDIA FREE",India Today (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="IndiaToday.in@SD",India Today (720p) [Not 24/7]
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-id="IndiaToday.in@SD" group-title="ALL INDIA FREE",India Today
+#EXTINF:-1 tvg-id="IndiaToday.in@SD",India Today
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8
-#EXTINF:-1 tvg-id="IndiaTV.in@SD" group-title="ALL INDIA FREE",India TV (720p)
+#EXTINF:-1 tvg-id="IndiaTV.in@SD",India TV (720p)
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-#EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in@SD" group-title="ALL INDIA FREE",India TV Aap Ki Adalat (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in@SD",India TV Aap Ki Adalat (1080p) [Geo-blocked]
 https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD" group-title="ALL INDIA FREE",India TV Speed News (1080p)
+#EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD",India TV Speed News (1080p)
 https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
-#EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD" group-title="ALL INDIA FREE",India TV Speed News (1080p)
+#EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD",India TV Speed News (1080p)
 https://cc-lyf4c0hwzg5dd.akamaized.net/v1/vglive-sk-479089/main.m3u8
-#EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD" group-title="ALL INDIA FREE",India TV Speed News (1080p)
+#EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD",India TV Speed News (1080p)
 #EXTVLCOPT:http-referrer=https://www.indiatvspeednews.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/master.m3u8
-#EXTINF:-1 tvg-id="IndywoodTV.in@SD" group-title="ALL INDIA FREE",Indywood TV (720p)
+#EXTINF:-1 tvg-id="IndywoodTV.in@SD",Indywood TV (720p)
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
-#EXTINF:-1 tvg-id="INH24x7.in@SD" group-title="ALL INDIA FREE",INH 24x7 (360p)
+#EXTINF:-1 tvg-id="INH24x7.in@SD",INH 24x7 (360p)
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="IsaiAruvi.in@SD" group-title="ALL INDIA FREE",Isai Aruvi (576p)
+#EXTINF:-1 tvg-id="IsaiAruvi.in@SD",Isai Aruvi (576p)
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 tvg-id="IsaiAruvi.in@SD" group-title="ALL INDIA FREE",Isai Aruvi (480p)
+#EXTINF:-1 tvg-id="IsaiAruvi.in@SD",Isai Aruvi (480p)
 https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="IsharaTV.in@SD" group-title="ALL INDIA FREE",Ishara TV (1080p)
+#EXTINF:-1 tvg-id="IsharaTV.in@SD",Ishara TV (1080p)
 https://epiconvh.akamaized.net/live/ishaara/master.m3u8
-#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" group-title="ALL INDIA FREE",Ishwar Bhakti TV (720p)
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD",Ishwar Bhakti TV (720p)
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="JaihindTV.in@SD" group-title="ALL INDIA FREE",Jaihind TV (396p)
+#EXTINF:-1 tvg-id="JaihindTV.in@SD",Jaihind TV (396p)
 https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="JanamTV.in@SD" group-title="ALL INDIA FREE",Janam TV (576p)
+#EXTINF:-1 tvg-id="JanamTV.in@SD",Janam TV (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="JantaTV.in@SD" group-title="ALL INDIA FREE",Janta TV (1080p)
+#EXTINF:-1 tvg-id="JantaTV.in@SD",Janta TV (1080p)
 https://live.jswk.online/IK_RTPM/live/index.m3u8
-#EXTINF:-1 tvg-id="JK24x7News.in@SD" group-title="ALL INDIA FREE",JK 24x7 News (720p)
+#EXTINF:-1 tvg-id="JK24x7News.in@SD",JK 24x7 News (720p)
 https://live.gulistannews.in/hls/jk.m3u8
-#EXTINF:-1 tvg-id="Jonack.in@SD" group-title="ALL INDIA FREE",Jonack TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Jonack.in@SD",Jonack TV (360p) [Not 24/7]
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 tvg-id="JyotishDuniya.in@SD" group-title="ALL INDIA FREE",Jyotish Duniya (1080p)
+#EXTINF:-1 tvg-id="JyotishDuniya.in@SD",Jyotish Duniya (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jyotish-duniya/master.m3u8
-#EXTINF:-1 tvg-id="KNewsIndia.in@SD" group-title="ALL INDIA FREE",K News India (1080p)
+#EXTINF:-1 tvg-id="KNewsIndia.in@SD",K News India (1080p)
 https://knews.livebox.co.in/youtubehls/live.m3u8
-#EXTINF:-1 tvg-id="KairaliTV.in@SD" group-title="ALL INDIA FREE",Kairali TV (576p)
+#EXTINF:-1 tvg-id="KairaliTV.in@SD",Kairali TV (576p)
 https://mumt01.tangotv.in/KAIRALI/index.m3u8
-#EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" group-title="ALL INDIA FREE",Kalaignar Murasu (396p) [Not 24/7]
+#EXTINF:-1 tvg-id="KalaignarMurasu.in@SD",Kalaignar Murasu (396p) [Not 24/7]
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-#EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" group-title="ALL INDIA FREE",Kalaignar Murasu (396p)
+#EXTINF:-1 tvg-id="KalaignarMurasu.in@SD",Kalaignar Murasu (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
-#EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" group-title="ALL INDIA FREE",Kalaignar Seithigal (720p)
+#EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD",Kalaignar Seithigal (720p)
 https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
-#EXTINF:-1 tvg-id="KalaignarTV.in@SD" group-title="ALL INDIA FREE",Kalaignar TV (396p)
+#EXTINF:-1 tvg-id="KalaignarTV.in@SD",Kalaignar TV (396p)
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-#EXTINF:-1 tvg-id="KalingaTV.in@SD" group-title="ALL INDIA FREE",Kalinga TV (720p)
+#EXTINF:-1 tvg-id="KalingaTV.in@SD",Kalinga TV (720p)
 https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="KannurVision.in@SD" group-title="ALL INDIA FREE",Kannur Vision (1080p)
+#EXTINF:-1 tvg-id="KannurVision.in@SD",Kannur Vision (1080p)
 https://stream.logichost.in/kannurvision/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KashishNews.in@SD" group-title="ALL INDIA FREE",Kashish News (720p)
+#EXTINF:-1 tvg-id="KashishNews.in@SD",Kashish News (720p)
 https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
-#EXTINF:-1 tvg-id="KaumudyTV.in@SD" group-title="ALL INDIA FREE",Kaumudy TV (720p)
+#EXTINF:-1 tvg-id="KaumudyTV.in@SD",Kaumudy TV (720p)
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KCLTV.in@SD" group-title="ALL INDIA FREE",KCL TV (720p)
+#EXTINF:-1 tvg-id="KCLTV.in@SD",KCL TV (720p)
 https://kcltv.livebox.co.in/kclhls/live.m3u8
-#EXTINF:-1 tvg-id="KeralaVision.in@SD" group-title="ALL INDIA FREE",Kerala Vision (576p)
+#EXTINF:-1 tvg-id="KeralaVision.in@SD",Kerala Vision (576p)
 https://mumt03.tangotv.in/KERALAVISION/index.m3u8
-#EXTINF:-1 tvg-id="KiteVicters.in@SD" group-title="ALL INDIA FREE",KITE Victers (Kerala) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="KiteVicters.in@SD",KITE Victers (Kerala) (720p) [Not 24/7]
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KolkataTV.in@SD" group-title="ALL INDIA FREE",Kolkata TV (1080p)
+#EXTINF:-1 tvg-id="KolkataTV.in@SD",Kolkata TV (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
-#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD" group-title="ALL INDIA FREE",Living India News (1080p)
+#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD",Living India News (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8
-#EXTINF:-1 tvg-id="LokshahiNews.in@SD" group-title="ALL INDIA FREE",Lokshahi News (1080p)
+#EXTINF:-1 tvg-id="LokshahiNews.in@SD",Lokshahi News (1080p)
 https://see.lokshahi.live/live/index.m3u8
-#EXTINF:-1 tvg-id="MSignMedia.in@SD" group-title="ALL INDIA FREE",M Sign Media (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MSignMedia.in@SD",M Sign Media (720p) [Not 24/7]
 http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8
-#EXTINF:-1 tvg-id="MadhaTV.in@SD" group-title="ALL INDIA FREE",Madha TV (600p)
+#EXTINF:-1 tvg-id="MadhaTV.in@SD",Madha TV (600p)
 https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8
-#EXTINF:-1 tvg-id="MahaaMax.in@SD" group-title="ALL INDIA FREE",Mahaa Max (1080p)
+#EXTINF:-1 tvg-id="MahaaMax.in@SD",Mahaa Max (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-max/index.m3u8
-#EXTINF:-1 tvg-id="MahaaNews.in@SD" group-title="ALL INDIA FREE",Mahaa News (720p)
+#EXTINF:-1 tvg-id="MahaaNews.in@SD",Mahaa News (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-news/index.m3u8
-#EXTINF:-1 tvg-id="Maiboli.in@SD" group-title="ALL INDIA FREE",Maiboli (576p)
+#EXTINF:-1 tvg-id="Maiboli.in@SD",Maiboli (576p)
 https://mumt01.tangotv.in/MAIBOLI/index.m3u8
-#EXTINF:-1 tvg-id="MakkalTV.in@SD" group-title="ALL INDIA FREE",Makkal TV (576i)
+#EXTINF:-1 tvg-id="MakkalTV.in@SD",Makkal TV (576i)
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MalabarNews.in@SD" group-title="ALL INDIA FREE",Malabar News (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MalabarNews.in@SD",Malabar News (720p) [Not 24/7]
 http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
-#EXTINF:-1 tvg-id="MalabarNews.in@SD" group-title="ALL INDIA FREE",Malabar News (720p)
+#EXTINF:-1 tvg-id="MalabarNews.in@SD",Malabar News (720p)
 http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
-#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" group-title="ALL INDIA FREE",Malai Murasu TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD",Malai Murasu TV (1080p) [Geo-blocked]
 https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="MangoMobileTV.in@HD" group-title="ALL INDIA FREE",Mango Mobile TV (1080p)
+#EXTINF:-1 tvg-id="MangoMobileTV.in@HD",Mango Mobile TV (1080p)
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
-#EXTINF:-1 tvg-id="ManoramaNews.in@SD" group-title="ALL INDIA FREE",Manorama News (1080p)
+#EXTINF:-1 tvg-id="ManoramaNews.in@SD",Manorama News (1080p)
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
-#EXTINF:-1 tvg-id="Mastiii.in@SD" group-title="ALL INDIA FREE",Mastiii (576p)
+#EXTINF:-1 tvg-id="Mastiii.in@SD",Mastiii (576p)
 https://mumt02.tangotv.in/MASTIII/index.m3u8
-#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" group-title="ALL INDIA FREE",Mathrubhumi News (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD",Mathrubhumi News (576p) [Not 24/7]
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ALL INDIA FREE",Max Middle East (1080p)
+#EXTINF:-1 tvg-id="",Max Middle East (1080p)
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 https://nxtlive.net/sliv/stream.php?e=.m3u8&id=94312380256
-#EXTINF:-1 tvg-id="Mayyazhi.in@SD" group-title="ALL INDIA FREE",Mayyazhi (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Mayyazhi.in@SD",Mayyazhi (720p) [Not 24/7]
 http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MazhavilManorama.in@SD" group-title="ALL INDIA FREE",Mazhavil Manorama (396p)
+#EXTINF:-1 tvg-id="MazhavilManorama.in@SD",Mazhavil Manorama (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-#EXTINF:-1 tvg-id="MercyTV.in@SD" group-title="ALL INDIA FREE",Mercy TV (1080p)
+#EXTINF:-1 tvg-id="MercyTV.in@SD",Mercy TV (1080p)
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.in@SD" group-title="ALL INDIA FREE",Metro TV (1080p)
+#EXTINF:-1 tvg-id="MetroTV.in@SD",Metro TV (1080p)
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="Mh1News.in@SD" group-title="ALL INDIA FREE",Mh 1 News (360p)
+#EXTINF:-1 tvg-id="Mh1News.in@SD",Mh 1 News (360p)
 https://livestream.jswk.online/mhonenews/live/index.m3u8
-#EXTINF:-1 tvg-id="MHOneDilSe.in@SD" group-title="ALL INDIA FREE",MH One Dil Se (576p)
+#EXTINF:-1 tvg-id="MHOneDilSe.in@SD",MH One Dil Se (576p)
 https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
-#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" group-title="ALL INDIA FREE",MH One Shraddha (360p)
+#EXTINF:-1 tvg-id="MHOneShraddha.in@SD",MH One Shraddha (360p)
 https://paramount.jswk.online/shraddhamhone/index.m3u8
-#EXTINF:-1 tvg-id="MirrorNow.in@SD" group-title="ALL INDIA FREE",Mirror Now (720p)
+#EXTINF:-1 tvg-id="MirrorNow.in@SD",Mirror Now (720p)
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
-#EXTINF:-1 tvg-id="MirrorNow.in@SD" group-title="ALL INDIA FREE",Mirror Now (720p)
+#EXTINF:-1 tvg-id="MirrorNow.in@SD",Mirror Now (720p)
 https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
-#EXTINF:-1 tvg-id="MarutamTV.in@SD" group-title="ALL INDIA FREE",MNTV (1080p)
+#EXTINF:-1 tvg-id="MarutamTV.in@SD",MNTV (1080p)
 https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1 tvg-id="MarutamMusic.in@SD" group-title="ALL INDIA FREE",MNTV Music (1080p)
+#EXTINF:-1 tvg-id="MarutamMusic.in@SD",MNTV Music (1080p)
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-id="MONTVBangla.in@SD" group-title="ALL INDIA FREE",MON TV Bangla (720p)
+#EXTINF:-1 tvg-id="MONTVBangla.in@SD",MON TV Bangla (720p)
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-#EXTINF:-1 tvg-id="MoonTV.in@SD" group-title="ALL INDIA FREE",Moon TV (720p)
+#EXTINF:-1 tvg-id="MoonTV.in@SD",Moon TV (720p)
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
-#EXTINF:-1 tvg-id="MTV.in@SD" group-title="ALL INDIA FREE",MTV (1080p)
+#EXTINF:-1 tvg-id="MTV.in@SD",MTV (1080p)
 http://103.253.18.58:8000/play/a01t
-#EXTINF:-1 tvg-id="MunsifTV.in@SD" group-title="ALL INDIA FREE",Munsif TV (720p)
+#EXTINF:-1 tvg-id="MunsifTV.in@SD",Munsif TV (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/e5ae862b-c65c-4b17-b9a8-038853525c64/0.m3u8
-#EXTINF:-1 tvg-id="NamdhariTV.in@SD" group-title="ALL INDIA FREE",Namdhari (404p) [Not 24/7]
+#EXTINF:-1 tvg-id="NamdhariTV.in@SD",Namdhari (404p) [Not 24/7]
 https://namdhari.tv/live/sbs1.m3u8
-#EXTINF:-1 tvg-id="NandighoshaTV.in@SD" group-title="ALL INDIA FREE",Nandighosha TV (720p)
+#EXTINF:-1 tvg-id="NandighoshaTV.in@SD",Nandighosha TV (720p)
 https://www.nandighoshatvlive.com/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="Nazara.in@SD" group-title="ALL INDIA FREE",Nazara (1080p)
+#EXTINF:-1 tvg-id="Nazara.in@SD",Nazara (1080p)
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
-#EXTINF:-1 tvg-id="NCV.in@SD" group-title="ALL INDIA FREE",NCV (720p)
+#EXTINF:-1 tvg-id="NCV.in@SD",NCV (720p)
 http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
-#EXTINF:-1 tvg-id="NDTV24x7.in@SD" group-title="ALL INDIA FREE",NDTV 24X7 (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="NDTV24x7.in@SD",NDTV 24X7 (480p) [Not 24/7]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" group-title="ALL INDIA FREE",NDTV Good Times (1080p)
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD",NDTV Good Times (1080p)
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="NDTVIndia.in@SD" group-title="ALL INDIA FREE",NDTV India (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD",NDTV India (480p) [Not 24/7]
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in@SD" group-title="ALL INDIA FREE",NDTV Madhya Pradesh Chhattisgarh (1080p)
+#EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in@SD",NDTV Madhya Pradesh Chhattisgarh (1080p)
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
-#EXTINF:-1 tvg-id="NDTVMarathi.in@SD" group-title="ALL INDIA FREE",NDTV Marathi (1080p)
+#EXTINF:-1 tvg-id="NDTVMarathi.in@SD",NDTV Marathi (1080p)
 #EXTVLCOPT:http-referrer=https://marathi.ndtv.com/
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in@SD" group-title="ALL INDIA FREE",NDTV Profit (1080p)
+#EXTINF:-1 tvg-id="NDTVProfit.in@SD",NDTV Profit (1080p)
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in@HD" group-title="ALL INDIA FREE",NDTV Profit (1080p)
+#EXTINF:-1 tvg-id="NDTVProfit.in@HD",NDTV Profit (1080p)
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
-#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD" group-title="ALL INDIA FREE",NDTV Rajasthan (1080p)
+#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD",NDTV Rajasthan (1080p)
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
-#EXTINF:-1 tvg-id="News7Tamil.in@SD" group-title="ALL INDIA FREE",News 7 Tamil (576p)
+#EXTINF:-1 tvg-id="News7Tamil.in@SD",News 7 Tamil (576p)
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
-#EXTINF:-1 tvg-id="News9Live.in@SD" group-title="ALL INDIA FREE",News9Live (720p)
+#EXTINF:-1 tvg-id="News9Live.in@SD",News9Live (720p)
 https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
-#EXTINF:-1 tvg-id="News18AssamNorthEast.in@SD" group-title="ALL INDIA FREE",News18 Assam North-East (1080p)
+#EXTINF:-1 tvg-id="News18AssamNorthEast.in@SD",News18 Assam North-East (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18Bangla.in@SD" group-title="ALL INDIA FREE",News18 Bangla (1080p)
+#EXTINF:-1 tvg-id="News18Bangla.in@SD",News18 Bangla (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18BiharJharkhand.in@SD" group-title="ALL INDIA FREE",News18 Bihar Jharkhand (1080p)
+#EXTINF:-1 tvg-id="News18BiharJharkhand.in@SD",News18 Bihar Jharkhand (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18Gujarati.in@SD" group-title="ALL INDIA FREE",News18 Gujarati (1080p)
+#EXTINF:-1 tvg-id="News18Gujarati.in@SD",News18 Gujarati (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18India.in@SD" group-title="ALL INDIA FREE",News18 India (1080p)
+#EXTINF:-1 tvg-id="News18India.in@SD",News18 India (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18JKLH.in@SD" group-title="ALL INDIA FREE",News18 JKLH (1080p)
+#EXTINF:-1 tvg-id="News18JKLH.in@SD",News18 JKLH (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18Kannada.in@SD" group-title="ALL INDIA FREE",News18 Kannada (1080p)
+#EXTINF:-1 tvg-id="News18Kannada.in@SD",News18 Kannada (1080p)
 #EXTVLCOPT:http-referrer=https://kannada.news18.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18Kerala.in@SD" group-title="ALL INDIA FREE",News18 Kerala (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="News18Kerala.in@SD",News18 Kerala (1080p) [Geo-blocked]
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="News18Kerala.in@SD" group-title="ALL INDIA FREE",News18 Kerala (1080p)
+#EXTINF:-1 tvg-id="News18Kerala.in@SD",News18 Kerala (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18Lokmat.in@SD" group-title="ALL INDIA FREE",News18 Lokmat (1080p)
+#EXTINF:-1 tvg-id="News18Lokmat.in@SD",News18 Lokmat (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18MadhyaPradeshChhattisgarh.in@SD" group-title="ALL INDIA FREE",News18 Madhya Pradesh/Chhattisgarh (1080p)
+#EXTINF:-1 tvg-id="News18MadhyaPradeshChhattisgarh.in@SD",News18 Madhya Pradesh/Chhattisgarh (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18Odia.in@SD" group-title="ALL INDIA FREE",News18 Odia (1080p)
+#EXTINF:-1 tvg-id="News18Odia.in@SD",News18 Odia (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18PunjabHaryanaHimachal.in@SD" group-title="ALL INDIA FREE",News18 Punjab/Haryana/Himachal (1080p)
+#EXTINF:-1 tvg-id="News18PunjabHaryanaHimachal.in@SD",News18 Punjab/Haryana/Himachal (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18Rajasthan.in@SD" group-title="ALL INDIA FREE",News18 Rajasthan (1080p)
+#EXTINF:-1 tvg-id="News18Rajasthan.in@SD",News18 Rajasthan (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18TamilNadu.in@SD" group-title="ALL INDIA FREE",News18 Tamil Nadu (1080p)
+#EXTINF:-1 tvg-id="News18TamilNadu.in@SD",News18 Tamil Nadu (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18Urdu.in@SD" group-title="ALL INDIA FREE",News18 Urdu (1080p)
+#EXTINF:-1 tvg-id="News18Urdu.in@SD",News18 Urdu (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in@SD" group-title="ALL INDIA FREE",News18 Uttar Pradesh Uttarakhand (1080p)
+#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in@SD",News18 Uttar Pradesh Uttarakhand (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News24.in@SD" group-title="ALL INDIA FREE",News 24 (720p)
+#EXTINF:-1 tvg-id="News24.in@SD",News 24 (720p)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsIndia24x7.in@SD" group-title="ALL INDIA FREE",News India 24x7 (1080p)
+#EXTINF:-1 tvg-id="NewsIndia24x7.in@SD",News India 24x7 (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8
-#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" group-title="ALL INDIA FREE",News Malayalam 24x7 (1080p)
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD",News Malayalam 24x7 (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8
-#EXTINF:-1 tvg-id="NewsNation.in@SD" group-title="ALL INDIA FREE",News Nation (1080p)
+#EXTINF:-1 tvg-id="NewsNation.in@SD",News Nation (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" group-title="ALL INDIA FREE",News Tamil 24x7 (1080p)
+#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD",News Tamil 24x7 (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
-#EXTINF:-1 tvg-id="NewsX.in@SD" group-title="ALL INDIA FREE",News X (1080p)
+#EXTINF:-1 tvg-id="NewsX.in@SD",News X (1080p)
 https://newsxott.in/hls/newsx.m3u8
-#EXTINF:-1 tvg-id="NewsXWorld.in@HD" group-title="ALL INDIA FREE",NewsX World (1080p)
+#EXTINF:-1 tvg-id="NewsXWorld.in@HD",NewsX World (1080p)
 #EXTVLCOPT:http-referrer=https://newsxott.in/embed.html?channel=newsxworld
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://newsxott.in/hls/newsxworld.m3u8
-#EXTINF:-1 tvg-id="NKTV24x7.in@SD" group-title="ALL INDIA FREE",NK TV 24x7 (1080p)
+#EXTINF:-1 tvg-id="NKTV24x7.in@SD",NK TV 24x7 (1080p)
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
-#EXTINF:-1 tvg-id="NortheastLive.in@HD" group-title="ALL INDIA FREE",Northeast Live (720p)
+#EXTINF:-1 tvg-id="NortheastLive.in@HD",Northeast Live (720p)
 #EXTVLCOPT:http-referrer=https://server.thelegitpro.in/northeastlive/northeastlive/embed.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="NTCTV.in@SD" group-title="ALL INDIA FREE",NTC TV (720p)
+#EXTINF:-1 tvg-id="NTCTV.in@SD",NTC TV (720p)
 https://galaxyott.live/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="NTVTelugu.in@SD" group-title="ALL INDIA FREE",NTV Telugu (576p)
+#EXTINF:-1 tvg-id="NTVTelugu.in@SD",NTV Telugu (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
-#EXTINF:-1 tvg-id="OdishaTV.in@SD" group-title="ALL INDIA FREE",Odisha TV (720p)
+#EXTINF:-1 tvg-id="OdishaTV.in@SD",Odisha TV (720p)
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="OMTV.in@SD" group-title="ALL INDIA FREE",OM TV (576p)
+#EXTINF:-1 tvg-id="OMTV.in@SD",OM TV (576p)
 https://mumt01.tangotv.in/OMTV/index.m3u8
-#EXTINF:-1 tvg-id="PasandTV.in@SD" group-title="ALL INDIA FREE",Pasand TV (576p)
+#EXTINF:-1 tvg-id="PasandTV.in@SD",Pasand TV (576p)
 https://mumt01.tangotv.in/PASANDTV/index.m3u8
-#EXTINF:-1 tvg-id="Pitaara.in@SD" group-title="ALL INDIA FREE",Pitaara (720p)
+#EXTINF:-1 tvg-id="Pitaara.in@SD",Pitaara (720p)
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-#EXTINF:-1 tvg-id="PolimerNews.in@SD" group-title="ALL INDIA FREE",Polimer News (720p)
+#EXTINF:-1 tvg-id="PolimerNews.in@SD",Polimer News (720p)
 https://live-cf-polimernews.dailyhunt.in/master.m3u8
-#EXTINF:-1 tvg-id="PolimerNews.in@SD" group-title="ALL INDIA FREE",Polimer News (576p)
+#EXTINF:-1 tvg-id="PolimerNews.in@SD",Polimer News (576p)
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTV.in@SD" group-title="ALL INDIA FREE",Power TV (576p)
+#EXTINF:-1 tvg-id="PowerTV.in@SD",Power TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://powertvkannada.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PrameyaNews7.in@SD" group-title="ALL INDIA FREE",Prameya News7 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="PrameyaNews7.in@SD",Prameya News7 (1080p) [Not 24/7]
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prameya-news7/index.m3u8?ads.dpname=distrotv
-#EXTINF:-1 tvg-id="PrarthanaTV.in@SD" group-title="ALL INDIA FREE",Prarthana TV (720p)
+#EXTINF:-1 tvg-id="PrarthanaTV.in@SD",Prarthana TV (720p)
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PrathamKhabar24x7.in@SD" group-title="ALL INDIA FREE",Pratham Khabar 24x7 (576p)
+#EXTINF:-1 tvg-id="PrathamKhabar24x7.in@SD",Pratham Khabar 24x7 (576p)
 https://livelegitpro.in/hls2/newstime/index.m3u8
-#EXTINF:-1 tvg-id="PratidinTime.in@SD" group-title="ALL INDIA FREE",Pratidin Time (576p)
+#EXTINF:-1 tvg-id="PratidinTime.in@SD",Pratidin Time (576p)
 https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="PravasiChannel.in@SD" group-title="ALL INDIA FREE",Pravasi Channel (1080p)
+#EXTINF:-1 tvg-id="PravasiChannel.in@SD",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Prime9News.in@SD" group-title="ALL INDIA FREE",Prime9 News (1080p)
+#EXTINF:-1 tvg-id="Prime9News.in@SD",Prime9 News (1080p)
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
-#EXTINF:-1 tvg-id="PrudentMedia.in@SD" group-title="ALL INDIA FREE",Prudent Media (1080p)
+#EXTINF:-1 tvg-id="PrudentMedia.in@SD",Prudent Media (1080p)
 https://prudentmcdn.rixcast.com/prudentm.m3u8
-#EXTINF:-1 tvg-id="PTCDholTV.in@SD" group-title="ALL INDIA FREE",PTC Dhol (720p)
+#EXTINF:-1 tvg-id="PTCDholTV.in@SD",PTC Dhol (720p)
 https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCMusic.in@SD" group-title="ALL INDIA FREE",PTC Music (720p)
+#EXTINF:-1 tvg-id="PTCMusic.in@SD",PTC Music (720p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1 tvg-id="PTCPunjabi.in@SD" group-title="ALL INDIA FREE",PTC Punjabi (1080p)
+#EXTINF:-1 tvg-id="PTCPunjabi.in@SD",PTC Punjabi (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
-#EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD" group-title="ALL INDIA FREE",PTC Punjabi Gold (1080p)
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD",PTC Punjabi Gold (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
-#EXTINF:-1 tvg-id="PublicMovies.in@SD" group-title="ALL INDIA FREE",Public Movies (576p)
+#EXTINF:-1 tvg-id="PublicMovies.in@SD",Public Movies (576p)
 https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="PulariTV.in@SD" group-title="ALL INDIA FREE",Pulari TV (720p)
+#EXTINF:-1 tvg-id="PulariTV.in@SD",Pulari TV (720p)
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-#EXTINF:-1 tvg-id="PunjabiHits.in@SD" group-title="ALL INDIA FREE",Punjabi Hits (1080p)
+#EXTINF:-1 tvg-id="PunjabiHits.in@SD",Punjabi Hits (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
-#EXTINF:-1 tvg-id="PunjabiZindabadTV.in@SD" group-title="ALL INDIA FREE",Punjabi Zindabad (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="PunjabiZindabadTV.in@SD",Punjabi Zindabad (360p) [Not 24/7]
 http://stream.pztv.online/pztv/playlist.m3u8
-#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" group-title="ALL INDIA FREE",Puthiya Thalaimurai (576p)
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-#EXTINF:-1 tvg-id="PuthuyugamTV.in@SD" group-title="ALL INDIA FREE",Puthuyugam TV (576p)
+#EXTINF:-1 tvg-id="PuthuyugamTV.in@SD",Puthuyugam TV (576p)
 https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
-#EXTINF:-1 tvg-id="RPlus.in@SD" group-title="ALL INDIA FREE",R Plus (768p)
+#EXTINF:-1 tvg-id="RPlus.in@SD",R Plus (768p)
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1 tvg-id="RaftaarMedia.in@SD" group-title="ALL INDIA FREE",Raftaar Media (240p)
+#EXTINF:-1 tvg-id="RaftaarMedia.in@SD",Raftaar Media (240p)
 https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RajMusixMalayalam.in@SD" group-title="ALL INDIA FREE",Raj Musix Malayalam (576p)
+#EXTINF:-1 tvg-id="RajMusixMalayalam.in@SD",Raj Musix Malayalam (576p)
 https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
-#EXTINF:-1 tvg-id="RajTV.in@SD" group-title="ALL INDIA FREE",Raj TV
+#EXTINF:-1 tvg-id="RajTV.in@SD",Raj TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
-#EXTINF:-1 tvg-id="RDXGoa.in@SD" group-title="ALL INDIA FREE",RDX Goa (720p)
+#EXTINF:-1 tvg-id="RDXGoa.in@SD",RDX Goa (720p)
 https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RealNewsKerala.in@SD" group-title="ALL INDIA FREE",Real News Kerala (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RealNewsKerala.in@SD",Real News Kerala (1080p) [Not 24/7]
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ReporterTV.in@SD" group-title="ALL INDIA FREE",Reporter TV (576p)
+#EXTINF:-1 tvg-id="ReporterTV.in@SD",Reporter TV (576p)
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
-#EXTINF:-1 tvg-id="RepublicBangla.in@SD" group-title="ALL INDIA FREE",Republic Bangla (1080p)
+#EXTINF:-1 tvg-id="RepublicBangla.in@SD",Republic Bangla (1080p)
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
-#EXTINF:-1 tvg-id="RepublicBharat.in@SD" group-title="ALL INDIA FREE",Republic Bharat (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RepublicBharat.in@SD",Republic Bharat (1080p) [Geo-blocked]
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
-#EXTINF:-1 tvg-id="RepublicKannada.in@SD" group-title="ALL INDIA FREE",Republic Kannada (1080p)
+#EXTINF:-1 tvg-id="RepublicKannada.in@SD",Republic Kannada (1080p)
 https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
-#EXTINF:-1 tvg-id="RepublicTV.in@SD" group-title="ALL INDIA FREE",Republic TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RepublicTV.in@SD",Republic TV (1080p) [Geo-blocked]
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
-#EXTINF:-1 tvg-id="RepublicTV.in@SD" group-title="ALL INDIA FREE",Republic TV (1080p)
+#EXTINF:-1 tvg-id="RepublicTV.in@SD",Republic TV (1080p)
 https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
-#EXTINF:-1 tvg-id="RojaMovies.in@SD" group-title="ALL INDIA FREE",Roja Movies (1080p)
+#EXTINF:-1 tvg-id="RojaMovies.in@SD",Roja Movies (1080p)
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="RojaTV.in@SD" group-title="ALL INDIA FREE",Roja TV (1080p)
+#EXTINF:-1 tvg-id="RojaTV.in@SD",Roja TV (1080p)
 https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="RongeenTV.in@SD" group-title="ALL INDIA FREE",Rongeen TV (720p)
+#EXTINF:-1 tvg-id="RongeenTV.in@SD",Rongeen TV (720p)
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-#EXTINF:-1 tvg-id="RTIndia.in@HD" group-title="ALL INDIA FREE",RT India (1080p)
+#EXTINF:-1 tvg-id="RTIndia.in@HD",RT India (1080p)
 https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
-#EXTINF:-1 tvg-id="SADATV.in@SD" group-title="ALL INDIA FREE",Sada TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SADATV.in@SD",Sada TV (1080p) [Not 24/7]
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-#EXTINF:-1 tvg-id="Sadhna.in@SD" group-title="ALL INDIA FREE",Sadhna (720p)
+#EXTINF:-1 tvg-id="Sadhna.in@SD",Sadhna (720p)
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SadhnaPlusNews.in@SD" group-title="ALL INDIA FREE",Sadhna Plus News (720p)
+#EXTINF:-1 tvg-id="SadhnaPlusNews.in@SD",Sadhna Plus News (720p)
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SafariTV.in@SD" group-title="ALL INDIA FREE",Safari TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="SafariTV.in@SD",Safari TV (480p) [Not 24/7]
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SaiTV.in@SD" group-title="ALL INDIA FREE",Sai TV (1080p)
+#EXTINF:-1 tvg-id="SaiTV.in@SD",Sai TV (1080p)
 https://account30.livebox.co.in/saitvhls/live.m3u8
-#EXTINF:-1 tvg-id="SakshiTV.in@SD" group-title="ALL INDIA FREE",Sakshi TV (576p)
+#EXTINF:-1 tvg-id="SakshiTV.in@SD",Sakshi TV (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
-#EXTINF:-1 tvg-id="SalaamTV.in@SD" group-title="ALL INDIA FREE",Salaam TV (720p)
+#EXTINF:-1 tvg-id="SalaamTV.in@SD",Salaam TV (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
-#EXTINF:-1 tvg-id="SalvationTV.in@SD" group-title="ALL INDIA FREE",Salvation TV (1080p)
+#EXTINF:-1 tvg-id="SalvationTV.in@SD",Salvation TV (1080p)
 https://ktismaservers.in:3902/live/salvationtvlive.m3u8
-#EXTINF:-1 tvg-id="SamayKolkata.in@SD" group-title="ALL INDIA FREE",Samay Kolkata (720p)
+#EXTINF:-1 tvg-id="SamayKolkata.in@SD",Samay Kolkata (720p)
 https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
-#EXTINF:-1 tvg-id="SanaPlus.in@SD" group-title="ALL INDIA FREE",Sana Plus (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SanaPlus.in@SD",Sana Plus (1080p) [Not 24/7]
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="SanaTV.in@SD" group-title="ALL INDIA FREE",Sana TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="SanaTV.in@SD",Sana TV (576p) [Not 24/7]
 https://galaxyott.live/hls/sanatv.m3u8
-#EXTINF:-1 tvg-id="SandeshNews.in@SD" group-title="ALL INDIA FREE",Sandesh News (1080p)
+#EXTINF:-1 tvg-id="SandeshNews.in@SD",Sandesh News (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sandesh-news/index.m3u8
-#EXTINF:-1 tvg-id="SansadTV1.in@SD" group-title="ALL INDIA FREE",Sansad TV 1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SansadTV1.in@SD",Sansad TV 1 (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
-#EXTINF:-1 tvg-id="SansadTV1.in@SD" group-title="ALL INDIA FREE",Sansad TV 1 (1080p)
+#EXTINF:-1 tvg-id="SansadTV1.in@SD",Sansad TV 1 (1080p)
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
-#EXTINF:-1 tvg-id="SansadTV2.in@HD" group-title="ALL INDIA FREE",Sansad TV 2 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SansadTV2.in@HD",Sansad TV 2 (1080p) [Not 24/7]
 https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
-#EXTINF:-1 tvg-id="SansadTV2.in@HD" group-title="ALL INDIA FREE",Sansad TV 2 (1080p)
+#EXTINF:-1 tvg-id="SansadTV2.in@HD",Sansad TV 2 (1080p)
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8
-#EXTINF:-1 tvg-id="SanskarTV.in@SD" group-title="ALL INDIA FREE",Sanskar TV (1080p)
+#EXTINF:-1 tvg-id="SanskarTV.in@SD",Sanskar TV (1080p)
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
-#EXTINF:-1 tvg-id="SanskarUK.in@SD" group-title="ALL INDIA FREE",Sanskar UK (1080p)
+#EXTINF:-1 tvg-id="SanskarUK.in@SD",Sanskar UK (1080p)
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
-#EXTINF:-1 tvg-id="SanskarUSA.in@SD" group-title="ALL INDIA FREE",Sanskar USA (1080p)
+#EXTINF:-1 tvg-id="SanskarUSA.in@SD",Sanskar USA (1080p)
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
-#EXTINF:-1 tvg-id="SanskarWebTV.in@SD" group-title="ALL INDIA FREE",Sanskar Web TV (1080p)
+#EXTINF:-1 tvg-id="SanskarWebTV.in@SD",Sanskar Web TV (1080p)
 https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
-#EXTINF:-1 tvg-id="SathiyamTV.in@SD" group-title="ALL INDIA FREE",Sathiyam TV (720p)
+#EXTINF:-1 tvg-id="SathiyamTV.in@SD",Sathiyam TV (720p)
 https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
-#EXTINF:-1 tvg-id="SatsangTV.in@SD" group-title="ALL INDIA FREE",Satsang TV (1080p)
+#EXTINF:-1 tvg-id="SatsangTV.in@SD",Satsang TV (1080p)
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
-#EXTINF:-1 tvg-id="SatsangWebTV.in@SD" group-title="ALL INDIA FREE",Satsang Web TV (1080p)
+#EXTINF:-1 tvg-id="SatsangWebTV.in@SD",Satsang Web TV (1080p)
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
-#EXTINF:-1 tvg-id="ShaliniTV.in@SD" group-title="ALL INDIA FREE",Shalini TV (576p)
+#EXTINF:-1 tvg-id="ShaliniTV.in@SD",Shalini TV (576p)
 https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1 tvg-id="Shalom.in@SD" group-title="ALL INDIA FREE",Shalom (1080p)
+#EXTINF:-1 tvg-id="Shalom.in@SD",Shalom (1080p)
 https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="Shalom.in@Global" group-title="ALL INDIA FREE",Shalom Global (1080p)
+#EXTINF:-1 tvg-id="Shalom.in@Global",Shalom Global (1080p)
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="ShekinahTV.in@SD" group-title="ALL INDIA FREE",Shekinah TV (1080p)
+#EXTINF:-1 tvg-id="ShekinahTV.in@SD",Shekinah TV (1080p)
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" group-title="ALL INDIA FREE",Shemaroo Josh (720p)
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD",Shemaroo Josh (720p)
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooMarathiBana.in@SD" group-title="ALL INDIA FREE",Shemaroo Marathi Bana (720p)
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in@SD",Shemaroo Marathi Bana (720p)
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooUmang.in@SD" group-title="ALL INDIA FREE",Shemaroo Umang (720p)
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD",Shemaroo Umang (720p)
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
-#EXTINF:-1 tvg-id="ShowBox.in@SD" group-title="ALL INDIA FREE",ShowBox
+#EXTINF:-1 tvg-id="ShowBox.in@SD",ShowBox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
-#EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" group-title="ALL INDIA FREE",Shubh Cinema TV (720p)
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD",Shubh Cinema TV (720p)
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
-#EXTINF:-1 tvg-id="ShubhTV.in@SD" group-title="ALL INDIA FREE",Shubh TV (1080p)
+#EXTINF:-1 tvg-id="ShubhTV.in@SD",Shubh TV (1080p)
 https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
-#EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD" group-title="ALL INDIA FREE",Shubhsandesh TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD",Shubhsandesh TV (720p) [Not 24/7]
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1 tvg-id="SiriKannada.in@SD" group-title="ALL INDIA FREE",Siri Kannada (576p)
+#EXTINF:-1 tvg-id="SiriKannada.in@SD",Siri Kannada (576p)
 https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
-#EXTINF:-1 tvg-id="SirippoliTV.in@SD" group-title="ALL INDIA FREE",Sirippoli TV (576p)
+#EXTINF:-1 tvg-id="SirippoliTV.in@SD",Sirippoli TV (576p)
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:-1 tvg-id="SirippoliTV.in@SD" group-title="ALL INDIA FREE",Sirippoli TV (480p)
+#EXTINF:-1 tvg-id="SirippoliTV.in@SD",Sirippoli TV (480p)
 https://edge2-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="SongdewTV.in@SD" group-title="ALL INDIA FREE",Songdew TV (720p)
+#EXTINF:-1 tvg-id="SongdewTV.in@SD",Songdew TV (720p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/hdntl=exp=1767018459~acl=/*~data=hdntl~hmac=85f3eb24914af4b01a9b5886a64ab34a6861689e7a16e85eac290f7dce45b41c/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="" group-title="ALL INDIA FREE",Sony Sports Ten 3 (576p)
+#EXTINF:-1 tvg-id="",Sony Sports Ten 3 (576p)
 http://103.253.18.58:8000/play/a00b
-#EXTINF:-1 tvg-id="" group-title="ALL INDIA FREE",Star Family (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="",Star Family (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-#EXTINF:-1 tvg-id="Starnet.in@SD" group-title="ALL INDIA FREE",Starnet (480p)
+#EXTINF:-1 tvg-id="Starnet.in@SD",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@SD" group-title="ALL INDIA FREE",StarPlus (576p)
+#EXTINF:-1 tvg-id="StarPlus.in@SD",StarPlus (576p)
 http://103.52.34.182:8001/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" group-title="ALL INDIA FREE",Steelbird Music (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SteelbirdMusic.in@SD",Steelbird Music (720p) [Not 24/7]
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-1 tvg-id="StudioYuva.in@SD" group-title="ALL INDIA FREE",Studio Yuva (576p)
+#EXTINF:-1 tvg-id="StudioYuva.in@SD",Studio Yuva (576p)
 https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
-#EXTINF:-1 tvg-id="SubhavaarthaTV.in@SD" group-title="ALL INDIA FREE",Subhavaartha TV (720p)
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in@SD",Subhavaartha TV (720p)
 https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SubinTV.in@SD" group-title="ALL INDIA FREE",Subin TV (1080p)
+#EXTINF:-1 tvg-id="SubinTV.in@SD",Subin TV (1080p)
 https://stream.galaxyott.live/live/subintv/index.m3u8
-#EXTINF:-1 tvg-id="SudarshanNews.in@SD" group-title="ALL INDIA FREE",Sudarshan News (1080p)
+#EXTINF:-1 tvg-id="SudarshanNews.in@SD",Sudarshan News (1080p)
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="SunBangla.in@SD" group-title="ALL INDIA FREE",Sun Bangla (576p)
+#EXTINF:-1 tvg-id="SunBangla.in@SD",Sun Bangla (576p)
 http://103.182.170.32:8888/play/a01v
-#EXTINF:-1 tvg-id="SunBangla.in@SD" group-title="ALL INDIA FREE",Sun Bangla (480p)
+#EXTINF:-1 tvg-id="SunBangla.in@SD",Sun Bangla (480p)
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
-#EXTINF:-1 tvg-id="SunMusic.in@HD" group-title="ALL INDIA FREE",Sun Music HD (720p)
+#EXTINF:-1 tvg-id="SunMusic.in@HD",Sun Music HD (720p)
 http://15.235.144.106:14055
-#EXTINF:-1 tvg-id="SuriyaTV.in@SD" group-title="ALL INDIA FREE",Suriya TV (1080p)
+#EXTINF:-1 tvg-id="SuriyaTV.in@SD",Suriya TV (1080p)
 https://galaxyott.live/hls/suryatv.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV.in@SD" group-title="ALL INDIA FREE",Suriyan TV (1080p)
+#EXTINF:-1 tvg-id="SuriyanTV.in@SD",Suriyan TV (1080p)
 https://stream.galaxyott.live/live/suriyantv/index.m3u8
-#EXTINF:-1 tvg-id="SVBC2.in@SD" group-title="ALL INDIA FREE",SVBC 2 (1080p)
+#EXTINF:-1 tvg-id="SVBC2.in@SD",SVBC 2 (1080p)
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SVBC3.in@SD" group-title="ALL INDIA FREE",SVBC 3 (720p)
+#EXTINF:-1 tvg-id="SVBC3.in@SD",SVBC 3 (720p)
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SVBC4.in@SD" group-title="ALL INDIA FREE",SVBC 4 (1080p)
+#EXTINF:-1 tvg-id="SVBC4.in@SD",SVBC 4 (1080p)
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SVBC.in@SD" group-title="ALL INDIA FREE",SVBC Sri Venkateswara Bhakti Channel (1080p)
+#EXTINF:-1 tvg-id="SVBC.in@SD",SVBC Sri Venkateswara Bhakti Channel (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Swantham.in@SD" group-title="ALL INDIA FREE",Swantham (576p)
+#EXTINF:-1 tvg-id="Swantham.in@SD",Swantham (576p)
 http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
-#EXTINF:-1 tvg-id="SwatantraTV.in@SD" group-title="ALL INDIA FREE",Swatantra TV (1080p)
+#EXTINF:-1 tvg-id="SwatantraTV.in@SD",Swatantra TV (1080p)
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
-#EXTINF:-1 tvg-id="TabbarHits.in@SD" group-title="ALL INDIA FREE",Tabbar Hits (1080p)
+#EXTINF:-1 tvg-id="TabbarHits.in@SD",Tabbar Hits (1080p)
 https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8
-#EXTINF:-1 tvg-id="TamilJanam.in@SD" group-title="ALL INDIA FREE",Tamil Janam (720p)
+#EXTINF:-1 tvg-id="TamilJanam.in@SD",Tamil Janam (720p)
 https://app.ashokadigital.net/app/324ea1b0/index.m3u8
-#EXTINF:-1 tvg-id="TamilanTV.in@SD" group-title="ALL INDIA FREE",Tamilan TV (1080p)
+#EXTINF:-1 tvg-id="TamilanTV.in@SD",Tamilan TV (1080p)
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TarangMusic.in@SD" group-title="ALL INDIA FREE",Tarang Music (720p)
+#EXTINF:-1 tvg-id="TarangMusic.in@SD",Tarang Music (720p)
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TarangTV.in@SD" group-title="ALL INDIA FREE",Tarang TV (720p)
+#EXTINF:-1 tvg-id="TarangTV.in@SD",Tarang TV (720p)
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TeluguOne.in@HD" group-title="ALL INDIA FREE",Telugu One (1080p)
+#EXTINF:-1 tvg-id="TeluguOne.in@HD",Telugu One (1080p)
 https://amg02821-amg02821c1-samsung-in-4717.playouts.now.amagi.tv/playlist/amg02821-objectone-teluguone-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="ThalaaTV.in@HD" group-title="ALL INDIA FREE",Thalaa TV (1080p)
+#EXTINF:-1 tvg-id="ThalaaTV.in@HD",Thalaa TV (1080p)
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
-#EXTINF:-1 tvg-id="ThanthiOne.in@SD" group-title="ALL INDIA FREE",Thanthi One (576p)
+#EXTINF:-1 tvg-id="ThanthiOne.in@SD",Thanthi One (576p)
 https://mumt02.tangotv.in/THANTHIONE/index.m3u8
-#EXTINF:-1 tvg-id="ThendralTV.in@SD" group-title="ALL INDIA FREE",Thendral TV (576p)
+#EXTINF:-1 tvg-id="ThendralTV.in@SD",Thendral TV (576p)
 https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="TimeVisionNews.in@SD" group-title="ALL INDIA FREE",Time Vision News (720p)
+#EXTINF:-1 tvg-id="TimeVisionNews.in@SD",Time Vision News (720p)
 http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8
-#EXTINF:-1 tvg-id="TimesNow.in@SD" group-title="ALL INDIA FREE",Times Now (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TimesNow.in@SD",Times Now (720p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
-#EXTINF:-1 tvg-id="TimesNow.in@SD" group-title="ALL INDIA FREE",Times Now [Geo-blocked]
+#EXTINF:-1 tvg-id="TimesNow.in@SD",Times Now [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
-#EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD" group-title="ALL INDIA FREE",Times Now Navbharat (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD",Times Now Navbharat (1080p) [Geo-blocked]
 https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD" group-title="ALL INDIA FREE",Times Now Navbharat (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD",Times Now Navbharat (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8
-#EXTINF:-1 tvg-id="TOIGlobal.in@SD" group-title="ALL INDIA FREE",TOI Global (1080p)
+#EXTINF:-1 tvg-id="TOIGlobal.in@SD",TOI Global (1080p)
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 tvg-id="TollyTV.in@HD" group-title="ALL INDIA FREE",Tolly TV (1080p)
+#EXTINF:-1 tvg-id="TollyTV.in@HD",Tolly TV (1080p)
 https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
-#EXTINF:-1 tvg-id="TotalBhakti.in@SD" group-title="ALL INDIA FREE",Total Bhakti (1080p)
+#EXTINF:-1 tvg-id="TotalBhakti.in@SD",Total Bhakti (1080p)
 https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@SD" group-title="ALL INDIA FREE",Travelxp (720p)
+#EXTINF:-1 tvg-id="Travelxp.in@SD",Travelxp (720p)
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@HD" group-title="ALL INDIA FREE",Travelxp HD (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Travelxp.in@HD",Travelxp HD (1080p) [Geo-blocked]
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@Netherlands" group-title="ALL INDIA FREE",Travelxp Netherlands
+#EXTINF:-1 tvg-id="Travelxp.in@Netherlands",Travelxp Netherlands
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ALL INDIA FREE",Tribe TV (720p)
+#EXTINF:-1 tvg-id="",Tribe TV (720p)
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 tvg-id="TV5News.in@SD" group-title="ALL INDIA FREE",TV5 News (576p)
+#EXTINF:-1 tvg-id="TV5News.in@SD",TV5 News (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9Bangla.in@SD" group-title="ALL INDIA FREE",TV9 Bangla (720p)
+#EXTINF:-1 tvg-id="TV9Bangla.in@SD",TV9 Bangla (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD" group-title="ALL INDIA FREE",TV9 Bharatvarsh (720p)
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9Gujarati.in@SD" group-title="ALL INDIA FREE",TV9 Gujarati (720p)
+#EXTINF:-1 tvg-id="TV9Gujarati.in@SD",TV9 Gujarati (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9Kannada.in@SD" group-title="ALL INDIA FREE",TV9 Kannada (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TV9Kannada.in@SD",TV9 Kannada (720p) [Not 24/7]
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9Marathi.in@SD" group-title="ALL INDIA FREE",TV9 Marathi (720p)
+#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9Telugu.in@SD" group-title="ALL INDIA FREE",TV9 Telugu (720p)
+#EXTINF:-1 tvg-id="TV9Telugu.in@SD",TV9 Telugu (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TV84.us@SD" group-title="ALL INDIA FREE",TV84 (480p)
+#EXTINF:-1 tvg-id="TV84.us@SD",TV84 (480p)
 https://cdn20.liveonlineservices.com/hls/tv84.m3u8
-#EXTINF:-1 tvg-id="TVPunjab.ca@SD" group-title="ALL INDIA FREE",TV Punjab (720p)
+#EXTINF:-1 tvg-id="TVPunjab.ca@SD",TV Punjab (720p)
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TwentyFourNews.in@SD" group-title="ALL INDIA FREE",Twenty Four News (396p)
+#EXTINF:-1 tvg-id="TwentyFourNews.in@SD",Twenty Four News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-#EXTINF:-1 tvg-id="UltimateTV.in@SD" group-title="ALL INDIA FREE",Ultimate TV (1080p)
+#EXTINF:-1 tvg-id="UltimateTV.in@SD",Ultimate TV (1080p)
 https://stream.galaxyott.live/live/utv/index.m3u8
-#EXTINF:-1 tvg-id="V6News.in@SD" group-title="ALL INDIA FREE",V6 News (576p)
+#EXTINF:-1 tvg-id="V6News.in@SD",V6 News (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
-#EXTINF:-1 tvg-id="VaanavilTV.in@SD" group-title="ALL INDIA FREE",Vaanavil TV (720p)
+#EXTINF:-1 tvg-id="VaanavilTV.in@SD",Vaanavil TV (720p)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VasanthTV.in@SD" group-title="ALL INDIA FREE",Vasanth TV (576p)
+#EXTINF:-1 tvg-id="VasanthTV.in@SD",Vasanth TV (576p)
 https://mumt04.tangotv.in/VASANTHTV/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ALL INDIA FREE",Vathanam TV
+#EXTINF:-1 tvg-id="",Vathanam TV
 http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
-#EXTINF:-1 tvg-id="VBCNews.in@SD" group-title="ALL INDIA FREE",VBC News (576p)
+#EXTINF:-1 tvg-id="VBCNews.in@SD",VBC News (576p)
 https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
-#EXTINF:-1 tvg-id="VCV.in@SD" group-title="ALL INDIA FREE",VCV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="VCV.in@SD",VCV (720p) [Not 24/7]
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
-#EXTINF:-1 tvg-id="Vedic.in@SD" group-title="ALL INDIA FREE",Vedic (480p)
+#EXTINF:-1 tvg-id="Vedic.in@SD",Vedic (480p)
 https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VenadNews.in@SD" group-title="ALL INDIA FREE",Venad News (360p)
+#EXTINF:-1 tvg-id="VenadNews.in@SD",Venad News (360p)
 https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
-#EXTINF:-1 tvg-id="VIPNews.in@SD" group-title="ALL INDIA FREE",VIP News (360p)
+#EXTINF:-1 tvg-id="VIPNews.in@SD",VIP News (360p)
 https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Vision.in@SD" group-title="ALL INDIA FREE",Vision (1080p)
+#EXTINF:-1 tvg-id="Vision.in@SD",Vision (1080p)
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVNews.in@SD" group-title="ALL INDIA FREE",VTV News (720p)
+#EXTINF:-1 tvg-id="VTVNews.in@SD",VTV News (720p)
 https://5b48d7e1b4bce.streamlock.net/myapp/vtvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVNews.in@SD" group-title="ALL INDIA FREE",VTV News (360p)
+#EXTINF:-1 tvg-id="VTVNews.in@SD",VTV News (360p)
 https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="VyasChannel.in@SD" group-title="ALL INDIA FREE",Vyas NIC (576p)
+#EXTINF:-1 tvg-id="VyasChannel.in@SD",Vyas NIC (576p)
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
-#EXTINF:-1 tvg-id="VyasChannel.in@SD" group-title="ALL INDIA FREE",Vyas NIC (480p)
+#EXTINF:-1 tvg-id="VyasChannel.in@SD",Vyas NIC (480p)
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
-#EXTINF:-1 tvg-id="WayanadVision.in@SD" group-title="ALL INDIA FREE",Wayanad Vision (1080p)
+#EXTINF:-1 tvg-id="WayanadVision.in@SD",Wayanad Vision (1080p)
 https://cloudsavre.in.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="WeOneKerala.in@SD" group-title="ALL INDIA FREE",We One Kerala (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WeOneKerala.in@SD",We One Kerala (720p) [Geo-blocked]
 http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" group-title="ALL INDIA FREE",WION (1080p)
+#EXTINF:-1 tvg-id="WION.in@SD",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" group-title="ALL INDIA FREE",WION (720p)
+#EXTINF:-1 tvg-id="WION.in@SD",WION (720p)
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" group-title="ALL INDIA FREE",WION (504p)
+#EXTINF:-1 tvg-id="WION.in@SD",WION (504p)
 https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" group-title="ALL INDIA FREE",WION (480p)
+#EXTINF:-1 tvg-id="WION.in@SD",WION (480p)
 https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" group-title="ALL INDIA FREE",WION (360p)
+#EXTINF:-1 tvg-id="WION.in@SD",WION (360p)
 https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" group-title="ALL INDIA FREE",WION (240p)
+#EXTINF:-1 tvg-id="WION.in@SD",WION (240p)
 https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" group-title="ALL INDIA FREE",WION (Adaptive) (1080p)
+#EXTINF:-1 tvg-id="WION.in@SD",WION (Adaptive) (1080p)
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
-#EXTINF:-1 tvg-id="YoganadamNews.in@SD" group-title="ALL INDIA FREE",Yoganadam News (720p)
+#EXTINF:-1 tvg-id="YoganadamNews.in@SD",Yoganadam News (720p)
 https://yoganadam.cinesoftcdn.com/yoganadam/live/index.m3u8
-#EXTINF:-1 tvg-id="YRFMusic.in@SD" group-title="ALL INDIA FREE",YRF Music (1080p)
+#EXTINF:-1 tvg-id="YRFMusic.in@SD",YRF Music (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="YRFMusic.in@SD" group-title="ALL INDIA FREE",YRF Music (1080p)
+#EXTINF:-1 tvg-id="YRFMusic.in@SD",YRF Music (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-#EXTINF:-1 tvg-id="ZainabiaChannel.in@SD" group-title="ALL INDIA FREE",Zainabia Channel
+#EXTINF:-1 tvg-id="ZainabiaChannel.in@SD",Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
-#EXTINF:-1 tvg-id="ZBBhakti.in@HD" group-title="ALL INDIA FREE",ZB Bhakti (720p)
+#EXTINF:-1 tvg-id="ZBBhakti.in@HD",ZB Bhakti (720p)
 https://server.zillarbarta.com/zbbhakti/index.m3u8
-#EXTINF:-1 tvg-id="ZBCartoon.in@HD" group-title="ALL INDIA FREE",ZB Cartoon (1080p)
+#EXTINF:-1 tvg-id="ZBCartoon.in@HD",ZB Cartoon (1080p)
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-id="ZBCinema.in@HD" group-title="ALL INDIA FREE",ZB Cinema (720p)
+#EXTINF:-1 tvg-id="ZBCinema.in@HD",ZB Cinema (720p)
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 tvg-id="ZBMusic.in@HD" group-title="ALL INDIA FREE",ZB Music (720p)
+#EXTINF:-1 tvg-id="ZBMusic.in@HD",ZB Music (720p)
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 tvg-id="Zee24Kalak.in@SD" group-title="ALL INDIA FREE",Zee 24 Kalak (720p)
+#EXTINF:-1 tvg-id="Zee24Kalak.in@SD",Zee 24 Kalak (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/14b7c8ec-16da-47f2-8d7e-5bbaec67b3e2/3.m3u8
-#EXTINF:-1 tvg-id="Zee24Taas.in@SD" group-title="ALL INDIA FREE",Zee 24 Taas (720p)
+#EXTINF:-1 tvg-id="Zee24Taas.in@SD",Zee 24 Taas (720p)
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="" group-title="ALL INDIA FREE",Zee Alwan (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="",Zee Alwan (576p) [Not 24/7]
 https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBharat.in@SD" group-title="ALL INDIA FREE",Zee Bharat (720p)
+#EXTINF:-1 tvg-id="ZeeBharat.in@SD",Zee Bharat (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
-#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD" group-title="ALL INDIA FREE",Zee Bihar Jharkhand (720p)
+#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD",Zee Bihar Jharkhand (720p)
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
-#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD" group-title="ALL INDIA FREE",Zee Bihar Jharkhand (720p)
+#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD",Zee Bihar Jharkhand (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
-#EXTINF:-1 tvg-id="ZeeBollymovies.in@SD" group-title="ALL INDIA FREE",Zee Bollymovies (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ZeeBollymovies.in@SD",Zee Bollymovies (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBollymovies.in@Australia" group-title="ALL INDIA FREE",Zee Bollymovies Australia (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ZeeBollymovies.in@Australia",Zee Bollymovies Australia (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" group-title="ALL INDIA FREE",Zee Business (720p)
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (720p)
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" group-title="ALL INDIA FREE",Zee Business (576p)
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (576p)
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" group-title="ALL INDIA FREE",Zee Business (480p)
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (480p)
 https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8
-#EXTINF:-1 tvg-id="ZeeCineClassic.in@SD" group-title="ALL INDIA FREE",Zee Cine Classic (1080p)
+#EXTINF:-1 tvg-id="ZeeCineClassic.in@SD",Zee Cine Classic (1080p)
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@APAC" group-title="ALL INDIA FREE",Zee Cinema APAC (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@APAC" group-title="ALL INDIA FREE",Zee Cinema APAC (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeComedyNation.in@HD" group-title="ALL INDIA FREE",Zee Comedy Nation (1080p)
+#EXTINF:-1 tvg-id="ZeeComedyNation.in@HD",Zee Comedy Nation (1080p)
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeDelhiNCRHaryana.in@SD" group-title="ALL INDIA FREE",Zee Delhi NCR Haryana (720p)
+#EXTINF:-1 tvg-id="ZeeDelhiNCRHaryana.in@SD",Zee Delhi NCR Haryana (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
-#EXTINF:-1 tvg-id="ZeeDilSe.in@HD" group-title="ALL INDIA FREE",Zee Dil Se (1080p)
+#EXTINF:-1 tvg-id="ZeeDilSe.in@HD",Zee Dil Se (1080p)
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeHorrorNights.in@HD" group-title="ALL INDIA FREE",Zee Horror Nights (1080p)
+#EXTINF:-1 tvg-id="ZeeHorrorNights.in@HD",Zee Horror Nights (1080p)
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeKannadaNews.in@SD" group-title="ALL INDIA FREE",Zee Kannada News (720p)
+#EXTINF:-1 tvg-id="ZeeKannadaNews.in@SD",Zee Kannada News (720p)
 https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="ZeeMadhyaPradeshChhattisgarh.in@SD" group-title="ALL INDIA FREE",Zee Madhya Pradesh Chhattisgarh (720p)
+#EXTINF:-1 tvg-id="ZeeMadhyaPradeshChhattisgarh.in@SD",Zee Madhya Pradesh Chhattisgarh (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
-#EXTINF:-1 tvg-id="ZeeNews.in@SD" group-title="ALL INDIA FREE",Zee News (1080p)
+#EXTINF:-1 tvg-id="ZeeNews.in@SD",Zee News (1080p)
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-#EXTINF:-1 tvg-id="" group-title="ALL INDIA FREE",Zee News Malayalam (720p)
+#EXTINF:-1 tvg-id="",Zee News Malayalam (720p)
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in@SD" group-title="ALL INDIA FREE",Zee Punjab Haryana Himachal (720p)
+#EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in@SD",Zee Punjab Haryana Himachal (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
-#EXTINF:-1 tvg-id="ZeeRajasthan.in@SD" group-title="ALL INDIA FREE",Zee Rajasthan (720p)
+#EXTINF:-1 tvg-id="ZeeRajasthan.in@SD",Zee Rajasthan (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
-#EXTINF:-1 tvg-id="" group-title="ALL INDIA FREE",Zee Salaam (720p)
+#EXTINF:-1 tvg-id="",Zee Salaam (720p)
 https://d3i8oqsdv88b3m.cloudfront.net/out/v1/08f6360f9104421f90319460c0e03f11/index.m3u8
-#EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" group-title="ALL INDIA FREE",Zee South Flix (1080p)
+#EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in@HD" group-title="ALL INDIA FREE",Zee Talkies HD (1080p)
+#EXTINF:-1 tvg-id="ZeeTalkies.in@HD",Zee Talkies HD (1080p)
 http://103.52.34.182:8001/play/a04r/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTeluguNews.in@SD" group-title="ALL INDIA FREE",Zee Telugu News (720p)
+#EXTINF:-1 tvg-id="ZeeTeluguNews.in@SD",Zee Telugu News (720p)
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
-#EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD" group-title="ALL INDIA FREE",Zee Uttar Pradesh/Uttarakhand (720p)
+#EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD",Zee Uttar Pradesh/Uttarakhand (720p)
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-id="ZillarBartaNews.in@HD" group-title="ALL INDIA FREE",ZillarBarta News
+#EXTINF:-1 tvg-id="ZillarBartaNews.in@HD",ZillarBarta News
 https://server.zillarbarta.com/zillarbarta/index.m3u8
-#EXTINF:-1 tvg-id="Zoom.in@SD" group-title="ALL INDIA FREE",Zoom
+#EXTINF:-1 tvg-id="Zoom.in@SD",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-id="Zoom.in@Global" group-title="ALL INDIA FREE",Zoom Global (720p)
+#EXTINF:-1 tvg-id="Zoom.in@Global",Zoom Global (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
-#EXTINF:-1 tvg-id="RajMusixTamil.in@SD" group-title="ALL INDIA FREE",Raj Musix Tamil (1080p)
+#EXTINF:-1 tvg-id="RajMusixTamil.in@SD",Raj Musix Tamil (1080p)
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
-#EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" group-title="ALL INDIA FREE",Raj Digital Plus (1080p)
+#EXTINF:-1 tvg-id="RajDigitalPlus.in@SD",Raj Digital Plus (1080p)
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
-#EXTINF:-1 tvg-id="MNaduTV.in@SD" group-title="ALL INDIA FREE",M Nadu TV (576p)
+#EXTINF:-1 tvg-id="MNaduTV.in@SD",M Nadu TV (576p)
 https://mumt01.tangotv.in/MNADU/index.m3u8
-#EXTINF:-1 tvg-id="Mh1Music.in@SD" group-title="ALL INDIA FREE",Mh 1 Music (576p)
+#EXTINF:-1 tvg-id="Mh1Music.in@SD",Mh 1 Music (576p)
 https://mumt04.tangotv.in/MHONE/index.m3u8
-#EXTINF:-1 tvg-id="Captain.in@SD" group-title="ALL INDIA FREE",Captain (576p)
+#EXTINF:-1 tvg-id="Captain.in@SD",Captain (576p)
 https://mumt01.tangotv.in/CAPTAIN/index.m3u8
-#EXTINF:-1 tvg-id="ColorsTamil.in@SD" group-title="ALL INDIA FREE",Colors Tamil (720p)
+#EXTINF:-1 tvg-id="ColorsTamil.in@SD",Colors Tamil (720p)
 http://15.235.144.106:14052/
-#EXTINF:-1 tvg-id="SunTV.in@HD" group-title="ALL INDIA FREE",Sun TV HD (720p)
+#EXTINF:-1 tvg-id="SunTV.in@HD",Sun TV HD (720p)
 http://15.235.144.106:14054/
-#EXTM3U
-#Generated on 1770123629
-
-#EXTINF:-1 tvg-id="0-9-aajtak" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeenews" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-indiatoday" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png",India Today
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-255" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Good News_Today.png",Good News Today
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5543514" group-title="Z5 TARUN Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" group-title="Z5 TARUN Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab_Haryana_Himachal_Pradesh.png",Zee Punjab Haryana Himachal Pradesh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeebusiness" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="Z5 TARUN Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",Zee 24 Kalak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105497/ZEE24KALAKELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zee24taas" group-title="Z5 TARUN Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png",Zee 24 Taas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105498/ZEE24TAASNEWSNEWELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-wion" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/WION.png",WION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeehindustan" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bharat.png",Zee Bharat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105262/ZEEBHARATNEWSNEWELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bihar_Jharkhand.png",Zee Bihar Jharkhand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105492/ZEEBHJKELE/master.m3u8?
-#EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="Z5 TARUN Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",Zee 24 Ghanta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeekalinganews" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Delhi_NCR_Haryana.png",Zee Delhi NCR Haryana
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105507/ZEEDELNCRHRNEWSNEWELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeerajasthannews" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan_News.png",Zee Rajasthan News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Madhya_Pradesh_Chhattisgarh.png",Zee Madhya Pradesh Chhattisgarh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105495/ZEEMPCGELE/master.m3u8?
-#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" group-title="Z5 TARUN Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zing" group-title="Z5 TARUN Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",Zing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Z5 TARUN Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Z5 TARUN Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Z5 TARUN Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Z5 TARUN Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="Z5 TARUN Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",Zee Café HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-bigganga" group-title="Z5 TARUN Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Z5 TARUN Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeetelugu" group-title="Z5 TARUN Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png",Zee Telugu HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeekannada" group-title="Z5 TARUN Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png",Zee Kannada HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105555/ZeeKannadaHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-129" group-title="Z5 TARUN Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",Zee Keralam HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Z5 TARUN Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Z5 TARUN Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Z5 TARUN Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="Z5 TARUN Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",Zee Cinemalu HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Z5 TARUN Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&Pictures HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Z5 TARUN Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",Zee Talkies HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Z5 TARUN Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-215" group-title="Z5 TARUN Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png",Zee Punjabi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105170/ZeePunjabiELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="Z5 TARUN Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="Z5 TARUN Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-pictures" group-title="Z5 TARUN Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png",&Pictures
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105528/ANDPicturesELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Z5 TARUN Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeeaction" group-title="Z5 TARUN Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Z5 TARUN Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",&flix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-channel_1144658965" group-title="Z5 TARUN Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png",Sanskar TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105500/SanskarTVMSLELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeetv" group-title="Z5 TARUN Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-zeesalaam" group-title="Z5 TARUN Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-sarthaktv" group-title="Z5 TARUN Odia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Sarthak.png",Zee Sarthak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105541/ZeeSarthakELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-channel_265145625" group-title="Z5 TARUN News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png",Zee News Uttar Pradesh Uttrakhand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-176" group-title="Z5 TARUN Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-209" group-title="Z5 TARUN Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png",&xplorHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-216" group-title="Z5 TARUN Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png",Zee Biskope
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105522/ZeeBiskopeELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-224" group-title="Z5 TARUN Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-348" group-title="Z5 TARUN Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-241" group-title="Z5 TARUN Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Picchar_SD.png",Zee Picchar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105542/ZeePiccharELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-394" group-title="Z5 TARUN Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png",Zee Chitramandir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5383466" group-title="Z5 TARUN Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png",Zee Kannada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105177/ZeeKannadaELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5383484" group-title="Z5 TARUN Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5383485" group-title="Z5 TARUN Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5383486" group-title="Z5 TARUN Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105543/ZeeMarathiELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5383487" group-title="Z5 TARUN Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105537/ZeeTamilELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5383488" group-title="Z5 TARUN Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5398768" group-title="Z5 TARUN Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png",Aastha Telugu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5398770" group-title="Z5 TARUN Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",Aastha Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5398771" group-title="Z5 TARUN Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png",Aastha Kannada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5398791" group-title="Z5 TARUN Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",Aastha Gujarati
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5398792" group-title="Z5 TARUN Spiritual" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398792/list/270x152/1170x658c79674cf57ac4de48addad4284053d8e.png",Dharm Sandesh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5398793" group-title="Z5 TARUN Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",Aastha Bhajan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5383489" group-title="Z5 TARUN Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png",Zee Talkies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Z5 TARUN Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1770210029~acl=%2f*~id=64d4ba7f-036f-48ea-ba7f-8109b7e7316b~data=hdntl~hmac=f2a9f94e7af13c5be709c8b4efa536be6e64aef5e9ce3995784a401a25b8d413
-#EXTM3U billed-msg="Actualizado 01/Feb/2026"
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
-#EXTINF:-1 tvg-id="zee-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="Backup Z5 Entertainment", Zee TV SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-#EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Backup Z5 Entertainment", And TV SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
-#EXTINF:-1 tvg-id="zee-anmol" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="Backup Z5 Entertainment", Zee Anmol
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
-
-#EXTINF:-1 tvg-id="9xm" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/36HEDUo4.png" group-title="Backup Z5 Music", 9xm
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a457a6a58184234ba9bfa6916ce8013:ef3dd80894774430a33ecbc9108e91d7
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png" group-title="Backup Z5 Music", MTV Beats
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-#EXTINF:-1 tvg-id="zing" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="Backup Z5 Music", Zing
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-#EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="Backup Z5 Movies", Zee Cinema SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
-#EXTINF:-1 tvg-id="zee-bollywood" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="Backup Z5 Movies", Zee Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="Backup Z5 Movies", Zee Anmol Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="Backup Z5 Movies", And Pictures SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ftklpj.png" group-title="Backup Z5 Entertainment", DD National
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/Ddbharti.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" group-title="Backup Z5 News", NDTV India
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LKNgfzia.png" group-title="Backup Z5 News", News Nation
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10616d7c4bee41f1825bd805c6295172:dc85f2112f63477fb39fc149493c49be
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-title="Backup Z5 News", Zee Hindustan
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bef87892e58c446d893b16a848703b70:51959fcbc8fe4091b570ba254bf749ae
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="Backup Z5 News", Zee Business
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50e714b65ead453cbfab9b20bed5c79d:bc08e108b9ee4f65b99cb9dad9532f3f
-#EXTINF:-1 tvg-id="zee-kannada" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1PrOGXAh.png" group-title="Backup Z5 Regional", Zee Kannada HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="Backup Z5 Regional", Zee Telugu HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Backup Z5 Regional", Zee Bangla HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a8d6c938ea647248f7a10eedc39f097:7d81feb84ed84bd88fdc5ca9de3c16da
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" group-title="Backup Z5 Regional", Zee Marathi
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b
-#EXTINF:-1 tvg-id="zee-bihar-jharkhand" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png" group-title="Backup Z5 Regional", Zee Bihar Jharkhand
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" group-title="Backup Z5 Regional", Zee Sarthak
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=ecad0b097b574078a4a1bde24bfdb2e5:568bb13d04db4b738864f6c849474cd5
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.m
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png" group-title="Backup Z5 Movies", Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-title="Backup Z5 Movies", Zee Talkies
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
-#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png" group-title="Backup Z5 Kids", Discovery Kids
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
-#EXTINF:-1 tvg-id="discovey" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="Backup Z5 Education", Discovery
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
-#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png" group-title="Backup Z5 Education", Discovery Science
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
-#EXTINF:-1 tvg-id="discovery-investigation" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" group-title="Backup Z5 Education", Discovery Investigation
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
-#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="Backup Z5 Education", Discovery Turbo
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
-#EXTINF:-1 tvg-id="tlc" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png" group-title="Backup Z5 Lifestyle", TLC
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
-
-#EXTINF:-1 tvg-id="9xm-jalwa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Backup Z5 Music", 9xm Jalwa
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9Xjalwa.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xiseyx.png" group-title="Backup Z5 Music", 9X Tashan
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rpxdkm.png" group-title="Backup Z5 Music", 9x Jhakaas
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fjeoiu.png" group-title="Backup Z5 Music", Music India
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/Musicindia.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/hjdift.png" group-title="Backup Z5 Music", Sangeet Bangla
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/Sangeetbangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bpgfhq.png" group-title="Backup Z5 Music", Sangeet Bhojpuri
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/Sangeetbhojpuri.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca personally14f847ee:9def4315f0004019a3705bcb3cf30ca3
-#EXTINF:-1 tvg-id="zoom2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="Backup Z5 Lifestyle", Zoom
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zwombd.png" group-title="Backup Z5 Regional", Fakt Marathi
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Faktmarathi/default/Faktmarathi.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
-#EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Backup Z5 Entertainment", Korean Drama Active
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
-#EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Backup Z5 Entertainment", Shorts TV Active
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/drciav.png" group-title="Backup Z5 Education", DD Bharati
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti/default/Ddbharti.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ptcgyh.png" group-title="Backup Z5 News", Sansad TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd/default/Sansadtvhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/oshzts.png" group-title="Backup Z5 News", Sansad TV SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvsd/default/Sansadtvsd.m3u8
-
-
-
-
-#EXTINF:-1 group-title="ALL INDIAN MIX",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",NICKTOONS
-http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Disney_Junior
-http://78.108.251.7/Disney_Junior/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Nick_Jr Raja-Krisno
-http://78.108.251.7/Nick_Jr/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Discovery_HD
-http://78.108.251.7/Discovery_HD/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Histoire HD
-http://151.80.18.177:86/Histoire/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",TF1_HD
-http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Discovery_HD
-http://151.80.18.177:86/Discovery_HD/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Eurosport_HD
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Sony sports Ten 5 
-http://103.175.242.10:8080/sonyten5/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Sony sports Ten 5 
-http://stvlive.net:8080/sonyten5/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",TSports
-http://103.175.242.10:8080/tsports1/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",T Sports
-http://147.93.154.65/Bein3/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",True Vision Sports
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=191873&extension=m3u8
-
-#EXTINF:-1 group-title="NEW SERVER",&flix HD - Rs 19.00
-http://66.102.120.18:8000/play/a022
-#EXTINF:-1 group-title="NEW SERVER",&pictures HD - Rs 19.00
-http://66.102.120.18:8000/play/a01t
-#EXTINF:-1 group-title="NEW SERVER",&tv HD - Rs 19.00
-http://66.102.120.18:8000/play/a01u
-#EXTINF:-1 group-title="NEW SERVER",24 News HD
-http://66.102.120.18:8000/play/a04v
-#EXTINF:-1 group-title="NEW SERVER",24B HD
-http://66.102.120.18:8000/play/a044
-#EXTINF:-1 group-title="NEW SERVER",365 NEWS
-http://66.102.120.18:8000/play/a039
-#EXTINF:-1 group-title="NEW SERVER",8XM HD
-http://66.102.120.18:8000/play/a050
-#EXTINF:-1 group-title="NEW SERVER",92 Entertainment
-http://66.102.120.18:8000/play/a06m
-#EXTINF:-1 group-title="NEW SERVER",92 News HD
-http://66.102.120.18:8000/play/a04y
-#EXTINF:-1 group-title="NEW SERVER",A SportsHD
-http://66.102.120.18:8000/play/a032
-#EXTINF:-1 group-title="NEW SERVER",A1 TV
-http://66.102.120.18:8000/play/a04q
-#EXTINF:-1 group-title="NEW SERVER",AAJ ENTERTANMENT
-http://66.102.120.18:8000/play/a05b
-#EXTINF:-1 group-title="NEW SERVER",AAJ NEWS
-http://66.102.120.18:8000/play/a05a
-#EXTINF:-1 group-title="NEW SERVER",AAN TV - HD
-http://66.102.120.18:8000/play/a05j
-#EXTINF:-1 group-title="NEW SERVER",ABBTAKK HD
-http://66.102.120.18:8000/play/a051
-#EXTINF:-1 group-title="NEW SERVER",AIK NEWS
-http://66.102.120.18:8000/play/a03d
-#EXTINF:-1 group-title="NEW SERVER",APNA CHANNEL HD
-http://66.102.120.18:8000/play/a04z
-#EXTINF:-1 group-title="NEW SERVER",APlus Pakistan
-http://66.102.120.18:8000/play/a03c
-#EXTINF:-1 group-title="NEW SERVER",ARYDigitalAsia HD
-http://66.102.120.18:8000/play/a030
-#EXTINF:-1 group-title="NEW SERVER",ARYMusik
-http://66.102.120.18:8000/play/a036
-#EXTINF:-1 group-title="NEW SERVER",ARYNewsAsia
-http://66.102.120.18:8000/play/a02z
-#EXTINF:-1 group-title="NEW SERVER",ARYQTV
-http://66.102.120.18:8000/play/a014
-#EXTINF:-1 group-title="NEW SERVER",ARYZindagi
-http://66.102.120.18:8000/play/a031
-#EXTINF:-1 group-title="NEW SERVER",ATV ENT HD
-http://66.102.120.18:8000/play/a03t
-#EXTINF:-1 group-title="NEW SERVER",AUR_Life HD
-http://66.102.120.18:8000/play/a05k
-#EXTINF:-1 group-title="NEW SERVER",AXN
-http://66.102.120.18:8000/play/a06i
-#EXTINF:-1 group-title="NEW SERVER",Al Jazeera English HD
-http://66.102.120.18:8000/play/a015
-#EXTINF:-1 group-title="NEW SERVER",Animal Planet HD
-http://66.102.120.18:8000/play/a00o
-#EXTINF:-1 group-title="NEW SERVER",B4U Movies - Free
-http://66.102.120.18:8000/play/a01w
-#EXTINF:-1 group-title="NEW SERVER",BBC News
-http://66.102.120.18:8000/play/a074
-#EXTINF:-1 group-title="NEW SERVER",BOL News Urdu
-http://66.102.120.18:8000/play/a038
-#EXTINF:-1 group-title="NEW SERVER",CITY-21
-http://66.102.120.18:8000/play/a05z
-#EXTINF:-1 group-title="NEW SERVER",CITY-42 HD
-http://66.102.120.18:8000/play/a05x
-#EXTINF:-1 group-title="NEW SERVER",CNN International
-http://66.102.120.18:8000/play/a017
-#EXTINF:-1 group-title="NEW SERVER",COLORS CINIPLEX HD
-http://66.102.120.18:8000/play/a06z
-#EXTINF:-1 group-title="NEW SERVER",Capital TV
-http://66.102.120.18:8000/play/a02y
-#EXTINF:-1 group-title="NEW SERVER",Cartoon Network - Rs 4.75
-http://66.102.120.18:8000/play/a00t
-#EXTINF:-1 group-title="NEW SERVER",Cartoon Network HD+ - Rs 7.0
-http://66.102.120.18:8000/play/a011
-#EXTINF:-1 group-title="NEW SERVER",Colors Cineplex Bollywood - Rs 0.10
-http://66.102.120.18:8000/play/a01a
-#EXTINF:-1 group-title="NEW SERVER",Colors HD
-http://66.102.120.18:8000/play/a00a
-#EXTINF:-1 group-title="NEW SERVER",Colors Infinity HD
-http://66.102.120.18:8000/play/a00q
-#EXTINF:-1 group-title="NEW SERVER",DW English HD
-http://66.102.120.18:8000/play/a03i
-#EXTINF:-1 group-title="NEW SERVER",Discover Pakistan
-http://66.102.120.18:8000/play/a06r
-#EXTINF:-1 group-title="NEW SERVER",Discover Pakistan
-http://66.102.120.18:8000/play/a03v
-#EXTINF:-1 group-title="NEW SERVER",Discovery HD - Rs 8.00
-http://66.102.120.18:8000/play/a01k
-#EXTINF:-1 group-title="NEW SERVER",Discovery Kids - Rs 3.50
-http://66.102.120.18:8000/play/a00k
-#EXTINF:-1 group-title="NEW SERVER",Discovery Science - Rs 1.00
-http://66.102.120.18:8000/play/a01l
-#EXTINF:-1 group-title="NEW SERVER",Discovery Turbo - Rs 1.00
-http://66.102.120.18:8000/play/a016
-#EXTINF:-1 group-title="NEW SERVER",Disney International HD
-http://66.102.120.18:8000/play/a078
-#EXTINF:-1 group-title="NEW SERVER",Disney Junior
-http://66.102.120.18:8000/play/a004
-#EXTINF:-1 group-title="NEW SERVER",Disny
-http://66.102.120.18:8000/play/a070
-#EXTINF:-1 group-title="NEW SERVER",Dunya News HD
-http://66.102.120.18:8000/play/a04u
-#EXTINF:-1 group-title="NEW SERVER",EXP ENTERTAINMENT
-http://66.102.120.18:8000/play/a054
-#EXTINF:-1 group-title="NEW SERVER",EXPRESS NEWS
-http://66.102.120.18:8000/play/a053
-#EXTINF:-1 group-title="NEW SERVER",Eurosport HD - Rs 6.00
-http://66.102.120.18:8000/play/a01g
-#EXTINF:-1 group-title="NEW SERVER",FAST SPORTS HD
-http://66.102.120.18:8000/play/a05f
-#EXTINF:-1 group-title="NEW SERVER",FILMAX
-http://66.102.120.18:8000/play/a04c
-#EXTINF:-1 group-title="NEW SERVER",FILMAZIA
-http://66.102.120.18:8000/play/a04d
-#EXTINF:-1 group-title="NEW SERVER",FILMAZIA PUNJABI
-http://66.102.120.18:8000/play/a04n
-#EXTINF:-1 group-title="NEW SERVER",FIX&FOXI
-http://66.102.120.18:8000/play/a04b
-#EXTINF:-1 group-title="NEW SERVER",GEM COMEDY
-http://66.102.120.18:8000/play/a049
-#EXTINF:-1 group-title="NEW SERVER",GEM TV HD
-http://66.102.120.18:8000/play/a045
-#EXTINF:-1 group-title="NEW SERVER",GEO HD
-http://66.102.120.18:8000/play/a062
-#EXTINF:-1 group-title="NEW SERVER",GEO KAHANI HD
-http://66.102.120.18:8000/play/a064
-#EXTINF:-1 group-title="NEW SERVER",GEO NEWS
-http://66.102.120.18:8000/play/a05w
-#EXTINF:-1 group-title="NEW SERVER",GEO SUPER HD
-http://66.102.120.18:8000/play/a063
-#EXTINF:-1 group-title="NEW SERVER",GNNHD
-http://66.102.120.18:8000/play/a06p
-#EXTINF:-1 group-title="NEW SERVER",GTV NEWS HD
-http://66.102.120.18:8000/play/a05m
-#EXTINF:-1 group-title="NEW SERVER",GTV NEWS HD
-http://66.102.120.18:8000/play/a05l
-#EXTINF:-1 group-title="NEW SERVER",Geo Tez
-http://66.102.120.18:8000/play/a05o
-#EXTINF:-1 group-title="NEW SERVER",HUM HD
-http://66.102.120.18:8000/play/a06c
-#EXTINF:-1 group-title="NEW SERVER",HUM NEWS HD
-http://66.102.120.18:8000/play/a05e
-#EXTINF:-1 group-title="NEW SERVER",HUM SITARAY
-http://66.102.120.18:8000/play/a05i
-#EXTINF:-1 group-title="NEW SERVER",Hidayat TV
-http://66.102.120.18:8000/play/a04p
-#EXTINF:-1 group-title="NEW SERVER",History TV18 HD - Rs 7.00
-http://66.102.120.18:8000/play/a01q
-#EXTINF:-1 group-title="NEW SERVER",Hoora TV
-http://66.102.120.18:8000/play/a040
-#EXTINF:-1 group-title="NEW SERVER",INPLUS Pakistan
-http://66.102.120.18:8000/play/a02x
-#EXTINF:-1 group-title="NEW SERVER",Investigation Discovery - Rs 1.00
-http://66.102.120.18:8000/play/a01h
-#EXTINF:-1 group-title="NEW SERVER",Isaac TV
-http://66.102.120.18:8000/play/a04j
-#EXTINF:-1 group-title="NEW SERVER",JALWA HD
-http://66.102.120.18:8000/play/a052
-#EXTINF:-1 group-title="NEW SERVER",KSA SPORT1 HD
-http://66.102.120.18:8000/play/a03o
-#EXTINF:-1 group-title="NEW SERVER",KSA SPORT2 HD
-http://66.102.120.18:8000/play/a03p
-#EXTINF:-1 group-title="NEW SERVER",Khyber News HD
-http://66.102.120.18:8000/play/a058
-#EXTINF:-1 group-title="NEW SERVER",Kidzone Pakistan
-http://66.102.120.18:8000/play/a02l
-#EXTINF:-1 group-title="NEW SERVER",LTN FAMILY
-http://66.102.120.18:8000/play/a04a
-#EXTINF:-1 group-title="NEW SERVER",Lahore News HD
-http://66.102.120.18:8000/play/a04x
-#EXTINF:-1 group-title="NEW SERVER",Lahore Rang HD
-http://66.102.120.18:8000/play/a05h
-#EXTINF:-1 group-title="NEW SERVER",LotusTV
-http://66.102.120.18:8000/play/a03b
-#EXTINF:-1 group-title="NEW SERVER",MASALA TV
-http://66.102.120.18:8000/play/a059
-#EXTINF:-1 group-title="NEW SERVER",MIFA + HD
-http://66.102.120.18:8000/play/a047
-#EXTINF:-1 group-title="NEW SERVER",MIFA + HD
-http://66.102.120.18:8000/play/a048
-#EXTINF:-1 group-title="NEW SERVER",MIFA MUSIC HD
-http://66.102.120.18:8000/play/a046
-#EXTINF:-1 group-title="NEW SERVER",MINIMAX 2
-http://66.102.120.18:8000/play/a04o
-#EXTINF:-1 group-title="NEW SERVER",MTCL 1HD
-http://66.102.120.18:8000/play/a07m
-#EXTINF:-1 group-title="NEW SERVER",MTCL 2HD
-http://66.102.120.18:8000/play/a07j
-#EXTINF:-1 group-title="NEW SERVER",MTCL 3HD
-http://66.102.120.18:8000/play/a07k
-#EXTINF:-1 group-title="NEW SERVER",MTCL 4HD
-http://66.102.120.18:8000/play/a07l
-#EXTINF:-1 group-title="NEW SERVER",MTCL 5HD
-http://66.102.120.18:8000/play/a07i
-#EXTINF:-1 group-title="NEW SERVER",MTCL 6HD
-http://66.102.120.18:8000/play/a07h
-#EXTINF:-1 group-title="NEW SERVER",MTCL 8HD
-http://66.102.120.18:8000/play/a07g
-#EXTINF:-1 group-title="NEW SERVER",MTCL7HD
-http://66.102.120.18:8000/play/a07f
-#EXTINF:-1 group-title="NEW SERVER",MUN TV
-http://66.102.120.18:8000/play/a02j
-#EXTINF:-1 group-title="NEW SERVER",Metro 1
-http://66.102.120.18:8000/play/a034
-#EXTINF:-1 group-title="NEW SERVER",Movies Now HD - Rs 14.00
-http://66.102.120.18:8000/play/a019
-#EXTINF:-1 group-title="NEW SERVER",NATIONAL GEOGRAPHIC HD - Rs 14.00
-http://66.102.120.18:8000/play/a01f
-#EXTINF:-1 group-title="NEW SERVER",NEO NEWS HD
-http://66.102.120.18:8000/play/a05g
-#EXTINF:-1 group-title="NEW SERVER",NEWS ONE
-http://66.102.120.18:8000/play/a057
-#EXTINF:-1 group-title="NEW SERVER",NHK WORLD-JPN
-http://66.102.120.18:8000/play/a03k
-#EXTINF:-1 group-title="NEW SERVER",NOOR TV PK
-http://66.102.120.18:8000/play/a04m
-#EXTINF:-1 group-title="NEW SERVER",Nat Geo Wild HD - Rs 8.00
-http://66.102.120.18:8000/play/a01d
-#EXTINF:-1 group-title="NEW SERVER",Nick  - Rs 6.00
-http://66.102.120.18:8000/play/a00w
-#EXTINF:-1 group-title="NEW SERVER",Nick HD+
-http://66.102.120.18:8000/play/a07a
-#EXTINF:-1 group-title="NEW SERVER",Nick Jr. - Rs 1.00
-http://66.102.120.18:8000/play/a00m
-#EXTINF:-1 group-title="NEW SERVER",ONYX HD
-http://66.102.120.18:8000/play/a041
-#EXTINF:-1 group-title="NEW SERVER",PTV HOME HD
-http://66.102.120.18:8000/play/a04r
-#EXTINF:-1 group-title="NEW SERVER",PTV NATIONAL
-http://66.102.120.18:8000/play/a03s
-#EXTINF:-1 group-title="NEW SERVER",PTV NEWS HD
-http://66.102.120.18:8000/play/a04s
-#EXTINF:-1 group-title="NEW SERVER",PTV WORLD HD
-http://66.102.120.18:8000/play/a04t
-#EXTINF:-1 group-title="NEW SERVER",PTV-SPORTS-HD
-http://66.102.120.18:8000/play/a04w
-#EXTINF:-1 group-title="NEW SERVER",Paigham Pashto
-http://66.102.120.18:8000/play/a04g
-#EXTINF:-1 group-title="NEW SERVER",Paigham Urdu
-http://66.102.120.18:8000/play/a03e
-#EXTINF:-1 group-title="NEW SERVER",Paigham Urdu
-http://66.102.120.18:8000/play/a04k
-#EXTINF:-1 group-title="NEW SERVER",Peace TV English  HD
-http://66.102.120.18:8000/play/a05q
-#EXTINF:-1 group-title="NEW SERVER",Peace TV Urdu  HD
-http://66.102.120.18:8000/play/a05p
-#EXTINF:-1 group-title="NEW SERVER",Planet Fun HD
-http://66.102.120.18:8000/play/a02k
-#EXTINF:-1 group-title="NEW SERVER",Pogo - Rs 4.75
-http://66.102.120.18:8000/play/a00l
-#EXTINF:-1 group-title="NEW SERVER",Public News
-http://66.102.120.18:8000/play/a03u
-#EXTINF:-1 group-title="NEW SERVER",QURAN TV
-http://66.102.120.18:8000/play/a04h
-#EXTINF:-1 group-title="NEW SERVER",RIVER HD
-http://66.102.120.18:8000/play/a043
-#EXTINF:-1 group-title="NEW SERVER",ROHI TV
-http://66.102.120.18:8000/play/a05y
-#EXTINF:-1 group-title="NEW SERVER",RUBIX HD
-http://66.102.120.18:8000/play/a042
-#EXTINF:-1 group-title="NEW SERVER",Romedy Now - Rs 5.00
-http://66.102.120.18:8000/play/a01j
-#EXTINF:-1 group-title="NEW SERVER",SAMAA
-http://66.102.120.18:8000/play/a06o
-#EXTINF:-1 group-title="NEW SERVER",SAUDI CH For Quran HD
-http://66.102.120.18:8000/play/a03m
-#EXTINF:-1 group-title="NEW SERVER",SAUDI CH For Sunnah HD
-http://66.102.120.18:8000/play/a03n
-#EXTINF:-1 group-title="NEW SERVER",SET HD - Rs 19.00
-http://66.102.120.18:8000/play/a005
-#EXTINF:-1 group-title="NEW SERVER",SONY BBC EARTH HD - Rs 19.00
-http://66.102.120.18:8000/play/a01r
-#EXTINF:-1 group-title="NEW SERVER",SONY MAX - Rs 19.00
-http://66.102.120.18:8000/play/a00u
-#EXTINF:-1 group-title="NEW SERVER",SONY MAX 2 - Rs 1.00
-http://66.102.120.18:8000/play/a00h
-#EXTINF:-1 group-title="NEW SERVER",SONY MAX HD
-http://66.102.120.18:8000/play/a071
-#EXTINF:-1 group-title="NEW SERVER",SONY PIX HD - Rs 19.00
-http://66.102.120.18:8000/play/a01z
-#EXTINF:-1 group-title="NEW SERVER",SONY SAB HD - Rs 19.00
-http://66.102.120.18:8000/play/a00d
-#EXTINF:-1 group-title="NEW SERVER",SONY SPORTS TEN 1 HD - Rs 19.00
-http://66.102.120.18:8000/play/a002
-#EXTINF:-1 group-title="NEW SERVER",SONY SPORTS TEN 2 HD - Rs 19.00
-http://66.102.120.18:8000/play/a01y
-#EXTINF:-1 group-title="NEW SERVER",SONY SPORTS TEN 3 HD - Rs 19.00
-http://66.102.120.18:8000/play/a001
-#EXTINF:-1 group-title="NEW SERVER",SONY SPORTS TEN 5 HD - Rs 25.00
-http://66.102.120.18:8000/play/a010
-#EXTINF:-1 group-title="NEW SERVER",SONY YAY! - Rs 4.00
-http://66.102.120.18:8000/play/a00s
-#EXTINF:-1 group-title="NEW SERVER",STAR GOLD HD - Rs 19.00
-http://66.102.120.18:8000/play/a00f
-#EXTINF:-1 group-title="NEW SERVER",STAR Movies HD - Rs 19.00
-http://66.102.120.18:8000/play/a021
-#EXTINF:-1 group-title="NEW SERVER",STAR Movies Select HD - Rs 19.00
-http://66.102.120.18:8000/play/a020
-#EXTINF:-1 group-title="NEW SERVER",STAR Plus HD - Rs 22.00
-http://66.102.120.18:8000/play/a008
-#EXTINF:-1 group-title="NEW SERVER",STAR SPORTS S1 HD
-http://66.102.120.18:8000/play/a06x
-#EXTINF:-1 group-title="NEW SERVER",STAR SPORTS S2 HD
-http://66.102.120.18:8000/play/a06y
-#EXTINF:-1 group-title="NEW SERVER",STAR Sports 1 Hindi HD
-http://66.102.120.18:8000/play/a072
-#EXTINF:-1 group-title="NEW SERVER",STAR Sports2 Hindi HD
-http://66.102.120.18:8000/play/a00v
-#EXTINF:-1 group-title="NEW SERVER",SUNO NEWS HD
-http://66.102.120.18:8000/play/a05n
-#EXTINF:-1 group-title="NEW SERVER",Sab TV
-http://66.102.120.18:8000/play/a035
-#EXTINF:-1 group-title="NEW SERVER",See TV
-http://66.102.120.18:8000/play/a03y
-#EXTINF:-1 group-title="NEW SERVER",Set Entertainment
-http://66.102.120.18:8000/play/a05r
-#EXTINF:-1 group-title="NEW SERVER",Sindh News
-http://66.102.120.18:8000/play/a03x
-#EXTINF:-1 group-title="NEW SERVER",Sindh TV
-http://66.102.120.18:8000/play/a03w
-#EXTINF:-1 group-title="NEW SERVER",Sonic - Rs 1.00
-http://66.102.120.18:8000/play/a00p
-#EXTINF:-1 group-title="NEW SERVER",Star Bharat HD - Rs 19
-http://66.102.120.18:8000/play/a012
-#EXTINF:-1 group-title="NEW SERVER",Star Gold 2 - Rs 3.00
-http://66.102.120.18:8000/play/a00g
-#EXTINF:-1 group-title="NEW SERVER",Star Gold 2 HD
-http://66.102.120.18:8000/play/a077
-#EXTINF:-1 group-title="NEW SERVER",Star Gold Romance - Rs 2.00
-http://66.102.120.18:8000/play/a00r
-#EXTINF:-1 group-title="NEW SERVER",Star Gold Select HD - Rs 8.00
-http://66.102.120.18:8000/play/a01s
-#EXTINF:-1 group-title="NEW SERVER",Star Gold Thrills - Rs 2.00
-http://66.102.120.18:8000/play/a00c
-#EXTINF:-1 group-title="NEW SERVER",Star Sports 1 HD - Rs 19.00
-http://66.102.120.18:8000/play/a009
-#EXTINF:-1 group-title="NEW SERVER",Star Sports 1 Hindi - Rs 19.00
-http://66.102.120.18:8000/play/a00i
-#EXTINF:-1 group-title="NEW SERVER",TLC HD - Rs 3.00
-http://66.102.120.18:8000/play/a01c
-#EXTINF:-1 group-title="NEW SERVER",TRT World HD
-http://66.102.120.18:8000/play/a03l
-#EXTINF:-1 group-title="NEW SERVER",TV ONE
-http://66.102.120.18:8000/play/a055
-#EXTINF:-1 group-title="NEW SERVER",Travelxp HD
-http://66.102.120.18:8000/play/a075
-#EXTINF:-1 group-title="NEW SERVER",WASEB TV
-http://66.102.120.18:8000/play/a056
-#EXTINF:-1 group-title="NEW SERVER",Zee Anmol Cinema - Rs 0.10
-http://66.102.120.18:8000/play/a01v
-#EXTINF:-1 group-title="NEW SERVER",Zee Bollywood - Rs 3.00
-http://66.102.120.18:8000/play/a00n
-#EXTINF:-1 group-title="NEW SERVER",Zee Cafe HD
-http://66.102.120.18:8000/play/a076
-#EXTINF:-1 group-title="NEW SERVER",Zee Cinema HD
-http://66.102.120.18:8000/play/a06w
-#EXTINF:-1 group-title="NEW SERVER",Zee Classic - Rs 0.10
-http://66.102.120.18:8000/play/a006
-#EXTINF:-1 group-title="NEW SERVER",Zee TV HD - Rs 19.00
-http://66.102.120.18:8000/play/a00y
-#EXTINF:-1 group-title="NEW SERVER",iFilm English
-http://66.102.120.18:8000/play/a06n
-
-#EXTINF:-1 group-title="ALL INDIAN MIX",Star Sports 1 HD Tamil
-http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Disney Channel
-http://103.182.170.32:8888/play/a04g
-#EXTINF:-1 group-title="ALL INDIAN MIX",EKUSHEY TV HD
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",MY TV HD
-https://mytvbangla.com/0.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Europe Sports 1 HD
-http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Europe  Sports 2 HD
-http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Discovery Kids
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Arena_Sport
-http://178.23.88.55/Arena_sport/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Sport 1 HD
-http://178.23.88.55/Sport1/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Nova_Sport
-http://178.23.88.55/Nova_Sport/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Eurosport_2
-http://178.23.88.55/Eurosport_2/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Arena_Sport_1 HD
-http://78.108.251.7/Arena_Sport_1/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Arena_Sport_2 HD
-http://78.108.251.7/Arena_Sport_2/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Arena_Sport_3 HD
-http://78.108.251.7/Arena_Sport_3/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Arena_Sport_4 HD
-http://78.108.251.7/Arena_Sport_4/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Arena_Sport_5 HD
-http://78.108.251.7/Arena_Sport_5/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",MovieStar HD
-http://78.108.251.7/MovieStar/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Diema HD
-http://78.108.251.7/Diema/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",MagicTV HD
-http://78.108.251.7/MagicTV/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",DMSat
-http://78.108.251.7/DMSat/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",EKids
-http://78.108.251.7/EKids/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",RodinaTV HD
-http://78.108.251.7/RodinaTV/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",DaVinciLearning
-http://78.108.251.7/DaVinciLearning/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",DuckTV
-http://78.108.251.7/DuckTV/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",MTVEurope
-http://78.108.251.7/MTVEurope/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",EpicDrama HD
-http://78.108.251.7/EpicDrama/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",DiemaFamily
-http://78.108.251.7/DiemaFamily/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",BabyTV
-http://78.108.251.7/BabyTV/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",NickToons
-http://78.108.251.7/NickToons/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",RTA Sports
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Duck TV
-https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Nick
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Zoo Moo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ALL INDIAN MIX",Shehab
-http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/192411
