@@ -707,10 +707,6 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/hdntl=exp=17
 http://103.253.18.58:8000/play/a00b
 #EXTINF:-1 tvg-id="" group-title="ALL INDIA FREE",Star Family (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@HD" group-title="ALL INDIA FREE",Star Sports 1 HD (720p)
-http://122.165.240.223:1234/stream/tp/sp1/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@HD" group-title="ALL INDIA FREE",Star Sports 2 HD (720p)
-http://122.165.240.223:1234/stream/tp/sp2/master.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD" group-title="ALL INDIA FREE",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@SD" group-title="ALL INDIA FREE",StarPlus (576p)
@@ -1125,7 +1121,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Z5 TARUN Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1770554975~acl=%2f*~id=4883d0d3-e1ec-4765-8fd9-bd5c76419ee0~data=hdntl~hmac=0c1fc883a22690c2e7e088ddbe2dff045a430244699dc4288b2a5c28b90c71bd
-#EXTM3U billed-msg="Actualizado 06/Feb/2026 (HOLA KARI)"
+#EXTM3U billed-msg="Actualizado 08/Feb/2026 (HOLA KARI)"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1346,370 +1342,6 @@ http://147.93.154.65/Bein3/index.m3u8
 #EXTINF:-1 group-title="ALL INDIAN MIX",True Vision Sports
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=191873&extension=m3u8
 
-#EXTINF:-1 group-title="NEW SERVER",&flix HD - Rs 19.00
-http://66.102.120.18:8000/play/a022
-#EXTINF:-1 group-title="NEW SERVER",&pictures HD - Rs 19.00
-http://66.102.120.18:8000/play/a01t
-#EXTINF:-1 group-title="NEW SERVER",&tv HD - Rs 19.00
-http://66.102.120.18:8000/play/a01u
-#EXTINF:-1 group-title="NEW SERVER",24 News HD
-http://66.102.120.18:8000/play/a04v
-#EXTINF:-1 group-title="NEW SERVER",24B HD
-http://66.102.120.18:8000/play/a044
-#EXTINF:-1 group-title="NEW SERVER",365 NEWS
-http://66.102.120.18:8000/play/a039
-#EXTINF:-1 group-title="NEW SERVER",8XM HD
-http://66.102.120.18:8000/play/a050
-#EXTINF:-1 group-title="NEW SERVER",92 Entertainment
-http://66.102.120.18:8000/play/a06m
-#EXTINF:-1 group-title="NEW SERVER",92 News HD
-http://66.102.120.18:8000/play/a04y
-#EXTINF:-1 group-title="NEW SERVER",A SportsHD
-http://66.102.120.18:8000/play/a032
-#EXTINF:-1 group-title="NEW SERVER",A1 TV
-http://66.102.120.18:8000/play/a04q
-#EXTINF:-1 group-title="NEW SERVER",AAJ ENTERTANMENT
-http://66.102.120.18:8000/play/a05b
-#EXTINF:-1 group-title="NEW SERVER",AAJ NEWS
-http://66.102.120.18:8000/play/a05a
-#EXTINF:-1 group-title="NEW SERVER",AAN TV - HD
-http://66.102.120.18:8000/play/a05j
-#EXTINF:-1 group-title="NEW SERVER",ABBTAKK HD
-http://66.102.120.18:8000/play/a051
-#EXTINF:-1 group-title="NEW SERVER",AIK NEWS
-http://66.102.120.18:8000/play/a03d
-#EXTINF:-1 group-title="NEW SERVER",APNA CHANNEL HD
-http://66.102.120.18:8000/play/a04z
-#EXTINF:-1 group-title="NEW SERVER",APlus Pakistan
-http://66.102.120.18:8000/play/a03c
-#EXTINF:-1 group-title="NEW SERVER",ARYDigitalAsia HD
-http://66.102.120.18:8000/play/a030
-#EXTINF:-1 group-title="NEW SERVER",ARYMusik
-http://66.102.120.18:8000/play/a036
-#EXTINF:-1 group-title="NEW SERVER",ARYNewsAsia
-http://66.102.120.18:8000/play/a02z
-#EXTINF:-1 group-title="NEW SERVER",ARYQTV
-http://66.102.120.18:8000/play/a014
-#EXTINF:-1 group-title="NEW SERVER",ARYZindagi
-http://66.102.120.18:8000/play/a031
-#EXTINF:-1 group-title="NEW SERVER",ATV ENT HD
-http://66.102.120.18:8000/play/a03t
-#EXTINF:-1 group-title="NEW SERVER",AUR_Life HD
-http://66.102.120.18:8000/play/a05k
-#EXTINF:-1 group-title="NEW SERVER",AXN
-http://66.102.120.18:8000/play/a06i
-#EXTINF:-1 group-title="NEW SERVER",Al Jazeera English HD
-http://66.102.120.18:8000/play/a015
-#EXTINF:-1 group-title="NEW SERVER",Animal Planet HD
-http://66.102.120.18:8000/play/a00o
-#EXTINF:-1 group-title="NEW SERVER",B4U Movies - Free
-http://66.102.120.18:8000/play/a01w
-#EXTINF:-1 group-title="NEW SERVER",BBC News
-http://66.102.120.18:8000/play/a074
-#EXTINF:-1 group-title="NEW SERVER",BOL News Urdu
-http://66.102.120.18:8000/play/a038
-#EXTINF:-1 group-title="NEW SERVER",CITY-21
-http://66.102.120.18:8000/play/a05z
-#EXTINF:-1 group-title="NEW SERVER",CITY-42 HD
-http://66.102.120.18:8000/play/a05x
-#EXTINF:-1 group-title="NEW SERVER",CNN International
-http://66.102.120.18:8000/play/a017
-#EXTINF:-1 group-title="NEW SERVER",COLORS CINIPLEX HD
-http://66.102.120.18:8000/play/a06z
-#EXTINF:-1 group-title="NEW SERVER",Capital TV
-http://66.102.120.18:8000/play/a02y
-#EXTINF:-1 group-title="NEW SERVER",Cartoon Network - Rs 4.75
-http://66.102.120.18:8000/play/a00t
-#EXTINF:-1 group-title="NEW SERVER",Cartoon Network HD+ - Rs 7.0
-http://66.102.120.18:8000/play/a011
-#EXTINF:-1 group-title="NEW SERVER",Colors Cineplex Bollywood - Rs 0.10
-http://66.102.120.18:8000/play/a01a
-#EXTINF:-1 group-title="NEW SERVER",Colors HD
-http://66.102.120.18:8000/play/a00a
-#EXTINF:-1 group-title="NEW SERVER",Colors Infinity HD
-http://66.102.120.18:8000/play/a00q
-#EXTINF:-1 group-title="NEW SERVER",DW English HD
-http://66.102.120.18:8000/play/a03i
-#EXTINF:-1 group-title="NEW SERVER",Discover Pakistan
-http://66.102.120.18:8000/play/a06r
-#EXTINF:-1 group-title="NEW SERVER",Discover Pakistan
-http://66.102.120.18:8000/play/a03v
-#EXTINF:-1 group-title="NEW SERVER",Discovery HD - Rs 8.00
-http://66.102.120.18:8000/play/a01k
-#EXTINF:-1 group-title="NEW SERVER",Discovery Kids - Rs 3.50
-http://66.102.120.18:8000/play/a00k
-#EXTINF:-1 group-title="NEW SERVER",Discovery Science - Rs 1.00
-http://66.102.120.18:8000/play/a01l
-#EXTINF:-1 group-title="NEW SERVER",Discovery Turbo - Rs 1.00
-http://66.102.120.18:8000/play/a016
-#EXTINF:-1 group-title="NEW SERVER",Disney International HD
-http://66.102.120.18:8000/play/a078
-#EXTINF:-1 group-title="NEW SERVER",Disney Junior
-http://66.102.120.18:8000/play/a004
-#EXTINF:-1 group-title="NEW SERVER",Disny
-http://66.102.120.18:8000/play/a070
-#EXTINF:-1 group-title="NEW SERVER",Dunya News HD
-http://66.102.120.18:8000/play/a04u
-#EXTINF:-1 group-title="NEW SERVER",EXP ENTERTAINMENT
-http://66.102.120.18:8000/play/a054
-#EXTINF:-1 group-title="NEW SERVER",EXPRESS NEWS
-http://66.102.120.18:8000/play/a053
-#EXTINF:-1 group-title="NEW SERVER",Eurosport HD - Rs 6.00
-http://66.102.120.18:8000/play/a01g
-#EXTINF:-1 group-title="NEW SERVER",FAST SPORTS HD
-http://66.102.120.18:8000/play/a05f
-#EXTINF:-1 group-title="NEW SERVER",FILMAX
-http://66.102.120.18:8000/play/a04c
-#EXTINF:-1 group-title="NEW SERVER",FILMAZIA
-http://66.102.120.18:8000/play/a04d
-#EXTINF:-1 group-title="NEW SERVER",FILMAZIA PUNJABI
-http://66.102.120.18:8000/play/a04n
-#EXTINF:-1 group-title="NEW SERVER",FIX&FOXI
-http://66.102.120.18:8000/play/a04b
-#EXTINF:-1 group-title="NEW SERVER",GEM COMEDY
-http://66.102.120.18:8000/play/a049
-#EXTINF:-1 group-title="NEW SERVER",GEM TV HD
-http://66.102.120.18:8000/play/a045
-#EXTINF:-1 group-title="NEW SERVER",GEO HD
-http://66.102.120.18:8000/play/a062
-#EXTINF:-1 group-title="NEW SERVER",GEO KAHANI HD
-http://66.102.120.18:8000/play/a064
-#EXTINF:-1 group-title="NEW SERVER",GEO NEWS
-http://66.102.120.18:8000/play/a05w
-#EXTINF:-1 group-title="NEW SERVER",GEO SUPER HD
-http://66.102.120.18:8000/play/a063
-#EXTINF:-1 group-title="NEW SERVER",GNNHD
-http://66.102.120.18:8000/play/a06p
-#EXTINF:-1 group-title="NEW SERVER",GTV NEWS HD
-http://66.102.120.18:8000/play/a05m
-#EXTINF:-1 group-title="NEW SERVER",GTV NEWS HD
-http://66.102.120.18:8000/play/a05l
-#EXTINF:-1 group-title="NEW SERVER",Geo Tez
-http://66.102.120.18:8000/play/a05o
-#EXTINF:-1 group-title="NEW SERVER",HUM HD
-http://66.102.120.18:8000/play/a06c
-#EXTINF:-1 group-title="NEW SERVER",HUM NEWS HD
-http://66.102.120.18:8000/play/a05e
-#EXTINF:-1 group-title="NEW SERVER",HUM SITARAY
-http://66.102.120.18:8000/play/a05i
-#EXTINF:-1 group-title="NEW SERVER",Hidayat TV
-http://66.102.120.18:8000/play/a04p
-#EXTINF:-1 group-title="NEW SERVER",History TV18 HD - Rs 7.00
-http://66.102.120.18:8000/play/a01q
-#EXTINF:-1 group-title="NEW SERVER",Hoora TV
-http://66.102.120.18:8000/play/a040
-#EXTINF:-1 group-title="NEW SERVER",INPLUS Pakistan
-http://66.102.120.18:8000/play/a02x
-#EXTINF:-1 group-title="NEW SERVER",Investigation Discovery - Rs 1.00
-http://66.102.120.18:8000/play/a01h
-#EXTINF:-1 group-title="NEW SERVER",Isaac TV
-http://66.102.120.18:8000/play/a04j
-#EXTINF:-1 group-title="NEW SERVER",JALWA HD
-http://66.102.120.18:8000/play/a052
-#EXTINF:-1 group-title="NEW SERVER",KSA SPORT1 HD
-http://66.102.120.18:8000/play/a03o
-#EXTINF:-1 group-title="NEW SERVER",KSA SPORT2 HD
-http://66.102.120.18:8000/play/a03p
-#EXTINF:-1 group-title="NEW SERVER",Khyber News HD
-http://66.102.120.18:8000/play/a058
-#EXTINF:-1 group-title="NEW SERVER",Kidzone Pakistan
-http://66.102.120.18:8000/play/a02l
-#EXTINF:-1 group-title="NEW SERVER",LTN FAMILY
-http://66.102.120.18:8000/play/a04a
-#EXTINF:-1 group-title="NEW SERVER",Lahore News HD
-http://66.102.120.18:8000/play/a04x
-#EXTINF:-1 group-title="NEW SERVER",Lahore Rang HD
-http://66.102.120.18:8000/play/a05h
-#EXTINF:-1 group-title="NEW SERVER",LotusTV
-http://66.102.120.18:8000/play/a03b
-#EXTINF:-1 group-title="NEW SERVER",MASALA TV
-http://66.102.120.18:8000/play/a059
-#EXTINF:-1 group-title="NEW SERVER",MIFA + HD
-http://66.102.120.18:8000/play/a047
-#EXTINF:-1 group-title="NEW SERVER",MIFA + HD
-http://66.102.120.18:8000/play/a048
-#EXTINF:-1 group-title="NEW SERVER",MIFA MUSIC HD
-http://66.102.120.18:8000/play/a046
-#EXTINF:-1 group-title="NEW SERVER",MINIMAX 2
-http://66.102.120.18:8000/play/a04o
-#EXTINF:-1 group-title="NEW SERVER",MTCL 1HD
-http://66.102.120.18:8000/play/a07m
-#EXTINF:-1 group-title="NEW SERVER",MTCL 2HD
-http://66.102.120.18:8000/play/a07j
-#EXTINF:-1 group-title="NEW SERVER",MTCL 3HD
-http://66.102.120.18:8000/play/a07k
-#EXTINF:-1 group-title="NEW SERVER",MTCL 4HD
-http://66.102.120.18:8000/play/a07l
-#EXTINF:-1 group-title="NEW SERVER",MTCL 5HD
-http://66.102.120.18:8000/play/a07i
-#EXTINF:-1 group-title="NEW SERVER",MTCL 6HD
-http://66.102.120.18:8000/play/a07h
-#EXTINF:-1 group-title="NEW SERVER",MTCL 8HD
-http://66.102.120.18:8000/play/a07g
-#EXTINF:-1 group-title="NEW SERVER",MTCL7HD
-http://66.102.120.18:8000/play/a07f
-#EXTINF:-1 group-title="NEW SERVER",MUN TV
-http://66.102.120.18:8000/play/a02j
-#EXTINF:-1 group-title="NEW SERVER",Metro 1
-http://66.102.120.18:8000/play/a034
-#EXTINF:-1 group-title="NEW SERVER",Movies Now HD - Rs 14.00
-http://66.102.120.18:8000/play/a019
-#EXTINF:-1 group-title="NEW SERVER",NATIONAL GEOGRAPHIC HD - Rs 14.00
-http://66.102.120.18:8000/play/a01f
-#EXTINF:-1 group-title="NEW SERVER",NEO NEWS HD
-http://66.102.120.18:8000/play/a05g
-#EXTINF:-1 group-title="NEW SERVER",NEWS ONE
-http://66.102.120.18:8000/play/a057
-#EXTINF:-1 group-title="NEW SERVER",NHK WORLD-JPN
-http://66.102.120.18:8000/play/a03k
-#EXTINF:-1 group-title="NEW SERVER",NOOR TV PK
-http://66.102.120.18:8000/play/a04m
-#EXTINF:-1 group-title="NEW SERVER",Nat Geo Wild HD - Rs 8.00
-http://66.102.120.18:8000/play/a01d
-#EXTINF:-1 group-title="NEW SERVER",Nick  - Rs 6.00
-http://66.102.120.18:8000/play/a00w
-#EXTINF:-1 group-title="NEW SERVER",Nick HD+
-http://66.102.120.18:8000/play/a07a
-#EXTINF:-1 group-title="NEW SERVER",Nick Jr. - Rs 1.00
-http://66.102.120.18:8000/play/a00m
-#EXTINF:-1 group-title="NEW SERVER",ONYX HD
-http://66.102.120.18:8000/play/a041
-#EXTINF:-1 group-title="NEW SERVER",PTV HOME HD
-http://66.102.120.18:8000/play/a04r
-#EXTINF:-1 group-title="NEW SERVER",PTV NATIONAL
-http://66.102.120.18:8000/play/a03s
-#EXTINF:-1 group-title="NEW SERVER",PTV NEWS HD
-http://66.102.120.18:8000/play/a04s
-#EXTINF:-1 group-title="NEW SERVER",PTV WORLD HD
-http://66.102.120.18:8000/play/a04t
-#EXTINF:-1 group-title="NEW SERVER",PTV-SPORTS-HD
-http://66.102.120.18:8000/play/a04w
-#EXTINF:-1 group-title="NEW SERVER",Paigham Pashto
-http://66.102.120.18:8000/play/a04g
-#EXTINF:-1 group-title="NEW SERVER",Paigham Urdu
-http://66.102.120.18:8000/play/a03e
-#EXTINF:-1 group-title="NEW SERVER",Paigham Urdu
-http://66.102.120.18:8000/play/a04k
-#EXTINF:-1 group-title="NEW SERVER",Peace TV English  HD
-http://66.102.120.18:8000/play/a05q
-#EXTINF:-1 group-title="NEW SERVER",Peace TV Urdu  HD
-http://66.102.120.18:8000/play/a05p
-#EXTINF:-1 group-title="NEW SERVER",Planet Fun HD
-http://66.102.120.18:8000/play/a02k
-#EXTINF:-1 group-title="NEW SERVER",Pogo - Rs 4.75
-http://66.102.120.18:8000/play/a00l
-#EXTINF:-1 group-title="NEW SERVER",Public News
-http://66.102.120.18:8000/play/a03u
-#EXTINF:-1 group-title="NEW SERVER",QURAN TV
-http://66.102.120.18:8000/play/a04h
-#EXTINF:-1 group-title="NEW SERVER",RIVER HD
-http://66.102.120.18:8000/play/a043
-#EXTINF:-1 group-title="NEW SERVER",ROHI TV
-http://66.102.120.18:8000/play/a05y
-#EXTINF:-1 group-title="NEW SERVER",RUBIX HD
-http://66.102.120.18:8000/play/a042
-#EXTINF:-1 group-title="NEW SERVER",Romedy Now - Rs 5.00
-http://66.102.120.18:8000/play/a01j
-#EXTINF:-1 group-title="NEW SERVER",SAMAA
-http://66.102.120.18:8000/play/a06o
-#EXTINF:-1 group-title="NEW SERVER",SAUDI CH For Quran HD
-http://66.102.120.18:8000/play/a03m
-#EXTINF:-1 group-title="NEW SERVER",SAUDI CH For Sunnah HD
-http://66.102.120.18:8000/play/a03n
-#EXTINF:-1 group-title="NEW SERVER",SET HD - Rs 19.00
-http://66.102.120.18:8000/play/a005
-#EXTINF:-1 group-title="NEW SERVER",SONY BBC EARTH HD - Rs 19.00
-http://66.102.120.18:8000/play/a01r
-#EXTINF:-1 group-title="NEW SERVER",SONY MAX - Rs 19.00
-http://66.102.120.18:8000/play/a00u
-#EXTINF:-1 group-title="NEW SERVER",SONY MAX 2 - Rs 1.00
-http://66.102.120.18:8000/play/a00h
-#EXTINF:-1 group-title="NEW SERVER",SONY MAX HD
-http://66.102.120.18:8000/play/a071
-#EXTINF:-1 group-title="NEW SERVER",SONY PIX HD - Rs 19.00
-http://66.102.120.18:8000/play/a01z
-#EXTINF:-1 group-title="NEW SERVER",SONY SAB HD - Rs 19.00
-http://66.102.120.18:8000/play/a00d
-#EXTINF:-1 group-title="NEW SERVER",SONY SPORTS TEN 1 HD - Rs 19.00
-http://66.102.120.18:8000/play/a002
-#EXTINF:-1 group-title="NEW SERVER",SONY SPORTS TEN 2 HD - Rs 19.00
-http://66.102.120.18:8000/play/a01y
-#EXTINF:-1 group-title="NEW SERVER",SONY SPORTS TEN 3 HD - Rs 19.00
-http://66.102.120.18:8000/play/a001
-#EXTINF:-1 group-title="NEW SERVER",SONY SPORTS TEN 5 HD - Rs 25.00
-http://66.102.120.18:8000/play/a010
-#EXTINF:-1 group-title="NEW SERVER",SONY YAY! - Rs 4.00
-http://66.102.120.18:8000/play/a00s
-#EXTINF:-1 group-title="NEW SERVER",STAR GOLD HD - Rs 19.00
-http://66.102.120.18:8000/play/a00f
-#EXTINF:-1 group-title="NEW SERVER",STAR Movies HD - Rs 19.00
-http://66.102.120.18:8000/play/a021
-#EXTINF:-1 group-title="NEW SERVER",STAR Movies Select HD - Rs 19.00
-http://66.102.120.18:8000/play/a020
-#EXTINF:-1 group-title="NEW SERVER",STAR Plus HD - Rs 22.00
-http://66.102.120.18:8000/play/a008
-#EXTINF:-1 group-title="NEW SERVER",STAR SPORTS S1 HD
-http://66.102.120.18:8000/play/a06x
-#EXTINF:-1 group-title="NEW SERVER",STAR SPORTS S2 HD
-http://66.102.120.18:8000/play/a06y
-#EXTINF:-1 group-title="NEW SERVER",STAR Sports 1 Hindi HD
-http://66.102.120.18:8000/play/a072
-#EXTINF:-1 group-title="NEW SERVER",STAR Sports2 Hindi HD
-http://66.102.120.18:8000/play/a00v
-#EXTINF:-1 group-title="NEW SERVER",SUNO NEWS HD
-http://66.102.120.18:8000/play/a05n
-#EXTINF:-1 group-title="NEW SERVER",Sab TV
-http://66.102.120.18:8000/play/a035
-#EXTINF:-1 group-title="NEW SERVER",See TV
-http://66.102.120.18:8000/play/a03y
-#EXTINF:-1 group-title="NEW SERVER",Set Entertainment
-http://66.102.120.18:8000/play/a05r
-#EXTINF:-1 group-title="NEW SERVER",Sindh News
-http://66.102.120.18:8000/play/a03x
-#EXTINF:-1 group-title="NEW SERVER",Sindh TV
-http://66.102.120.18:8000/play/a03w
-#EXTINF:-1 group-title="NEW SERVER",Sonic - Rs 1.00
-http://66.102.120.18:8000/play/a00p
-#EXTINF:-1 group-title="NEW SERVER",Star Bharat HD - Rs 19
-http://66.102.120.18:8000/play/a012
-#EXTINF:-1 group-title="NEW SERVER",Star Gold 2 - Rs 3.00
-http://66.102.120.18:8000/play/a00g
-#EXTINF:-1 group-title="NEW SERVER",Star Gold 2 HD
-http://66.102.120.18:8000/play/a077
-#EXTINF:-1 group-title="NEW SERVER",Star Gold Romance - Rs 2.00
-http://66.102.120.18:8000/play/a00r
-#EXTINF:-1 group-title="NEW SERVER",Star Gold Select HD - Rs 8.00
-http://66.102.120.18:8000/play/a01s
-#EXTINF:-1 group-title="NEW SERVER",Star Gold Thrills - Rs 2.00
-http://66.102.120.18:8000/play/a00c
-#EXTINF:-1 group-title="NEW SERVER",Star Sports 1 HD - Rs 19.00
-http://66.102.120.18:8000/play/a009
-#EXTINF:-1 group-title="NEW SERVER",Star Sports 1 Hindi - Rs 19.00
-http://66.102.120.18:8000/play/a00i
-#EXTINF:-1 group-title="NEW SERVER",TLC HD - Rs 3.00
-http://66.102.120.18:8000/play/a01c
-#EXTINF:-1 group-title="NEW SERVER",TRT World HD
-http://66.102.120.18:8000/play/a03l
-#EXTINF:-1 group-title="NEW SERVER",TV ONE
-http://66.102.120.18:8000/play/a055
-#EXTINF:-1 group-title="NEW SERVER",Travelxp HD
-http://66.102.120.18:8000/play/a075
-#EXTINF:-1 group-title="NEW SERVER",WASEB TV
-http://66.102.120.18:8000/play/a056
-#EXTINF:-1 group-title="NEW SERVER",Zee Anmol Cinema - Rs 0.10
-http://66.102.120.18:8000/play/a01v
-#EXTINF:-1 group-title="NEW SERVER",Zee Bollywood - Rs 3.00
-http://66.102.120.18:8000/play/a00n
-#EXTINF:-1 group-title="NEW SERVER",Zee Cafe HD
-http://66.102.120.18:8000/play/a076
-#EXTINF:-1 group-title="NEW SERVER",Zee Cinema HD
-http://66.102.120.18:8000/play/a06w
-#EXTINF:-1 group-title="NEW SERVER",Zee Classic - Rs 0.10
-http://66.102.120.18:8000/play/a006
-#EXTINF:-1 group-title="NEW SERVER",Zee TV HD - Rs 19.00
-http://66.102.120.18:8000/play/a00y
-#EXTINF:-1 group-title="NEW SERVER",iFilm English
-http://66.102.120.18:8000/play/a06n
 
 #EXTINF:-1 group-title="ALL INDIAN MIX",Star Sports 1 HD Tamil
 http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
@@ -2988,3 +2620,388 @@ https://airtel.rkdyiptv.workers.dev/live/1776.m3u8
 https://airtel.rkdyiptv.workers.dev/live/1909.m3u8
 #EXTINF:-1 group-title="HINDI" tvg-id="No details available" tvg-name="YYZ TV HD" ,YYZ TV HD
 https://airtel.rkdyiptv.workers.dev/live/2403.m3u8
+
+#EXTINF:-1 group-title="NEW SERVER ✔️", TEN 3 Hindi - Rs 19.00
+http://103.229.254.25:7001/play/a09q/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", & PICTURE HD
+http://103.229.254.25:7001/play/a073/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", &Prive HD - Rs 6.00
+http://103.229.254.25:7001/play/a03f/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", &flix HD - Rs 19.00
+http://103.229.254.25:7001/play/a02x/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", &pictures HD - Rs 19.00
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", &tv - Rs 10.00
+http://103.229.254.25:7001/play/a09v/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", &tv HD - Rs 19.00
+http://103.229.254.25:7001/play/a034/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", 4K NATURE
+http://103.229.254.25:7001/play/a0eu/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", 9X JALWA
+http://103.229.254.25:7001/play/a07r/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", 9X JHAKAAS
+http://103.229.254.25:7001/play/a07p/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", 9X TASHAN
+http://103.229.254.25:7001/play/a07n/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", 9XM
+http://103.229.254.25:7001/play/a07o/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", A SportsHD
+http://103.229.254.25:7001/play/a087/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", AAKAASH BANGLA
+http://103.229.254.25:7001/play/a085/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ARYDigitalAsia HD
+http://103.229.254.25:7001/play/a07w/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ARYZindagi
+http://103.229.254.25:7001/play/a07u/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ATN Bangla
+http://103.229.254.25:7001/play/a06b/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ATN News
+http://103.229.254.25:7001/play/a05u/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Ananda TV
+http://103.229.254.25:7001/play/a05v/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Animal Planet HD  - Rs 5.00
+http://103.229.254.25:7001/play/a0dr/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Asianet HD - Rs 25.00
+http://103.229.254.25:7001/play/a0by/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", B4U KADAK
+http://103.229.254.25:7001/play/a08c/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", BTV Chattagram
+http://103.229.254.25:7001/play/a061/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", BTV HD
+http://103.229.254.25:7001/play/a064/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", BTV NEWS HD
+http://103.229.254.25:7001/play/a065/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Bangla Vision
+http://103.229.254.25:7001/play/a06d/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", BanglaTV HD
+http://103.229.254.25:7001/play/a06c/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Bein Sport 1
+http://103.229.254.25:7001/play/a0f0/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Bein Sport 2
+http://103.229.254.25:7001/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Best Action
+http://103.229.254.25:7001/play/a088/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", BijoyTV
+http://103.229.254.25:7001/play/a066/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Boishakhi TV
+http://103.229.254.25:7001/play/a067/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", CHANNEL NINE BD
+http://103.229.254.25:7001/play/a05j/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", CINEMA HALL
+http://103.229.254.25:7001/play/a0es/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", COLORS
+http://103.229.254.25:7001/play/a077/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", COLORS BANGLA/ENC 70006
+http://103.229.254.25:7001/play/a076/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Cartoon Network - Rs 5.00
+http://103.229.254.25:7001/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Channel 24HD
+http://103.229.254.25:7001/play/a05n/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Channel I HD
+http://103.229.254.25:7001/play/a06e/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Channel S
+http://103.229.254.25:7001/play/a060/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Cnal SPorts
+http://103.229.254.25:7001/play/a0er/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Colors Bangla HD - Rs 19.00
+http://103.229.254.25:7001/play/a0ds/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Colors HD - Rs 19.00
+http://103.229.254.25:7001/play/a0a1/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Colors Infinity HD - Rs 15.00
+http://103.229.254.25:7001/play/a0du/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", DAZN SPORT
+http://103.229.254.25:7001/play/a0eq/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", DBC NEWS
+http://103.229.254.25:7001/play/a06h/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", DHOOM
+http://103.229.254.25:7001/play/a086/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", DISCOVERY
+http://103.229.254.25:7001/play/a071/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Deepto TV HD
+http://103.229.254.25:7001/play/a05r/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Desh TV
+http://103.229.254.25:7001/play/a05s/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Discovery HD - Rs 8.00
+http://103.229.254.25:7001/play/a03g/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Discovery Kids - Rs 4.00
+http://103.229.254.25:7001/play/a0dg/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Discovery Science - Rs 1.00
+http://103.229.254.25:7001/play/a03h/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Disney Junior - Rs 4.00
+http://103.229.254.25:7001/play/a09r/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Duronto TV HD
+http://103.229.254.25:7001/play/a05k/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", EKHON TV
+http://103.229.254.25:7001/play/a09k/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ENC 6103
+http://103.229.254.25:7001/play/a06n/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ENC 6105 Duronto
+http://103.229.254.25:7001/play/a06p/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ENC 6106
+http://103.229.254.25:7001/play/a06q/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ENC 7014
+http://103.229.254.25:7001/play/a07e/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ENC 7016
+http://103.229.254.25:7001/play/a07g/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ETV HD - Rs 19.00
+http://103.229.254.25:7001/play/a0de/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Ekattor TV HD
+http://103.229.254.25:7001/play/a06f/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Ekushey TV
+http://103.229.254.25:7001/play/a05x/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Enc 6110
+http://103.229.254.25:7001/play/a06u/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Enc 6114
+http://103.229.254.25:7001/play/a06y/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Enc 6115
+http://103.229.254.25:7001/play/a06z/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Enterr10 Bangla
+http://103.229.254.25:7001/play/a080/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Eurosport HD - Rs 6.00
+http://103.229.254.25:7001/play/a03b/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", GEO SUPER
+http://103.229.254.25:7001/play/a0ei/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", GLOBAL TV HD
+http://103.229.254.25:7001/play/a05o/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", GOLDMINES MOVIES
+http://103.229.254.25:7001/play/a07k/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Gazi Tv HD
+http://103.229.254.25:7001/play/a06t/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Goldmines Bollywood
+http://103.229.254.25:7001/play/a07l/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", History TV18 HD - Rs 7.00
+http://103.229.254.25:7001/play/a02z/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ITV24
+http://103.229.254.25:7001/play/a06a/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Investigation Discovery - Rs 1.00
+http://103.229.254.25:7001/play/a03c/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", JALSHA MOVIES ENC 7008
+http://103.229.254.25:7001/play/a078/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", JB CABLES TV
+http://103.229.254.25:7001/play/a07d/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Jalsha Movies HD - Rs 19.00
+http://103.229.254.25:7001/play/a0dt/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Jamuna Television
+http://103.229.254.25:7001/play/a05y/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", KSA SPORT 2
+http://103.229.254.25:7001/play/a0ej/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", LotusTV
+http://103.229.254.25:7001/play/a07x/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", MASTIII
+http://103.229.254.25:7001/play/a07q/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", MAX Movie eng
+http://103.229.254.25:7001/play/a0et/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", MBC 1
+http://103.229.254.25:7001/play/a0ec/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", MBC 2
+http://103.229.254.25:7001/play/a0em/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", MBC 3
+http://103.229.254.25:7001/play/a0el/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", MBC MAX
+http://103.229.254.25:7001/play/a0ek/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", MTV HD - Rs 2.00
+http://103.229.254.25:7001/play/a02s/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", MYTV HD
+http://103.229.254.25:7001/play/a05z/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Maasranga TV HD
+http://103.229.254.25:7001/play/a05q/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Madani TV
+http://103.229.254.25:7001/play/a05p/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Mohona TV
+http://103.229.254.25:7001/play/a05t/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://103.229.254.25:7001/play/a038/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", NEXUS TV ENC1
+http://103.229.254.25:7001/play/a05m/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", NICK ENC 7011
+http://103.229.254.25:7001/play/a07b/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", NTV HD EN-1
+http://103.229.254.25:7001/play/a06g/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Nat Geo Wild
+http://103.229.254.25:7001/play/a06r/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", News 24 HD
+http://103.229.254.25:7001/play/a06i/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Nick  - Rs 7.00
+http://103.229.254.25:7001/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Nick Jr. - Rs 1.00
+http://103.229.254.25:7001/play/a0di/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", PIX HD
+http://103.229.254.25:7001/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", PTV-Home
+http://103.229.254.25:7001/play/a082/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", PTV-SPORTS-HD
+http://103.229.254.25:7001/play/a084/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Pogo - Rs 5.00
+http://103.229.254.25:7001/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", RUPSHI BANGLA
+http://103.229.254.25:7001/play/a083/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Rtv HD
+http://103.229.254.25:7001/play/a068/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SA TV HD
+http://103.229.254.25:7001/play/a062/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SANGSAD TV HD
+http://103.229.254.25:7001/play/a069/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SET HD - Rs 25.00
+http://103.229.254.25:7001/play/a09u/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SKYNET SPORTS
+http://103.229.254.25:7001/play/a0eh/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SOMOY TV
+http://103.229.254.25:7001/play/a05l/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY AATH
+http://103.229.254.25:7001/play/a07a/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY AATH - Rs 6.00 old
+http://103.229.254.25:7001/play/a0e3/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY BBC EARTH HD - Rs 19.00
+http://103.229.254.25:7001/play/a031/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY MAX - Rs 19.00
+http://103.229.254.25:7001/play/a0co/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY PIX HD - Rs 19.00
+http://103.229.254.25:7001/play/a02u/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY SAB - Rs 19.00
+http://103.229.254.25:7001/play/a09s/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY SAB HD - Rs 25.00
+http://103.229.254.25:7001/play/a0db/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY SET
+http://103.229.254.25:7001/play/a074/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY SPORTS TEN 5 - Rs 19.00
+http://103.229.254.25:7001/play/a0e4/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY SPORTS TEN 5 HD - Rs 25.00
+http://103.229.254.25:7001/play/a0dw/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY TEN 2
+http://103.229.254.25:7001/play/a06m/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY TEN 5
+http://103.229.254.25:7001/play/a072/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", SONY YAY! - Rs 4.00
+http://103.229.254.25:7001/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", STAR GOLD HD - Rs 19.00
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", STAR JALSHA
+http://103.229.254.25:7001/play/a075/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", STAR Maa HD - Rs 25.00
+http://103.229.254.25:7001/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", STAR Movies HD - Rs 19.00
+http://103.229.254.25:7001/play/a02w/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", STAR Movies Select HD - Rs 19.00
+http://103.229.254.25:7001/play/a02v/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", STAR PLUS
+http://103.229.254.25:7001/play/a079/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", STAR PLUS - Rs 19.00
+http://103.229.254.25:7001/play/a09p/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", STAR Plus HD - Rs 25.00
+http://103.229.254.25:7001/play/a09z/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", STAR SPORTS 1
+http://103.229.254.25:7001/play/a07f/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Sangeet Bangla
+http://103.229.254.25:7001/play/a07m/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Saudi Quran
+http://103.229.254.25:7001/play/a07z/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Saudi Sunnah
+http://103.229.254.25:7001/play/a07y/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Saudi TV1 HD
+http://103.229.254.25:7001/play/a07v/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Shemaroo Bollywood
+http://103.229.254.25:7001/play/a07s/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Shemaroo Comedy
+http://103.229.254.25:7001/play/a07i/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Sonic - Rs 2.00
+http://103.229.254.25:7001/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Sony PIX
+http://103.229.254.25:7001/play/a06v/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Sony SET
+http://103.229.254.25:7001/play/a0eb/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Sony YAY!
+http://103.229.254.25:7001/play/a06w/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",Star Bangla
+http://103.229.254.25:7001/play/a0eo/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Gold 2 - Rs 5.00
+http://103.229.254.25:7001/play/a0df/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Gold 2 HD - Rs 8.00
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Gold Romance - Rs 3.00
+http://103.229.254.25:7001/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Gold Select HD - Rs 8.00
+http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Jalsha HD - Rs 19.00
+http://103.229.254.25:7001/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Pravah HD - Rs 19.00
+http://103.229.254.25:7001/play/a0cm/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Sport 2
+http://103.229.254.25:7001/play/a06x/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Sports 1 HD - Rs 19.00
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Sports 1 Hindi - Rs 19.00
+http://103.229.254.25:7001/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Sports 2 Hindi - Rs 19.00
+http://103.229.254.25:7001/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Sports 2 Hindi HD - Rs 19.00
+http://103.229.254.25:7001/play/a0cp/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Sports 2 Tamil - Rs 4.00
+http://103.229.254.25:7001/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Sports 2 Tamil HD - Rs 19.00
+http://103.229.254.25:7001/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Sports Select 1 HD - Rs 19.00
+http://103.229.254.25:7001/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Star Sports Select 2 HD - Rs 15.00
+http://103.229.254.25:7001/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Sun Bangla - Free
+http://103.229.254.25:7001/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Surya HD - Rs 19.00
+http://103.229.254.25:7001/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", T Sports HD
+http://103.229.254.25:7001/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", TEN 1
+http://103.229.254.25:7001/play/a07c/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", TEN 1
+http://103.229.254.25:7001/play/a0ee/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", TEN 2 HD
+http://103.229.254.25:7001/play/a0ef/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", TEN 2 HD - Rs 19.00
+http://103.229.254.25:7001/play/a02t/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", TEN 3 Hindi
+http://103.229.254.25:7001/play/a0eg/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", TEN 5
+http://103.229.254.25:7001/play/a0en/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", THE Q
+http://103.229.254.25:7001/play/a07j/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Ten Cricket
+http://103.229.254.25:7001/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ThePapare 1
+http://103.229.254.25:7001/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ThePapare 2
+http://103.229.254.25:7001/play/a0ex/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Travelxp - Rs 3.00
+http://103.229.254.25:7001/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Travelxp HD - Rs 9.00
+http://103.229.254.25:7001/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", VARZESH
+http://103.229.254.25:7001/play/a0ey/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", WILD EARTH
+http://103.229.254.25:7001/play/a0ev/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ZEE BANGLA
+http://103.229.254.25:7001/play/a06o/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ZEE BANGLA CINEMA
+http://103.229.254.25:7001/play/a070/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", ZEE CINEMA
+http://103.229.254.25:7001/play/a06s/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Zee Anmol Cinema - Rs 0.10
+http://103.229.254.25:7001/play/a035/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Zee Bangla HD - Rs 19.00
+http://103.229.254.25:7001/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Zee Bollywood - Rs 3.00
+http://103.229.254.25:7001/play/a0dk/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Zee Cafe HD - Rs 5.00
+http://103.229.254.25:7001/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Zee Cinema HD - Rs 19.00
+http://103.229.254.25:7001/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Zee Classic - Rs 0.10
+http://103.229.254.25:7001/play/a09w/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Zee News HD - Rs 1.50
+http://103.229.254.25:7001/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Zee TV - Rs 19.00
+http://103.229.254.25:7001/play/a09t/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Zee TV HD - Rs 19.00
+http://103.229.254.25:7001/play/a0cs/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", Zee Zest HD - Rs 10.00
+http://103.229.254.25:7001/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="NEW SERVER ✔️", asiantvHD
+http://103.229.254.25:7001/play/a063/index.m3u8
