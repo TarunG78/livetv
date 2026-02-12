@@ -892,7 +892,7 @@ https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u
 #EXTINF:-1 tvg-id="Network10.in@SD" group-title="ALL INDIA FREE",Network 10
 https://network10.livebox.co.in/network10hls/live.m3u8
 404: Not Found
-#EXTM3U billed-msg="Actualizado 08/Feb/2026 (HOLA KARI)"
+#EXTM3U billed-msg="Actualizado 12/Feb/2026 (HOLA KARI)"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2394,8 +2394,6 @@ https://airtel.rkdyiptv.workers.dev/live/2403.m3u8
 
 #EXTINF:-1 group-title="NEW SERVER ✔️", TEN 3 Hindi - Rs 19.00
 http://103.229.254.25:7001/play/a09q/index.m3u8
-#EXTINF:-1 group-title="NEW SERVER ✔️", & PICTURE HD
-http://103.229.254.25:7001/play/a073/index.m3u8
 #EXTINF:-1 group-title="NEW SERVER ✔️", &Prive HD - Rs 6.00
 http://103.229.254.25:7001/play/a03f/index.m3u8
 #EXTINF:-1 group-title="NEW SERVER ✔️", &flix HD - Rs 19.00
