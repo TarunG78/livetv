@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Actualizado 14/Feb/2026 (HOLA KARI)"
+#EXTM3U billed-msg="Actualizado 16/Feb/2026 (HOLA KARI)"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1850,6 +1850,68 @@ http://103.229.254.25:7001/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="NEW SERVER ✔️", asiantvHD
 http://103.229.254.25:7001/play/a063/index.m3u8
 
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,***IND: DRAMA (4K ULTRA HD)***
+https://restream-bay.vercel.app/?id=109946&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="colorshd.in" ,COLORS (4K)
+https://restream-bay.vercel.app/?id=109947&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyhd.in" ,SONY SET (4K)
+https://restream-bay.vercel.app/?id=109948&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="starplushd.in" ,STAR PLUS (4K)
+https://restream-bay.vercel.app/?id=109949&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,ZEE TV (4K)
+https://restream-bay.vercel.app/?id=109950&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="starbharathd.in" ,STAR BHARAT (4K)
+https://restream-bay.vercel.app/?id=109951&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="andtvhd.in" ,&TV (4K)
+https://restream-bay.vercel.app/?id=109952&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonysabhd.in" ,SONY SAB (4K)
+https://restream-bay.vercel.app/?id=109953&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,***IND: MOVIES (4K ULTRA HD)***
+https://restream-bay.vercel.app/?id=109954&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="andpictureshd.in" ,&PICTURES (4K)
+https://restream-bay.vercel.app/?id=109955&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonymaxhd.in" ,SONY MAX (4K)
+https://restream-bay.vercel.app/?id=109957&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="zeecinemaindiahd.in" ,ZEE CINEMA (4K)
+https://restream-bay.vercel.app/?id=109958&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="stargoldhd.in" ,STAR GOLD (4K)
+https://restream-bay.vercel.app/?id=109959&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="stargoldselecthd.in" ,STAR GOLD SELECT (4K)
+https://restream-bay.vercel.app/?id=109960&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,MOVIES_ACTIVE (4K)
+https://restream-bay.vercel.app/?id=109961&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="andflixhd.in" ,& FLIX (4K)
+https://restream-bay.vercel.app/?id=109962&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="andprivehd.in" ,& PRIVE (4K)
+https://restream-bay.vercel.app/?id=109963&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,& XPLORER (4K)
+https://restream-bay.vercel.app/?id=109964&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,MN+ (4K)
+https://restream-bay.vercel.app/?id=109965&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonypixhd.in" ,SONY PIX (4K)
+https://restream-bay.vercel.app/?id=109966&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="moviesnowhd.in" ,MOVIES NOW (4K)
+https://restream-bay.vercel.app/?id=109968&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,STAR MOVIES (4K)
+https://restream-bay.vercel.app/?id=109970&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="starworldhd.in" ,STAR WORLD (4K)
+https://restream-bay.vercel.app/?id=109971&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="discoveryhd.in" ,DISCOVERY (4K)
+https://restream-bay.vercel.app/?id=109974&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="animalplanethd.in" ,ANIMAL PLANET (4K)
+https://restream-bay.vercel.app/?id=109975&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,NAT GEO WILD (4K)
+https://restream-bay.vercel.app/?id=109976&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,NATIONAL GEO (4K)
+https://restream-bay.vercel.app/?id=109977&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,SONY BBC EAR (4K)
+https://restream-bay.vercel.app/?id=109978&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,FOX LIFE (4K)
+https://restream-bay.vercel.app/?id=109980&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,IN: COLORS CINEPLEX (4K)
+https://restream-bay.vercel.app/?id=206315&e=.m3u8
+#EXTINF:-1 group-title="TATA PLAY | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="jalshamovieshd.in" ,IN: JALSHA MOVIES (4K)*
+https://restream-bay.vercel.app/?id=206320&e=.m3u8
 404: Not Found
 #EXTM3U
 #EXTINF:-1 tvg-id="9XJalwa.in@SD" group-title="ALL INDIA FREE",9X Jalwa (1080p)
@@ -2738,6 +2800,100 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV.in@SD" group-title="ALL INDIA FREE",Suriyan TV (576p)
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in@SD" group-title="ALL INDIA FREE",Food Food
+http://45.148.145.57/IN_FOODFOOD/index.m3u8
+#EXTINF:-1 tvg-id="Zee24Ghanta.in@SD" group-title="ALL INDIA FREE",Zee 24 Ghanta
+http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
+#EXTINF:-1 tvg-id="StarVijay.in@SD" group-title="ALL INDIA FREE",Star Vijay
+http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in@SD" group-title="ALL INDIA FREE",Zee Tamil
+http://198.27.83.207:8888/ZEE_TAMIL_SD/index.m3u8
+#EXTINF:-1 tvg-id="SunMusic.in@SD" group-title="ALL INDIA FREE",Sun Music
+http://198.27.83.207:2550/SUN_MUSIC_SD/index.m3u8
+#EXTINF:-1 tvg-id="VaanavilTV.in@SD" group-title="ALL INDIA FREE",Vaanavil TV
+http://198.27.83.207:2550/VAANAVIL_SD/index.m3u8
+#EXTINF:-1 tvg-id="JayaTV.in@HD" group-title="ALL INDIA FREE",Jaya TV
+http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in@SD" group-title="ALL INDIA FREE",Colors Tamil
+http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8
+#EXTINF:-1 tvg-id="SunTV.in@SD" group-title="ALL INDIA FREE",Sun TV
+http://198.27.83.207:2550/SUN_TV_SD/index.m3u8
+#EXTINF:-1 tvg-id="KTV.in@SD" group-title="ALL INDIA FREE",KTV
+http://198.27.83.207:2550/KTV_SD/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in@SD" group-title="ALL INDIA FREE",Zee Tamil
+http://198.27.83.207:2550/ZEE_TAMIL_SD/index.m3u8
+#EXTINF:-1 tvg-id="StarVijay.in@SD" group-title="ALL INDIA FREE",Star Vijay
+http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
+#EXTINF:-1 tvg-id="ZeeZest.in@HD" group-title="ALL INDIA FREE",Zee Zest HD (1080p)
+http://103.229.254.25:7001/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in@HD" group-title="ALL INDIA FREE",Zee TV HD (1080p)
+http://103.229.254.25:7001/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCafe.in@HD" group-title="ALL INDIA FREE",Zee Cafe HD (1080p)
+http://103.229.254.25:7001/play/a0cx/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" group-title="ALL INDIA FREE",Zee Bangla Sonar (576p)
+http://103.229.254.25:7001/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="ALL INDIA FREE",Sony Sports Ten 2 HD (1080p)
+http://103.229.254.25:7001/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="SuryaTV.in@HD" group-title="ALL INDIA FREE",Surya TV (1080p)
+http://103.229.254.25:7001/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Tamil.in@SD" group-title="ALL INDIA FREE",Star Sports 2 Tamil (1080p)
+http://103.229.254.25:7001/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Tamil.in@SD" group-title="ALL INDIA FREE",Star Sports 2 Tamil (576p)
+http://103.229.254.25:7001/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD" group-title="ALL INDIA FREE",Star Sports 1 HD (1080p)
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-id="SunTV.in@SD" group-title="ALL INDIA FREE",Sun TV (576p)
+http://103.229.254.25:7001/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" group-title="ALL INDIA FREE",Star Gold Select HD (1080p)
+http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@HD" group-title="ALL INDIA FREE",Star Gold 2 HD (1080p)
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="Sonic.in@SD" group-title="ALL INDIA FREE",Sonic (576p)
+http://103.229.254.25:7001/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="ALL INDIA FREE",StarPlus HD (1080p)
+http://103.229.254.25:7001/play/a09z/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@SD" group-title="ALL INDIA FREE",StarPlus (576p)
+http://103.229.254.25:7001/play/a09p/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" group-title="ALL INDIA FREE",Star Gold HD (1080p)
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in@SD" group-title="ALL INDIA FREE",Sony Yay! (576p)
+http://103.229.254.25:7001/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen5.in@HD" group-title="ALL INDIA FREE",Sony Sports Ten 5 HD (1080p)
+http://103.229.254.25:7001/play/a0dw/index.m3u8
+#EXTINF:-1 tvg-id="SonyAath.in@SD" group-title="ALL INDIA FREE",Sony Aath (576p)
+http://103.229.254.25:7001/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="ALL INDIA FREE",Sony Pix HD (1080p)
+http://103.229.254.25:7001/play/a0ed/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" group-title="ALL INDIA FREE",Nickelodeon (576p)
+http://103.229.254.25:7001/play/a0cq/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@SD" group-title="ALL INDIA FREE",National Geographic Wild (576p)
+http://103.229.254.25:7001/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in@HD" group-title="ALL INDIA FREE",Jalsha Movies HD (1080p)
+http://103.229.254.25:7001/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in@HD" group-title="ALL INDIA FREE",Colors Infinity HD (1080p)
+http://103.229.254.25:7001/play/a0du/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in@HD" group-title="ALL INDIA FREE",Colors HD (1080p)
+http://103.229.254.25:7001/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD" group-title="ALL INDIA FREE",Colors Bangla HD (1080p)
+http://103.229.254.25:7001/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in@SD" group-title="ALL INDIA FREE",Colors (576p)
+http://103.229.254.25:7001/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="AndTV.in@HD" group-title="ALL INDIA FREE",&TV HD (1080p)
+http://103.229.254.25:7001/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="AndTV.in@SD" group-title="ALL INDIA FREE",&TV (576p)
+http://103.229.254.25:7001/play/a09v/index.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="ALL INDIA FREE",&pictures HD (1080p)
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="ALL INDIA FREE",&prive HD (1080p)
+http://103.229.254.25:7001/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" group-title="ALL INDIA FREE",Sony Sports Ten 3 Hindi (576p)
+http://103.229.254.25:7001/play/a09q/index.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@SD" group-title="ALL INDIA FREE",Sony SAB (720p)
+http://103.229.254.25:7001/play/a09s/index.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@HD" group-title="ALL INDIA FREE",Sony SAB HD (1080p)
+http://103.229.254.25:7001/play/a0db/index.m3u8
+#EXTINF:-1 tvg-id="SuryaTV.in@SD" group-title="ALL INDIA FREE",Surya TV SD (1080p)
+https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
