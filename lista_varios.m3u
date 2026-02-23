@@ -2547,8 +2547,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b1
 https://ktismaservers.in:3902/live/salvationtvlive.m3u8
 #EXTINF:-1 tvg-id="SanaPlus.in@SD" group-title="ALL INDIA FREE",Sana Plus (1080p) [Not 24/7]
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="SanaTV.in@SD" group-title="ALL INDIA FREE",Sana TV (1080p) [Not 24/7]
-https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 tvg-id="SandeshNews.in@SD" group-title="ALL INDIA FREE",Sandesh News (1080p)
 https://dkshlpp7ugzua.cloudfront.net/sandeshnews/index.m3u8
 #EXTINF:-1 tvg-id="SansadTV1.in@SD" group-title="ALL INDIA FREE",Sansad TV 1 (1080p) [Not 24/7]
@@ -2937,6 +2935,8 @@ http://103.99.249.139/zeecinema/index.m3u8
 http://103.99.249.139/stargold/index.m3u8
 #EXTINF:-1 tvg-id="PMCTelugu.in@SD" group-title="ALL INDIA FREE",PMC Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
+#EXTINF:-1 tvg-id="JayaPlus.in@SD" group-title="ALL INDIA FREE",Jaya Plus (576p)
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
