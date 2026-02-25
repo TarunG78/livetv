@@ -2939,6 +2939,36 @@ http://161.248.38.40:8000/play/a0ax/index.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@Global" group-title="ALL INDIA FREE",Zoom Global (720p)
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="ALL INDIA FREE",Zee Cinema HD (1080p)
+http://103.113.103.202:8001/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" group-title="ALL INDIA FREE",Star Sports Select 2 HD (1080p)
+http://103.113.103.202:8001/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" group-title="ALL INDIA FREE",Star Sports Select 1 HD (1080p)
+http://103.113.103.202:8001/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" group-title="ALL INDIA FREE",Star Sports 2 Hindi HD (1080p)
+http://103.113.103.202:8001/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" group-title="ALL INDIA FREE",Star Gold Romance (576p)
+http://103.113.103.202:8001/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="ALL INDIA FREE",Star Movies Select HD (1080p)
+http://103.113.103.202:8001/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="ALL INDIA FREE",Star Movies HD (1080p)
+http://103.113.103.202:8001/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in@SD" group-title="ALL INDIA FREE",Star Bharat (576p)
+http://103.113.103.202:8001/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" group-title="ALL INDIA FREE",Sony Entertainment Television HD (1080p)
+http://103.113.103.202:8001/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax2.in@SD" group-title="ALL INDIA FREE",Sony Max 2 (576p)
+http://103.113.103.202:8001/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@SD" group-title="ALL INDIA FREE",Sony Max (576p)
+http://103.113.103.202:8001/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" group-title="ALL INDIA FREE",National Geographic HD (1080p)
+http://103.113.103.202:8001/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" group-title="ALL INDIA FREE",National Geographic Wild HD (1080p)
+http://103.113.103.202:8001/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="ALL INDIA FREE",Anmol Cinema (576p)
+http://103.113.103.202:8001/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="ALL INDIA FREE",&flix HD (1080p)
+http://103.113.103.202:8001/play/a02k/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
