@@ -31,6 +31,16 @@ jobs:
       - name: Ejecutar el script
         run: python extraer_m3u.py
 
+      - name: Agregar metadata de billed-msg al archivo
+        run: |
+          TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
+          if [ -f lista_varios.m3u ]; then
+            # Crear un archivo temporal con el billed-msg al inicio
+            echo "#EXTM3U billed-msg: Updated on $TIMESTAMP" > temp_lista.m3u
+            tail -n +2 lista_varios.m3u >> temp_lista.m3u 2>/dev/null || echo "" >> temp_lista.m3u
+            mv temp_lista.m3u lista_varios.m3u
+          fi
+
       - name: Comprobar y hacer commit de lista_varios.m3u si hay cambios
         run: |
           git config --local user.name "GitHub Actions"
@@ -39,12 +49,11 @@ jobs:
           if git diff-index --quiet HEAD --; then
             echo "No hay cambios para commitear."
           else
-            COMMIT_MSG="Actualizar lista_varios.m3u - $(date '+%Y-%m-%d %H:%M:%S')"
+            COMMIT_MSG="Actualizar lista_varios.m3u - 2026-02-28 01:57:56"
             git commit -m "$COMMIT_MSG"
             git pull origin main --rebase
             git push origin main
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
+          
