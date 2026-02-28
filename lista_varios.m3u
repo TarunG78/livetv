@@ -2687,7 +2687,7 @@ http://161.248.38.40:8000/play/a071/index.m3u8
 http://161.248.38.40:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" group-title="ALL INDIA FREE",Star Sports 2 Hindi HD (480p)
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Tamil.in@SD" group-title="ALL INDIA FREE",Star Sports 2 Tamil (1080p)
+#EXTINF:-1 tvg-id="StarSports2Tamil.in@HD" group-title="ALL INDIA FREE",Star Sports 2 Tamil HD (1080p)
 http://103.229.254.25:7001/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Tamil.in@SD" group-title="ALL INDIA FREE",Star Sports 2 Tamil (576p)
 http://103.229.254.25:7001/play/a0dc/index.m3u8
@@ -2966,6 +2966,8 @@ http://103.113.103.202:8001/play/a02s/index.m3u8
 http://103.113.103.202:8001/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@HD" group-title="ALL INDIA FREE",&flix HD (1080p)
 http://103.113.103.202:8001/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="B4UHitz.in@SD" group-title="ALL INDIA FREE",B4U Hitz (576p)
+http://115.42.65.142:9981/stream/channelid/1099703605
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
