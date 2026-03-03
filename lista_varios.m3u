@@ -1,4 +1,4 @@
-#EXTM3U billed-msg: Updated on 2026-03-02 18:40:04
+#EXTM3U billed-msg: Updated on 2026-03-03 00:52:34
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
@@ -3082,6 +3082,14 @@ http://111.88.78.21:8000/play/a0z4/index.m3u8
 http://111.88.78.21:8000/play/a0zk/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@HD" group-title="ALL INDIA FREE",Asianet HD (1080p)
 http://111.88.78.21:8000/play/a0pf/index.m3u8
+#EXTINF:-1 tvg-id="OliTV.in@SD" group-title="ALL INDIA FREE",Oli TV (1080p)
+https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="MaxMusic.in@HD" group-title="ALL INDIA FREE",Max Music (1080p)
+https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+#EXTINF:-1 tvg-id="MaxMovies.in@HD" group-title="ALL INDIA FREE",Max Movies (1080p)
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD" group-title="ALL INDIA FREE",Kairali Arabia (576p)
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
