@@ -35,10 +35,11 @@ jobs:
         run: |
           TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
           if [ -f lista_varios.m3u ]; then
-            # Crear un archivo temporal con el billed-msg al inicio
-            echo "#EXTM3U billed-msg: Updated on $TIMESTAMP" > temp_lista.m3u
-            tail -n +2 lista_varios.m3u >> temp_lista.m3u 2>/dev/null || echo "" >> temp_lista.m3u
-            mv temp_lista.m3u lista_varios.m3u
+            # Si el archivo existe, inserta el billed-msg en la primera línea
+            sed -i "1s/^/#EXTM3U billed-msg=\"$TIMESTAMP\"\n/" lista_varios.m3u
+          else
+            # Si no existe, crea el archivo con el billed-msg
+            echo "#EXTM3U billed-msg=\"$TIMESTAMP\"" > lista_varios.m3u
           fi
 
       - name: Comprobar y hacer commit de lista_varios.m3u si hay cambios
@@ -49,7 +50,7 @@ jobs:
           if git diff-index --quiet HEAD --; then
             echo "No hay cambios para commitear."
           else
-            COMMIT_MSG="Actualizar lista_varios.m3u - 2026-02-28 01:57:56"
+            COMMIT_MSG="Actualizar lista_varios.m3u - $(date '+%Y-%m-%d %H:%M:%S')"
             git commit -m "$COMMIT_MSG"
             git pull origin main --rebase
             git push origin main
@@ -57,5 +58,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+
 
 
