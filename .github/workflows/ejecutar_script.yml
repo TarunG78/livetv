@@ -35,7 +35,7 @@ jobs:
         run: |
           TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
           if [ -f lista_varios.m3u ]; then
-            # Crear un archivo temporal con el billed-msg al inicio
+             Crear un archivo temporal con el billed-msg al inicio
             echo "#EXTM3U billed-msg: Updated on $TIMESTAMP" > temp_lista.m3u
             tail -n +2 lista_varios.m3u >> temp_lista.m3u 2>/dev/null || echo "" >> temp_lista.m3u
             mv temp_lista.m3u lista_varios.m3u
@@ -57,3 +57,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+
