@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-03-03 18:41:18"
+#EXTM3U billed-msg="2026-03-04 01:44:52"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2145,8 +2145,6 @@ https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 http://103.229.254.25:7001/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="ColorsBangla.in@HD" group-title="ALL INDIA FREE",Colors Bangla HD (1080p)
 http://103.229.254.25:7001/play/a0ds/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD" group-title="ALL INDIA FREE",Colors Bangla HD (720p)
-https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" group-title="ALL INDIA FREE",Colors Cineplex Bollywood (576p)
 http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-id="Colors.in@HD" group-title="ALL INDIA FREE",Colors HD (1080p)
@@ -3091,6 +3089,14 @@ https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 #EXTINF:-1 tvg-id="KairaliArabia.in@SD" group-title="ALL INDIA FREE",Kairali Arabia (576p)
 https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD" group-title="ALL INDIA FREE",Zee Bangla HD (1080p)
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+#EXTINF:-1 tvg-id="SunBangla.in@SD" group-title="ALL INDIA FREE",Sun Bangla (720p)
+http://103.161.153.165:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" group-title="ALL INDIA FREE",Star Jalsha HD (720p)
+http://103.161.153.165:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="SuperHungama.in@SD" group-title="ALL INDIA FREE",Super Hungama (576p)
+http://103.161.153.165:8000/play/a05a/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
