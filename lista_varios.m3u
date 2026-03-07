@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-03-06 18:38:04"
+#EXTM3U billed-msg="2026-03-07 01:41:11"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3097,6 +3097,8 @@ http://103.161.153.165:8000/play/a03k/index.m3u8
 http://103.161.153.165:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="SuperHungama.in@SD" group-title="ALL INDIA FREE",Super Hungama (576p)
 http://103.161.153.165:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines2.in@SD" group-title="ALL INDIA FREE",Goldmines 2 (576p)
+https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
