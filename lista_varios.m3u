@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-03-17 18:56:13"
+#EXTM3U billed-msg="2026-03-18 01:53:22"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3605,7 +3605,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPunjab.ca@SD" group-title="ALL INDIA FREE",TV Punjab (720p) [Geo-blocked]
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TwentyFourNews.in@SD" group-title="ALL INDIA FREE",Twenty Four News (396p)
+#EXTINF:-1 tvg-id="24News.in@SD" group-title="ALL INDIA FREE",24 News (576p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="UltimateTV.in@SD" group-title="ALL INDIA FREE",Ultimate TV (576p)
 https://mumbai-edge.smartplaytv.in/utv/index.m3u8
