@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-03-22 06:44:45"
+#EXTM3U billed-msg="2026-03-22 12:41:21"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2624,8 +2624,6 @@ http://103.229.254.25:7001/play/a09v/index.m3u8
 http://103.229.254.25:7001/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@International" group-title="ALL INDIA FREE",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 tvg-id="AndxplorHD.in@HD" group-title="ALL INDIA FREE",&xplor HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0556/master.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in@SD" group-title="ALL INDIA FREE",Aadinath TV (396p)
 #EXTVLCOPT:http-referrer=https://keralive.com/
 https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8
@@ -2671,8 +2669,6 @@ http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 #EXTINF:-1 tvg-id="AbzyMovies.in@SD" group-title="ALL INDIA FREE",Abzy Movies
 http://57.129.53.130:21001/ABZY_Movies/master.m3u8
-#EXTINF:-1 tvg-id="AdithyaTV.in@SD" group-title="ALL INDIA FREE",Adithya TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0571/master.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD" group-title="ALL INDIA FREE",AKD Calcutta News (1080p)
 https://live.legitpro.co.in/cnnnews/index.m3u8
 #EXTINF:-1 tvg-id="AlankarTV.in@SD" group-title="ALL INDIA FREE",Alankar TV (720p)
@@ -2713,30 +2709,18 @@ https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportugue
 https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Spanish" group-title="ALL INDIA FREE",Angel TV Spanish (720p)
 https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AnjanTV.in@SD" group-title="ALL INDIA FREE",Anjan TV (720p)
-https://anjantv.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AnmolTV.in@SD" group-title="ALL INDIA FREE",Anmol TV (576p)
 http://163.61.227.29:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="AnmolTV.in@SD" group-title="ALL INDIA FREE",Anmol TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0520/master.m3u8
 #EXTINF:-1 tvg-id="ANNNews.in@HD" group-title="ALL INDIA FREE",ANN News (1080p)
 https://legitpro.co.in/annnews/annnews/index.m3u8
 #EXTINF:-1 tvg-id="ANNNews.in@HD" group-title="ALL INDIA FREE",ANN News (720p)
 https://cdn.ottlive.co.in/annnews/index.m3u8
 #EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD" group-title="ALL INDIA FREE",Apna Punjab TV (720p)
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
-#EXTINF:-1 tvg-id="Asianet.in@SD" group-title="ALL INDIA FREE",Asianet (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0474/master.m3u8
-#EXTINF:-1 tvg-id="Asianet.in@HD" group-title="ALL INDIA FREE",Asianet HD (720p)
-http://217.20.112.199/asianet/index.m3u8
-#EXTINF:-1 tvg-id="AsianetMovies.in@SD" group-title="ALL INDIA FREE",Asianet Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0476/master.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in@SD" group-title="ALL INDIA FREE",Asianet News (1080p)
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in@SD" group-title="ALL INDIA FREE",Asianet News (360p)
 https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetPlus.in@SD" group-title="ALL INDIA FREE",Asianet Plus (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0475/master.m3u8
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" group-title="ALL INDIA FREE",Asianet Suvarna News (1080p) [Not 24/7]
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" group-title="ALL INDIA FREE",Awaaz India TV (720p) [Not 24/7]
@@ -2757,8 +2741,6 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" group-title="ALL INDIA FREE",B4U Music (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 tvg-id="BadaKhabar.in@SD" group-title="ALL INDIA FREE",Bada Khabar (432p)
-https://stream.ashokadigital.net/badakhabar/badakhabar/index.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in@SD" group-title="ALL INDIA FREE",Balle Balle (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-id="BansalNews.in@SD" group-title="ALL INDIA FREE",Bansal News (720p)
@@ -2785,10 +2767,6 @@ https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/pla
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD" group-title="ALL INDIA FREE",Chardikla Time TV North America (1080p)
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
-#EXTINF:-1 tvg-id="ChintuTV.in@SD" group-title="ALL INDIA FREE",Chintu TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0587/master.m3u8
-#EXTINF:-1 tvg-id="ChuttiTV.in@SD" group-title="ALL INDIA FREE",Chutti TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0572/master.m3u8
 #EXTINF:-1 tvg-id="CNBCAwaaz.in@SD" group-title="ALL INDIA FREE",CNBC Awaaz (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="CNBCBajar.in@SD" group-title="ALL INDIA FREE",CNBC Bajar (1080p)
@@ -2805,32 +2783,10 @@ http://103.229.254.25:7001/play/a077/index.m3u8
 http://103.229.254.25:7001/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" group-title="ALL INDIA FREE",Colors Cineplex Bollywood (576p)
 http://103.182.170.32:8888/play/a01o
-#EXTINF:-1 tvg-id="ColorsGujarati.in@SD" group-title="ALL INDIA FREE",Colors Gujarati (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0491/master.m3u8
-#EXTINF:-1 tvg-id="ColorsGujaratiCinema.in@SD" group-title="ALL INDIA FREE",Colors Gujarati Cinema (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0492/master.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD" group-title="ALL INDIA FREE",Colors HD (1080p)
 http://103.229.254.25:7001/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in@HD" group-title="ALL INDIA FREE",Colors Infinity HD (1080p)
 http://103.229.254.25:7001/play/a0du/index.m3u8
-#EXTINF:-1 tvg-id="ColorsKannada.in@SD" group-title="ALL INDIA FREE",Colors Kannada (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0482/master.m3u8
-#EXTINF:-1 tvg-id="ColorsKannadaCinema.in@SD" group-title="ALL INDIA FREE",Colors Kannada Cinema (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0485/master.m3u8
-#EXTINF:-1 tvg-id="ColorsKannada.in@HD" group-title="ALL INDIA FREE",Colors Kannada HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0456/master.m3u8
-#EXTINF:-1 tvg-id="ColorsMarathi.in@SD" group-title="ALL INDIA FREE",Colors Marathi (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0467/master.m3u8
-#EXTINF:-1 tvg-id="ColorsMarathi.in@HD" group-title="ALL INDIA FREE",Colors Marathi HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0454/master.m3u8
-#EXTINF:-1 tvg-id="ColorsSuper.in@SD" group-title="ALL INDIA FREE",Colors Super (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0484/master.m3u8
-#EXTINF:-1 tvg-id="ColorsTamil.in@SD" group-title="ALL INDIA FREE",Colors Tamil (720p)
-http://15.235.144.106:14052
-#EXTINF:-1 tvg-id="ColorsTamil.in@SD" group-title="ALL INDIA FREE",Colors Tamil (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0471/master.m3u8
-#EXTINF:-1 tvg-id="ColorsTamil.in@HD" group-title="ALL INDIA FREE",Colors Tamil HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0459/master.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in@HD" group-title="ALL INDIA FREE",Colors Tamil HD (360p)
 http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD" group-title="ALL INDIA FREE",CTVN AKD Plus (1080p)
@@ -2839,16 +2795,8 @@ https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in@SD" group-title="ALL INDIA FREE",Dangal TV (720p)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="DDNational.in@SD" group-title="ALL INDIA FREE",DD National (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0065/master.m3u8
-#EXTINF:-1 tvg-id="DDSahyadri.in@HD" group-title="ALL INDIA FREE",DD Sahyadri HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0341/master.m3u8
-#EXTINF:-1 tvg-id="DDTamil.in@HD" group-title="ALL INDIA FREE",DD Tamil HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0593/master.m3u8
 #EXTINF:-1 tvg-id="DesiChannel.in@SD" group-title="ALL INDIA FREE",Desi Channel (720p)
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
-#EXTINF:-1 tvg-id="DharsanTV.in@SD" group-title="ALL INDIA FREE",Dharsan TV (720p)
-https://galaxyott.live/hls/dharshantv.m3u8
 #EXTINF:-1 tvg-id="DheeranTV.in@SD" group-title="ALL INDIA FREE",Dheeran TV (576p)
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" group-title="ALL INDIA FREE",Disney Channel (576p)
@@ -2874,8 +2822,6 @@ https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in@SD" group-title="ALL INDIA FREE",ETV Andhra Pradesh (1080p)
 https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVBalBharat.in@SD" group-title="ALL INDIA FREE",ETV Bal Bharat (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
 #EXTINF:-1 tvg-id="ETVCinema.in@HD" group-title="ALL INDIA FREE",ETV Cinema HD (1080p)
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ETVComedy.in@HD" group-title="ALL INDIA FREE",ETV Comedy (1080p)
@@ -2907,18 +2853,8 @@ https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u
 http://45.148.145.57/IN_FOODFOOD/index.m3u8
 #EXTINF:-1 tvg-id="GangaurTV.in@SD" group-title="ALL INDIA FREE",Gangaur TV (1080p)
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
-#EXTINF:-1 tvg-id="GeminiComedy.in@SD" group-title="ALL INDIA FREE",Gemini Comedy (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0573/master.m3u8
-#EXTINF:-1 tvg-id="GeminiLife.in@SD" group-title="ALL INDIA FREE",Gemini Life (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0584/master.m3u8
-#EXTINF:-1 tvg-id="GeminiMovies.in@SD" group-title="ALL INDIA FREE",Gemini Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0586/master.m3u8
-#EXTINF:-1 tvg-id="GeminiMovies.in@HD" group-title="ALL INDIA FREE",Gemini Movies HD (1080p)
+#EXTINF:-1 tvg-id="SunGeminiMovies.in@HD" group-title="ALL INDIA FREE",Sun Gemini Movies HD (1080p)
 http://111.88.78.21:8000/play/a0zf/index.m3u8
-#EXTINF:-1 tvg-id="GeminiMusic.in@SD" group-title="ALL INDIA FREE",Gemini Music SD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0589/master.m3u8
-#EXTINF:-1 tvg-id="GeminiTV.in@SD" group-title="ALL INDIA FREE",Gemini TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0568/master.m3u8
 #EXTINF:-1 tvg-id="GlobalPunjab.in@SD" group-title="ALL INDIA FREE",Global Punjab (1080p)
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 tvg-id="GlobalPunjab.in@SD" group-title="ALL INDIA FREE",Global Punjab (720p) [Not 24/7]
@@ -2947,8 +2883,6 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d51
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
 #EXTINF:-1 tvg-id="HarvestUSA.in@SD" group-title="ALL INDIA FREE",Harvest USA (576p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HebronTV.in@SD" group-title="ALL INDIA FREE",Hebron TV (432p)
-https://account20.livebox.co.in/charleshls/live.m3u8
 #EXTINF:-1 tvg-id="HighNews.in@SD" group-title="ALL INDIA FREE",High News (480p)
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" group-title="ALL INDIA FREE",History TV18 HD (1080p) [Geo-blocked]
@@ -2959,20 +2893,8 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/p
 https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" group-title="ALL INDIA FREE",India Daily Live (1080p)
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
-#EXTINF:-1 tvg-id="IndiaNews.in@SD" group-title="ALL INDIA FREE",India News (1080p)
-#EXTVLCOPT:http-referrer=https://newsxott.in/embed.html?channel=indianewsnational
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
-https://newsxott.in/hls/indianewsnational.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsGujarati.in@SD" group-title="ALL INDIA FREE",India News Gujarati (1080p)
-https://newsxott.in/hls/indianewsgujarat.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsHaryana.in@SD" group-title="ALL INDIA FREE",India News Haryana (1080p)
-https://newsxott.in/hls/indianewsharyana.m3u8
 #EXTINF:-1 tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in@SD" group-title="ALL INDIA FREE",India News Madhya Pradesh/Chhattisgarh (576p)
 https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in@SD" group-title="ALL INDIA FREE",India News Punjab/Himachal (1080p)
-https://newsxott.in/hls/indianewspunjab.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsUttarPradesh.in@SD" group-title="ALL INDIA FREE",India News Uttar Pradesh (1080p)
-https://newsxott.in/hls/indianewsupuk.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in@SD" group-title="ALL INDIA FREE",India Today (720p) [Geo-blocked]
 https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in@SD" group-title="ALL INDIA FREE",India Today (720p) [Not 24/7]
@@ -2995,14 +2917,10 @@ https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/mas
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in@SD" group-title="ALL INDIA FREE",INH 24x7 (360p)
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="IsaiAruvi.in@SD" group-title="ALL INDIA FREE",Isai Aruvi (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0317/master.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in@SD" group-title="ALL INDIA FREE",Isai Aruvi (396p)
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" group-title="ALL INDIA FREE",Ishwar Bhakti TV (720p)
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="JMovie.in@SD" group-title="ALL INDIA FREE",J Movie (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0314/master.m3u8
 #EXTINF:-1 tvg-id="JaihindTV.in@SD" group-title="ALL INDIA FREE",Jaihind TV (396p)
 https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="JalshaMovies.in@HD" group-title="ALL INDIA FREE",Jalsha Movies HD (1080p)
@@ -3013,8 +2931,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://live.jswk.online/IK_RTPM/live/index.m3u8
 #EXTINF:-1 tvg-id="JayaPlus.in@SD" group-title="ALL INDIA FREE",Jaya Plus (576p)
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
-#EXTINF:-1 tvg-id="JayaTV.in@HD" group-title="ALL INDIA FREE",Jaya TV (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8
 #EXTINF:-1 tvg-id="JayaTV.in@HD" group-title="ALL INDIA FREE",Jaya TV (360p)
 http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8
 #EXTINF:-1 tvg-id="JK24x7News.in@SD" group-title="ALL INDIA FREE",JK 24x7 News (720p) [Not 24/7]
@@ -3041,22 +2957,12 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="KiteVicters.in@SD" group-title="ALL INDIA FREE",KITE Victers (Kerala) (720p) [Not 24/7]
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KochuTV.in@SD" group-title="ALL INDIA FREE",Kochu TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0564/master.m3u8
 #EXTINF:-1 tvg-id="KolkataTV.in@SD" group-title="ALL INDIA FREE",Kolkata TV (1080p)
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
-#EXTINF:-1 tvg-id="KTV.in@SD" group-title="ALL INDIA FREE",KTV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0575/master.m3u8
 #EXTINF:-1 tvg-id="KTVBangla.in@SD" group-title="ALL INDIA FREE",KTV Bangla (720p)
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 tvg-id="KTV.in@HD" group-title="ALL INDIA FREE",KTV HD (1080p)
 http://103.121.6.5:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="KTV.in@HD" group-title="ALL INDIA FREE",KTV HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0591/master.m3u8
-#EXTINF:-1 tvg-id="KTV.in@HD" group-title="ALL INDIA FREE",KTV HD (360p)
-http://198.27.83.207:2550/KTV_SD/index.m3u8
-#EXTINF:-1 tvg-id="KushiTV.in@SD" group-title="ALL INDIA FREE",Kushi TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0583/master.m3u8
 #EXTINF:-1 tvg-id="LifeTV.in@SD" group-title="ALL INDIA FREE",Life TV (720p)
 https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-id="LivingIndiaNews.in@SD" group-title="ALL INDIA FREE",Living India News (1080p)
@@ -3108,16 +3014,12 @@ https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in@SD" group-title="ALL INDIA FREE",MNTV (1080p)
 https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1 tvg-id="MarutamMusic.in@SD" group-title="ALL INDIA FREE",MNTV Music (1080p)
-https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in@SD" group-title="ALL INDIA FREE",Moon TV (720p)
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in@SD" group-title="ALL INDIA FREE",Namdhari (404p) [Not 24/7]
 https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 tvg-id="NandighoshaTV.in@SD" group-title="ALL INDIA FREE",Nandighosha TV (720p)
 https://www.nandighoshatvlive.com/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@SD" group-title="ALL INDIA FREE",National Geographic Wild (576p)
-http://103.229.254.25:7001/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="Nazara.in@SD" group-title="ALL INDIA FREE",Nazara (1080p)
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in@SD" group-title="ALL INDIA FREE",NDTV 24X7 (480p) [Not 24/7]
@@ -3183,20 +3085,12 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master
 https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News24.in@SD" group-title="ALL INDIA FREE",News 24 (720p)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsIndia24x7.in@SD" group-title="ALL INDIA FREE",News India 24x7 (1080p)
-https://live.legitpro.co.in/newsindia/index.m3u8
 #EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" group-title="ALL INDIA FREE",News Malayalam 24x7 (1080p)
 https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation.in@SD" group-title="ALL INDIA FREE",News Nation (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" group-title="ALL INDIA FREE",News Tamil 24x7 (1080p)
 https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8
-#EXTINF:-1 tvg-id="NewsX.in@SD" group-title="ALL INDIA FREE",News X (1080p)
-https://newsxott.in/hls/newsx.m3u8
-#EXTINF:-1 tvg-id="NewsXWorld.in@HD" group-title="ALL INDIA FREE",NewsX World (1080p)
-#EXTVLCOPT:http-referrer=https://newsxott.in/embed.html?channel=newsxworld
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
-https://newsxott.in/hls/newsxworld.m3u8
 #EXTINF:-1 tvg-id="NKTV24x7.in@SD" group-title="ALL INDIA FREE",NK TV 24x7 (1080p)
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 #EXTINF:-1 tvg-id="NortheastLive.in@HD" group-title="ALL INDIA FREE",Northeast Live (720p)
@@ -3228,8 +3122,6 @@ https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 https://livelegitpro.in/hls2/newstime/index.m3u8
 #EXTINF:-1 tvg-id="PratidinTime.in@SD" group-title="ALL INDIA FREE",Pratidin Time (576p)
 https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="PravahPicture.in@HD" group-title="ALL INDIA FREE",Pravah Picture HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0455/master.m3u8
 #EXTINF:-1 tvg-id="PravasiChannel.in@SD" group-title="ALL INDIA FREE",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Prime9News.in@SD" group-title="ALL INDIA FREE",Prime9 News (1080p)
@@ -3244,10 +3136,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 #EXTINF:-1 tvg-id="PublicTV.in@SD" group-title="ALL INDIA FREE",Public TV (576p) [Geo-blocked]
 https://livestreampublictv.sunnxt.com/publictv/index.m3u8
-#EXTINF:-1 tvg-id="PudhariNews.in@SD" group-title="ALL INDIA FREE",Pudhari News (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0176/master.m3u8
-#EXTINF:-1 tvg-id="PulariTV.in@SD" group-title="ALL INDIA FREE",Pulari TV (720p)
-https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in@SD" group-title="ALL INDIA FREE",Punjabi Hits (1080p)
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiZindabadTV.in@SD" group-title="ALL INDIA FREE",Punjabi Zindabad (360p) [Not 24/7]
@@ -3308,8 +3196,6 @@ https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-id="SanaPlus.in@SD" group-title="ALL INDIA FREE",Sana Plus (1080p)
 https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
-#EXTINF:-1 tvg-id="SandeshNews.in@SD" group-title="ALL INDIA FREE",Sandesh News (1080p)
-https://dkshlpp7ugzua.cloudfront.net/sandeshnews/index.m3u8
 #EXTINF:-1 tvg-id="SansadTV1.in@SD" group-title="ALL INDIA FREE",Sansad TV 1 (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
@@ -3356,19 +3242,11 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 #EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD" group-title="ALL INDIA FREE",Shubhsandesh TV (720p) [Not 24/7]
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV.in@SD" group-title="ALL INDIA FREE",Sirippoli TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0318/master.m3u8
-#EXTINF:-1 tvg-id="SirippoliTV.in@SD" group-title="ALL INDIA FREE",Sirippoli TV (576p)
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:-1 tvg-id="SohamTV.in@SD" group-title="ALL INDIA FREE",Soham TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0146/master.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in@SD" group-title="ALL INDIA FREE",Songdew TV (396p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="Sonic.in@SD" group-title="ALL INDIA FREE",Sonic (576p)
 http://103.229.254.25:7001/play/a0dl/index.m3u8
-#EXTINF:-1 tvg-id="SonyAath.in@SD" group-title="ALL INDIA FREE",Sony Aath (576p)
-http://103.229.254.25:7001/play/a07a/index.m3u8
-#EXTINF:-1 tvg-id="SonyMarathi.in@SD" group-title="ALL INDIA FREE",Sony Marathi (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0382/master.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="ALL INDIA FREE",Sony Pix HD (1080p)
 http://103.229.254.25:7001/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" group-title="ALL INDIA FREE",Sony Sports Ten 2 HD (1080p)
@@ -3395,12 +3273,8 @@ http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 http://103.229.254.25:7001/play/a0dc/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Tamil.in@HD" group-title="ALL INDIA FREE",Star Sports 2 Tamil HD (1080p)
 http://103.229.254.25:7001/play/a0d1/index.m3u8
-#EXTINF:-1 tvg-id="StarSports3.in@SD" group-title="ALL INDIA FREE",Star Sports 3 (576p)
-http://103.121.6.5:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@HD" group-title="ALL INDIA FREE",Star Vijay HD (360p)
 http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
-#EXTINF:-1 tvg-id="StarVijay.in@HD" group-title="ALL INDIA FREE",Star Vijay HD (360p)
-http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD" group-title="ALL INDIA FREE",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" group-title="ALL INDIA FREE",Steelbird Music (720p) [Not 24/7]
@@ -3413,17 +3287,13 @@ https://stream.galaxyott.live/live/subintv/index.m3u8
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="SunBangla.in@SD" group-title="ALL INDIA FREE",Sun Bangla (720p)
 http://103.161.153.165:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="SunMusic.in@HD" group-title="ALL INDIA FREE",Sun Music HD (360p)
-http://198.27.83.207:2550/SUN_MUSIC_SD/index.m3u8
-#EXTINF:-1 tvg-id="SunMusic.in@HD" group-title="ALL INDIA FREE",Sun Music HD (720p)
-http://15.235.144.106:14055
 #EXTINF:-1 tvg-id="SunNeo.in@SD" group-title="ALL INDIA FREE",Sun Neo (576p)
 http://163.61.227.29:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="SuperHungama.in@SD" group-title="ALL INDIA FREE",Super Hungama (576p)
 http://103.161.153.165:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV.in@SD" group-title="ALL INDIA FREE",Suriyan TV (576p)
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
-#EXTINF:-1 tvg-id="SuryaTV.in@HD" group-title="ALL INDIA FREE",Surya TV HD (1080p)
+#EXTINF:-1 tvg-id="SunSurya.in@HD" group-title="ALL INDIA FREE",Sun Surya HD (1080p)
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="SVBC2.in@SD" group-title="ALL INDIA FREE",SVBC 2 (1080p)
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
@@ -3437,8 +3307,6 @@ https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/play
 http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 #EXTINF:-1 tvg-id="SwatantraTV.in@SD" group-title="ALL INDIA FREE",Swatantra TV (1080p)
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
-#EXTINF:-1 tvg-id="TamilJanam.in@SD" group-title="ALL INDIA FREE",Tamil Janam (720p)
-https://app.ashokadigital.net/app/324ea1b0/index.m3u8
 #EXTINF:-1 tvg-id="TamilanTV.in@SD" group-title="ALL INDIA FREE",Tamilan TV (1080p)
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TarangMusic.in@SD" group-title="ALL INDIA FREE",Tarang Music (720p)
@@ -3495,8 +3363,6 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 http://198.27.83.207:2550/VAANAVIL_SD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALL INDIA FREE",Vathanam TV
 http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
-#EXTINF:-1 tvg-id="VBCNews.in@SD" group-title="ALL INDIA FREE",VBC News (576p)
-https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
 #EXTINF:-1 tvg-id="VCV.in@SD" group-title="ALL INDIA FREE",VCV (720p) [Not 24/7]
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-id="Vedic.in@SD" group-title="ALL INDIA FREE",Vedic (480p)
@@ -3618,122 +3484,12 @@ https://cdn-2.pishow.tv/live/415/master.m3u8
 https://guaranteenews.in:8443/live/gnews/index.m3u8
 #EXTINF:-1 tvg-id="AdhyatmTV.in@SD" group-title="ALL INDIA FREE",Adhyatm TV (720p)
 https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
-#EXTINF:-1 tvg-id="ZeeZest.in@HD" group-title="ALL INDIA FREE",Zee Zest HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0548/master.m3u8
-#EXTINF:-1 tvg-id="ZeeZest.in@SD" group-title="ALL INDIA FREE",Zee Zest (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0516/master.m3u8
-#EXTINF:-1 tvg-id="ZeeYuva.in@SD" group-title="ALL INDIA FREE",Zee Yuva (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0510/master.m3u8
-#EXTINF:-1 tvg-id="ZeeThirai.in@HD" group-title="ALL INDIA FREE",Zee Thirai (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0558/master.m3u8
-#EXTINF:-1 tvg-id="ZeeThirai.in@SD" group-title="ALL INDIA FREE",Zee Thirai SD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0554/master.m3u8
-#EXTINF:-1 tvg-id="ZeeTelugu.in@SD" group-title="ALL INDIA FREE",Zee Telugu (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0537/master.m3u8
-#EXTINF:-1 tvg-id="ZeeSarthak.in@SD" group-title="ALL INDIA FREE",Zee Sarthak (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0555/master.m3u8
-#EXTINF:-1 tvg-id="ZeeKeralam.in@SD" group-title="ALL INDIA FREE",Zee Keralam SD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0559/master.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemalu.in@SD" group-title="ALL INDIA FREE",Zee Cinemalu (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0544/master.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="ALL INDIA FREE",Zee Cinema HD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0538/master.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@SD" group-title="ALL INDIA FREE",Zee Cinema (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0517/master.m3u8
-#EXTINF:-1 tvg-id="ZeeChitramandir.in@SD" group-title="ALL INDIA FREE",Zee Chitramandir (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0351/master.m3u8
-#EXTINF:-1 tvg-id="ZeeAction.in@SD" group-title="ALL INDIA FREE",Zee Action (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0531/master.m3u8
-#EXTINF:-1 tvg-id="VijayTakkar.in@SD" group-title="ALL INDIA FREE",Vijay Takkar (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0473/master.m3u8
-#EXTINF:-1 tvg-id="VijaySuper.in@SD" group-title="ALL INDIA FREE",Vijay Super (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0470/master.m3u8
-#EXTINF:-1 tvg-id="UdayaTV.in@SD" group-title="ALL INDIA FREE",Udaya TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0569/master.m3u8
-#EXTINF:-1 tvg-id="UdayaMusic.in@SD" group-title="ALL INDIA FREE",Udaya Music (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0588/master.m3u8
-#EXTINF:-1 tvg-id="UdayaMovies.in@SD" group-title="ALL INDIA FREE",Udaya Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0570/master.m3u8
-#EXTINF:-1 tvg-id="UdayaComedy.in@SD" group-title="ALL INDIA FREE",Udaya Comedy (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0574/master.m3u8
-#EXTINF:-1 tvg-id="TimesNowWorld.in@SD" group-title="ALL INDIA FREE",Times Now World (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0124/master.m3u8
-#EXTINF:-1 tvg-id="SuryaTV.in@SD" group-title="ALL INDIA FREE",Surya TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0566/master.m3u8
-#EXTINF:-1 tvg-id="SuryaMusic.in@SD" group-title="ALL INDIA FREE",Surya Music (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0579/master.m3u8
-#EXTINF:-1 tvg-id="SuryaMovies.in@SD" group-title="ALL INDIA FREE",Surya Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0567/master.m3u8
-#EXTINF:-1 tvg-id="SuryaComedy.in@SD" group-title="ALL INDIA FREE",Surya Comedy (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0578/master.m3u8
-#EXTINF:-1 tvg-id="SuperHungama.in@SD" group-title="ALL INDIA FREE",Super Hungama (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0410/master.m3u8
-#EXTINF:-1 tvg-id="SunNews.in@SD" group-title="ALL INDIA FREE",Sun News (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0565/master.m3u8
-#EXTINF:-1 tvg-id="SunNeo.in@HD" group-title="ALL INDIA FREE",Sun Neo HD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0582/master.m3u8
-#EXTINF:-1 tvg-id="SunNeo.in@SD" group-title="ALL INDIA FREE",Sun Neo (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0581/master.m3u8
-#EXTINF:-1 tvg-id="SunMusic.in@SD" group-title="ALL INDIA FREE",Sun Music (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0563/master.m3u8
-#EXTINF:-1 tvg-id="SunMarathi.in@HD" group-title="ALL INDIA FREE",Sun Marathi (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0576/master.m3u8
-#EXTINF:-1 tvg-id="SunMarathi.in@SD" group-title="ALL INDIA FREE",Sun Marathi SD (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0577/master.m3u8
-#EXTINF:-1 tvg-id="SunLife.in@SD" group-title="ALL INDIA FREE",Sun Life (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0585/master.m3u8
-#EXTINF:-1 tvg-id="SunBangla.in@SD" group-title="ALL INDIA FREE",Sun Bangla (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0580/master.m3u8
-#EXTINF:-1 tvg-id="StarVijay.in@HD" group-title="ALL INDIA FREE",Star Vijay HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0460/master.m3u8
-#EXTINF:-1 tvg-id="StarVijay.in@SD" group-title="ALL INDIA FREE",Star Vijay (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0469/master.m3u8
-#EXTINF:-1 tvg-id="StarSuvarnaPlus.in@SD" group-title="ALL INDIA FREE",Star Suvarna Plus (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0486/master.m3u8
-#EXTINF:-1 tvg-id="StarSuvarna.in@SD" group-title="ALL INDIA FREE",Star Suvarna (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0483/master.m3u8
-#EXTINF:-1 tvg-id="StarSportsKhel.in@SD" group-title="ALL INDIA FREE",Star Sports Khel (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0423/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" group-title="ALL INDIA FREE",Star Sports 2 Telugu HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Telugu.in@SD" group-title="ALL INDIA FREE",Star Sports 2 Telugu (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Tamil.in@HD" group-title="ALL INDIA FREE",Star Sports 2 Tamil HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0073/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Tamil.in@SD" group-title="ALL INDIA FREE",Star Sports 2 Tamil (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0425/master.m3u8
-#EXTINF:-1 tvg-id="StarSports2Kannada.in@SD" group-title="ALL INDIA FREE",Star Sports 2 Kannada (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0422/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Telugu.in@SD" group-title="ALL INDIA FREE",Star Sports 1 Telugu (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@SD" group-title="ALL INDIA FREE",Star Sports 1 Tamil (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Kannada.in@SD" group-title="ALL INDIA FREE",Star Sports 1 Kannada (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0420/master.m3u8
-#EXTINF:-1 tvg-id="StarPravah.in@HD" group-title="ALL INDIA FREE",Star Pravah HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0453/master.m3u8
-#EXTINF:-1 tvg-id="StarPravah.in@SD" group-title="ALL INDIA FREE",Star Pravah (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0466/master.m3u8
-#EXTINF:-1 tvg-id="StarMaa.in@SD" group-title="ALL INDIA FREE",Star Maa (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0478/master.m3u8
-#EXTINF:-1 tvg-id="StarMaaMusic.in@SD" group-title="ALL INDIA FREE",Star Maa Music (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8
-#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" group-title="ALL INDIA FREE",Star Maa Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0479/master.m3u8
-#EXTINF:-1 tvg-id="StarMaaGold.in@SD" group-title="ALL INDIA FREE",Star Maa Gold (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0480/master.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in@SD" group-title="ALL INDIA FREE",Jalsha Movies (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0463/master.m3u8
-#EXTINF:-1 tvg-id="TravelxpTamil.in@SD" group-title="ALL INDIA FREE",Travelxp Tamil (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0202/master.m3u8
 #EXTINF:-1 tvg-id="TeluguOne.in@HD" group-title="ALL INDIA FREE",Telugu One (1080p)
 https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in@APAC" group-title="ALL INDIA FREE",B4U Movies APAC (720p)
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@APAC" group-title="ALL INDIA FREE",B4U Music APAC (720p)
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax1.in@SD" group-title="ALL INDIA FREE",Sony Max 1 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" group-title="ALL INDIA FREE",Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SalaamTV.in@SD" group-title="ALL INDIA FREE",Salaam TV (720p)
@@ -3869,62 +3625,62 @@ http://103.99.249.139/sonymax/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Movies",Unnamed Channel
-https://fmftp.net/api/stream/video/stream?type=movies&id=20644
 #EXTINF:-1 tvg-logo="https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg" group-title="Hindi Movies",Masti 4
 https://fmftp.net/api/stream/video/stream?type=movies&id=20364
-#EXTINF:-1 tvg-logo="https://bahrain.cineco.net/wp-content/uploads/2025/12/KIS-KISKO-PYAAR-KAROON-2-3.jpg  " group-title="Hindi Movies",Kis Kis ko Pyaar karoon 2
-https://fmftp.net/api/stream/video/stream?type=movies&id=20454
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Movies",Border 2
-https://fmftp.net/api/stream/video/stream?type=movies&id=20565
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJrRSqR_E6efhpDAhpmKrxqUT-VA4Px1A96X8AxnImgJzLCjIbYizRXxJ&s=10" group-title="Hindi Movies",Tere Ishk Mein
-https://fmftp.net/api/stream/video/stream?type=movies&id=20400
-#EXTINF:-1 tvg-logo="https://stat5.bollywoodhungama.in/wp-content/uploads/2025/08/Jatadhara-3.jpg" group-title="Hindi Movies",Jatadhara
-https://fmftp.net/api/stream/video/stream?type=movies&id=20331
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Movies",Sewu Dino
-https://fmftp.net/api/stream/video/stream?type=movies&id=18019
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Movies",Rahu Ketu
 https://fmftp.net/api/stream/video/stream?type=movies&id=20564
+#EXTINF:-1 tvg-logo="https://bahrain.cineco.net/wp-content/uploads/2025/12/KIS-KISKO-PYAAR-KAROON-2-3.jpg  " group-title="Hindi Movies",Kis Kis ko Pyaar karoon 2
+https://fmftp.net/api/stream/video/stream?type=movies&id=20454
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dhurandhar_poster.jpg/250px-Dhurandhar_poster.jpg" group-title="Hindi Movies",Dhurandar
 https://fmftp.net/api/stream/video/stream?type=movies&id=20417
-#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg" group-title="Hindi Movies",Baaghi 4
-https://fmftp.net/api/stream/video/stream?type=movies&id=20096
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10" group-title="Hindi Movies",The Girlfriend
-https://fmftp.net/api/stream/video/stream?type=movies&id=20332
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10" group-title="Hindi Movies",De De Pyaar De 2
-https://fmftp.net/api/stream/video/stream?type=movies&id=20329
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdiY2EzZjAtY2YxNC00Yjg2LTliNzEtOGNjYTk5YmU4YzA0XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Tu Meri Main Tera Main Tera Tu Meri
 https://fmftp.net/api/stream/video/stream?type=movies&id=20493
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Movies",Unnamed Channel
+https://fmftp.net/api/stream/video/stream?type=movies&id=20644
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJrRSqR_E6efhpDAhpmKrxqUT-VA4Px1A96X8AxnImgJzLCjIbYizRXxJ&s=10" group-title="Hindi Movies",Tere Ishk Mein
+https://fmftp.net/api/stream/video/stream?type=movies&id=20400
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10" group-title="Hindi Movies",De De Pyaar De 2
+https://fmftp.net/api/stream/video/stream?type=movies&id=20329
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Movies",Sewu Dino
+https://fmftp.net/api/stream/video/stream?type=movies&id=18019
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10" group-title="Hindi Movies",The Girlfriend
+https://fmftp.net/api/stream/video/stream?type=movies&id=20332
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Movies",Unnamed Channel
 https://fmftp.net/api/stream/video/stream?type=movies&id=18030
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Movies",Border 2
+https://fmftp.net/api/stream/video/stream?type=movies&id=20565
+#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg" group-title="Hindi Movies",Baaghi 4
+https://fmftp.net/api/stream/video/stream?type=movies&id=20096
+#EXTINF:-1 tvg-logo="https://stat5.bollywoodhungama.in/wp-content/uploads/2025/08/Jatadhara-3.jpg" group-title="Hindi Movies",Jatadhara
+https://fmftp.net/api/stream/video/stream?type=movies&id=20331
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM0NGRiYzctNzZhMS00NmU2LWJkZDItZTQxNGVhN2RkNTA1XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Akhanda 2
 http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Akhanda%202%20Thaandavam%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D/Akhanda%202%20Thaandavam%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwHCAxxdjgrfEi_2alBSedS7UwQ_IFz39oUzzCoH3qS0oomLkv7kPCv5X5&s=10" group-title="Southindian Hindi Dubbed Movies",Idli Kadai
 https://fmftp.net/api/stream/video/stream?type=movies&id=20299
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrtbZXO-irYq2Y5p_5s0-6ZmJLIsYZNcsoMgLDuxwrDD9zmWLkMhQhhvu&s=10" group-title="Bangla Movies",Neel Chakra
-https://fmftp.net/api/stream/video/stream?type=movies&id=20354
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Bangla Movies",Grehoprobesh
 https://fmftp.net/api/stream/video/stream?type=movies&id=20271
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrtbZXO-irYq2Y5p_5s0-6ZmJLIsYZNcsoMgLDuxwrDD9zmWLkMhQhhvu&s=10" group-title="Bangla Movies",Neel Chakra
+https://fmftp.net/api/stream/video/stream?type=movies&id=20354
 #EXTINF:-1 tvg-logo="https://bmdb.com.bd/wp-content/uploads/2023/05/noor.jpg" group-title="Bangla Movies",Noor
 https://fmftp.net/api/stream/video/stream?type=movies&id=20461
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Bangla Movies",Aatka
 https://fmftp.net/api/stream/video/stream?type=movies&id=20529
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 4 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 2 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19587
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 1 - Gyaarah Gyaarah
 https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19586
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 3 - Gyaarah Gyaarah
 https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19588
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 6 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19591
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 8 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 7 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 5 - Gyaarah Gyaarah
 https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 8 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 6 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19591
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 4 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 7 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 2 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19587
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hollywood Hindi Movies",Intimate stranger
 https://fmftp.net/api/stream/video/stream?type=movies&id=559
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hollywood Hindi Movies",Love Leason
@@ -3935,12 +3691,12 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=513
 https://fmftp.net/api/stream/video/stream?type=movies&id=737
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Live Tv",Star Jalsha
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
-#EXTINF:-1 tvg-logo="https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg" group-title="Live Tv",Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s" group-title="Live Tv",Sun Bangla
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",zee bangla cinema
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg" group-title="Live Tv",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors
 http://103.140.254.2:3500/live/144.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Doreamon
@@ -3953,54 +3709,52 @@ http://filex.me:8080/live/444476/444476/453434.m3u8
 http://103.175.73.12:8080/live/198/198_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 379
 http://103.175.73.12:8080/live/379/379_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 13
-http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 15
 http://103.175.73.12:8080/live/15/15_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 17
-http://103.175.73.12:8080/live/17/17_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 18
 http://103.175.73.12:8080/live/18/18_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 19
 http://103.175.73.12:8080/live/19/19_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 23
-http://103.175.73.12:8080/live/23/23_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 21
 http://103.175.73.12:8080/live/21/21_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 23
+http://103.175.73.12:8080/live/23/23_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 25
 http://103.175.73.12:8080/live/25/25_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 17
+http://103.175.73.12:8080/live/17/17_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 29
 http://103.175.73.12:8080/live/29/29_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 13
+http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 270
 http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 271
 http://103.175.73.12:8080/live/271/271_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 44
-http://103.175.73.12:8080/live/44/44_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 47
-http://103.175.73.12:8080/live/47/47_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 43
 http://103.175.73.12:8080/live/43/43_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 44
+http://103.175.73.12:8080/live/44/44_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 46
 http://103.175.73.12:8080/live/46/46_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 47
+http://103.175.73.12:8080/live/47/47_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 155
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 157
 http://103.175.73.12:8080/live/157/157_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 159
-http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 158
 http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 159
+http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 161
 http://103.175.73.12:8080/live/161/161_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 51
-http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 52
 http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 53
 http://103.175.73.12:8080/live/53/53_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 54
-http://103.175.73.12:8080/live/54/54_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 51
+http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 143
 http://103.175.73.12:8080/live/143/143_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 144
@@ -4011,8 +3765,6 @@ http://103.175.73.12:8080/live/173/173_0.m3u8
 http://103.175.73.12:8080/live/174/174_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 175
 http://103.175.73.12:8080/live/175/175_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 176
-http://103.175.73.12:8080/live/176/176_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 178
 http://103.175.73.12:8080/live/178/178_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 179
@@ -4025,55 +3777,59 @@ http://103.175.73.12:8080/live/181/181_0.m3u8
 http://103.175.73.12:8080/live/188/188_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 189
 http://103.175.73.12:8080/live/189/189_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 256
-http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 257
 http://103.175.73.12:8080/live/257/257_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 54
+http://103.175.73.12:8080/live/54/54_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 256
+http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 258
 http://103.175.73.12:8080/live/258/258_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 274
 http://103.175.73.12:8080/live/274/274_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 280
-http://103.175.73.12:8080/live/280/280_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 331
 http://103.175.73.12:8080/live/331/331_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 332
 http://103.175.73.12:8080/live/332/332_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 176
+http://103.175.73.12:8080/live/176/176_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 345
 http://103.175.73.12:8080/live/345/345_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 352
-http://103.175.73.12:8080/live/352/352_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 349
 http://103.175.73.12:8080/live/349/349_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 352
+http://103.175.73.12:8080/live/352/352_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 354
 http://103.175.73.12:8080/live/354/354_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 368
 http://103.175.73.12:8080/live/368/368_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 375
-http://103.175.73.12:8080/live/375/375_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 416
-http://103.175.73.12:8080/live/416/416_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 417
 http://103.175.73.12:8080/live/417/417_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 471
-http://103.175.73.12:8080/live/471/471_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 584
-http://103.175.73.12:8080/live/584/584_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 416
+http://103.175.73.12:8080/live/416/416_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 469
 http://103.175.73.12:8080/live/469/469_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 637
-http://103.175.73.12:8080/live/637/637_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 640
-http://103.175.73.12:8080/live/640/640_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 648
-http://103.175.73.12:8080/live/648/648_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 658
-http://103.175.73.12:8080/live/658/658_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 471
+http://103.175.73.12:8080/live/471/471_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 673
 http://103.175.73.12:8080/live/673/673_0.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 688
-http://103.175.73.12:8080/live/688/688_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 640
+http://103.175.73.12:8080/live/640/640_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 695
 http://103.175.73.12:8080/live/695/695_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 688
+http://103.175.73.12:8080/live/688/688_0.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 64
 http://103.175.73.12:8080/live/64/64_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 280
+http://103.175.73.12:8080/live/280/280_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 375
+http://103.175.73.12:8080/live/375/375_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 584
+http://103.175.73.12:8080/live/584/584_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 637
+http://103.175.73.12:8080/live/637/637_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 658
+http://103.175.73.12:8080/live/658/658_0.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Channel 648
+http://103.175.73.12:8080/live/648/648_0.m3u8
