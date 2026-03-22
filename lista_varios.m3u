@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-03-21 18:30:26"
+#EXTM3U billed-msg="2026-03-22 01:53:50"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3110,10 +3110,6 @@ https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="MarutamMusic.in@SD" group-title="ALL INDIA FREE",MNTV Music (1080p)
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-id="MNX.in@SD" group-title="ALL INDIA FREE",MNX (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0089/master.m3u8
-#EXTINF:-1 tvg-id="MNX.in@HD" group-title="ALL INDIA FREE",MNX HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in@SD" group-title="ALL INDIA FREE",Moon TV (720p)
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in@SD" group-title="ALL INDIA FREE",Namdhari (404p) [Not 24/7]
@@ -3698,8 +3694,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0486/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0483/master.m3u8
 #EXTINF:-1 tvg-id="StarSportsKhel.in@SD" group-title="ALL INDIA FREE",Star Sports Khel (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0423/master.m3u8
-#EXTINF:-1 tvg-id="StarSports3.in@SD" group-title="ALL INDIA FREE",Star Sports 3 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0414/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" group-title="ALL INDIA FREE",Star Sports 2 Telugu HD (1080p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@SD" group-title="ALL INDIA FREE",Star Sports 2 Telugu (576p)
@@ -3712,8 +3706,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0425/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0422/master.m3u8
 #EXTINF:-1 tvg-id="StarSports1Telugu.in@SD" group-title="ALL INDIA FREE",Star Sports 1 Telugu (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" group-title="ALL INDIA FREE",Star Sports 1 Tamil HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8
 #EXTINF:-1 tvg-id="StarSports1Tamil.in@SD" group-title="ALL INDIA FREE",Star Sports 1 Tamil (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8
 #EXTINF:-1 tvg-id="StarSports1Kannada.in@SD" group-title="ALL INDIA FREE",Star Sports 1 Kannada (576p)
@@ -3836,8 +3828,6 @@ http://116.90.120.151:8000/play/a0j6/index.m3u8
 http://116.90.120.151:8000/play/a0il/index.m3u8
 #EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="ALL INDIA FREE",&prive HD (1080p)
 http://116.90.120.151:8000/play/a0it/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="ALL INDIA FREE",Sony Max HD (720p)
-https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@HD" group-title="ALL INDIA FREE",Colors Cineplex HD (720p)
 https://padmaonline.duckdns.org:8088/ColorsCineplexHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" group-title="ALL INDIA FREE",Sony Entertainment Television HD (720p)
@@ -3852,6 +3842,30 @@ http://103.99.249.139/sonysab/index.m3u8
 http://tvn1.chowdhury-shaheb.com/colors/index.m3u8
 #EXTINF:-1 tvg-id="JayaMax.in@SD" group-title="ALL INDIA FREE",Jaya Max (576p)
 https://mac.zenplay.top/linear-live.php?id=994&amp;vtoken=&amp;e=.m3u8
+#EXTINF:-1 tvg-id="StarSports3.in@SD" group-title="ALL INDIA FREE",Star Sports 3 (576p)
+http://103.161.153.165:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="ALL INDIA FREE",Movies Now + (1080p)
+http://103.161.153.165:8000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="MNX.in@SD" group-title="ALL INDIA FREE",MNX (576p)
+http://103.161.153.165:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNow.in@HD" group-title="ALL INDIA FREE",Movies Now HD (1080p)
+http://103.161.153.165:8000/play/mnh/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in@SD" group-title="ALL INDIA FREE",Zee Tamil (576p)
+http://103.161.153.165:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="AndTV.in@HD" group-title="ALL INDIA FREE",&TV HD (1080p)
+http://103.161.153.165:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="ALL INDIA FREE",&prive HD (1080p)
+http://103.161.153.165:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="ALL INDIA FREE",&pictures HD (1080p)
+http://103.161.153.165:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="SonyAath.in@SD" group-title="ALL INDIA FREE",Sony Aath (720p)
+http://103.161.153.165:8000/play/sonyatth/index.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" group-title="ALL INDIA FREE",Hare Krsna TV (1080p)
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" group-title="ALL INDIA FREE",Sony Sports Ten 5 (480p)
+http://103.99.249.139/sonyten3/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="ALL INDIA FREE",Sony Max HD (480p)
+http://103.99.249.139/sonymax/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
