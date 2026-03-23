@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-03-22 18:30:53"
+#EXTM3U billed-msg="2026-03-23 01:54:45"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3622,6 +3622,22 @@ https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 http://103.99.249.139/sonyten3/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="ALL INDIA FREE",Sony Max HD (480p)
 http://103.99.249.139/sonymax/index.m3u8
+#EXTINF:-1 tvg-id="TamilJanam.in@SD" group-title="ALL INDIA FREE",Tamil Janam (576p)
+https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
+#EXTINF:-1 tvg-id="SubhartiTV.in@SD" group-title="ALL INDIA FREE",Subharti TV (576p)
+https://mumt04.tangotv.in/SUBHARTITV/index.m3u8
+#EXTINF:-1 tvg-id="SohamTV.in@SD" group-title="ALL INDIA FREE",Soham TV (576p)
+https://mumt03.tangotv.in/SOHAMTV/index.m3u8
+#EXTINF:-1 tvg-id="SairamTV.in@SD" group-title="ALL INDIA FREE",Sairam TV (576p)
+https://mumt04.tangotv.in/SAIRAMTV/index.m3u8
+#EXTINF:-1 tvg-id="SachBedhadak.in@SD" group-title="ALL INDIA FREE",Sach Bedhadak (576p)
+https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8
+#EXTINF:-1 tvg-id="RajMusixKannada.in@SD" group-title="ALL INDIA FREE",Raj Musix Kannada (576p)
+https://mumt01.tangotv.in/RAJMUSIXKANDA/index.m3u8
+#EXTINF:-1 tvg-id="NKRTVKannada.in@SD" group-title="ALL INDIA FREE",NKR TV Kannada (576p)
+https://mumt05.tangotv.in/NKRTV/index.m3u8
+#EXTINF:-1 tvg-id="OnkarOnlyTruthTV.in@SD" group-title="ALL INDIA FREE",Onkar Only Truth TV (576p)
+https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
