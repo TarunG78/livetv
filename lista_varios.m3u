@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-03-25 18:51:07"
+#EXTM3U billed-msg="2026-03-26 01:58:47"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3772,8 +3772,6 @@ http://116.90.120.151:8000/play/a0il/index.m3u8
 http://116.90.120.151:8000/play/a0it/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" group-title="ALL INDIA FREE",Sony Entertainment Television HD (720p)
 https://padmaonline.duckdns.org:8088/SETHD/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="ALL INDIA FREE",StarPlus HD (720p)
-https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD" group-title="ALL INDIA FREE",Asianet Middle East (576p)
 https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD" group-title="ALL INDIA FREE",Sony SAB HD (480p)
@@ -3840,6 +3838,16 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
 #EXTINF:-1 tvg-id="GoodnessTV.in@SD" group-title="ALL INDIA FREE",Goodness TV (576p)
 https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
+#EXTINF:-1 tvg-id="PrimeNews.in@SD" group-title="ALL INDIA FREE",Prime News (576p)
+https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
+#EXTINF:-1 tvg-id="ShekinahTV.in@SD" group-title="ALL INDIA FREE",Shekinah TV (1080p)
+https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TaazaTV.in@SD" group-title="ALL INDIA FREE",Taaza TV (720p)
+https://live.we2live.in/taazatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="STVHaryanaNews.in@SD" group-title="ALL INDIA FREE",STV Haryana News (576p)
+https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8
+#EXTINF:-1 tvg-id="VistaarNews.in@SD" group-title="ALL INDIA FREE",Vistaar News (576p)
+https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
