@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-04-05 12:49:40"
+#EXTM3U billed-msg="2026-04-05 13:43:52"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2039,6 +2039,8 @@ http://premimum.online:80/jen12345/jen54321/376295
 http://premimum.online:80/jen12345/jen54321/379763
 #EXTINF:-1 group-title="🇮🇳 NEWS" tvg-logo="https://i.ibb.co/nsXSsp6r/Republic-Bharat-logo-svg.png" ,IN: REPUBLIC BHARAT
 http://premimum.online:80/jen12345/jen54321/609629
+#EXTINF:-1 group-title="🇮🇳 ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" tvg-id="ts15" ,IN: SONY TV HD (N)
+https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
 #EXTM3U
 #Generated on 1775392699
 
