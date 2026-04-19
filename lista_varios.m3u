@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-04-18 18:41:30"
+#EXTM3U billed-msg="2026-04-19 02:12:40"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3077,10 +3077,6 @@ http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8
 http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in@SD" group-title="ALL INDIA FREE",Colors Tamil (576p)
 http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" group-title="ALL INDIA FREE",Star Sports 1 Tamil HD (1080p)
-http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@SD" group-title="ALL INDIA FREE",Star Sports 1 Tamil (576p)
-http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8
 #EXTINF:-1 tvg-id="ZeeThirai.in@HD" group-title="ALL INDIA FREE",Zee Thirai HD (1080p)
 http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI_HD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeThirai.in@SD" group-title="ALL INDIA FREE",Zee Thirai (576p)
@@ -3313,6 +3309,14 @@ https://cdn-2.pishow.tv/live/269/master.m3u8
 http://103.213.31.109:90/B4UMusic/playlist.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" group-title="ALL INDIA FREE",Star Sports 1 HD (1080p)
 http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen4.in@Telugu" group-title="ALL INDIA FREE",Sony Sports Ten 4 Telugu (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen4.in@Tamil" group-title="ALL INDIA FREE",Sony Sports Ten 4 (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8
+#EXTINF:-1 tvg-id="DharsanTV.in@SD" group-title="ALL INDIA FREE",Dharsan TV (720p)
+https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
+#EXTINF:-1 tvg-id="HebronTV.in@SD" group-title="ALL INDIA FREE",Hebron TV (1080p)
+https://account20.livebox.co.in/charleshls/live.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
