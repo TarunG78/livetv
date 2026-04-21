@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-04-20 18:58:57"
+#EXTM3U billed-msg="2026-04-21 02:09:29"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2238,14 +2238,8 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Colors.in@SD" group-title="ALL INDIA FREE",Colors (576p)
 http://103.229.254.25:7001/play/a077/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD" group-title="ALL INDIA FREE",Colors Bangla Cinema (576p)
-http://116.90.120.151:8000/play/a0jh/index.m3u8
 #EXTINF:-1 tvg-id="ColorsBangla.in@HD" group-title="ALL INDIA FREE",Colors Bangla HD (1080p)
 http://103.229.254.25:7001/play/a0ds/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.in@HD" group-title="ALL INDIA FREE",Colors Cineplex HD (1080p)
-http://116.90.120.151:8000/play/a0ji/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="ALL INDIA FREE",Colors Cineplex Superhits (576p)
-http://116.90.120.151:8000/play/a0kl/index.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD" group-title="ALL INDIA FREE",Colors HD (1080p)
 http://103.229.254.25:7001/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in@HD" group-title="ALL INDIA FREE",Colors Infinity HD (1080p)
@@ -2566,8 +2560,6 @@ https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" group-title="ALL INDIA FREE",News Tamil 24x7 (1080p)
 https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8
-#EXTINF:-1 tvg-id="NickHDPlus.in@HD" group-title="ALL INDIA FREE",Nick HD+ (1080p)
-http://116.90.120.151:8000/play/a0i3/index.m3u8
 #EXTINF:-1 tvg-id="NKTV24x7.in@SD" group-title="ALL INDIA FREE",NK TV 24x7 (1080p)
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 #EXTINF:-1 tvg-id="NKRTVKannada.in@SD" group-title="ALL INDIA FREE",NKR TV Kannada (576p)
@@ -2629,12 +2621,8 @@ https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id="RaftaarMedia.in@SD" group-title="ALL INDIA FREE",Raftaar Media (240p)
 https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" group-title="ALL INDIA FREE",Raj Digital Plus (1080p)
-https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 #EXTINF:-1 tvg-id="RajMusixKannada.in@SD" group-title="ALL INDIA FREE",Raj Musix Kannada (576p)
 https://mumt01.tangotv.in/RAJMUSIXKANDA/index.m3u8
-#EXTINF:-1 tvg-id="RajTV.in@SD" group-title="ALL INDIA FREE",Raj TV (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
 #EXTINF:-1 tvg-id="RDXGoa.in@SD" group-title="ALL INDIA FREE",RDX Goa (720p) [Geo-blocked]
 https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RealNewsKerala.in@SD" group-title="ALL INDIA FREE",Real News Kerala (1080p) [Not 24/7]
@@ -2748,8 +2736,6 @@ http://103.229.254.25:7001/play/a0db/index.m3u8
 http://103.229.254.25:7001/play/a09q/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALL INDIA FREE",Star Family (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@HD" group-title="ALL INDIA FREE",Star Gold 2 HD (1080p)
-http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="StarGold.in@HD" group-title="ALL INDIA FREE",Star Gold HD (1080p)
 http://103.229.254.25:7001/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" group-title="ALL INDIA FREE",Star Gold Select HD (1080p)
@@ -2760,7 +2746,7 @@ http://103.121.6.5:8000/play/a063/index.m3u8
 http://116.90.120.151:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD" group-title="ALL INDIA FREE",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@SD" group-title="ALL INDIA FREE",StarPlus (1080p)
+#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="ALL INDIA FREE",StarPlus HD (1080p)
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" group-title="ALL INDIA FREE",Steelbird Music (720p) [Not 24/7]
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
@@ -2921,8 +2907,6 @@ http://103.229.254.25:7001/play/a09r/index.m3u8
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="ZeeCafe.in@HD" group-title="ALL INDIA FREE",Zee Cafe HD (1080p)
 http://103.229.254.25:7001/play/a0cx/index.m3u8
-#EXTINF:-1 tvg-id="ZeeCafe.in@HD" group-title="ALL INDIA FREE",Zee Cafe HD (1080p)
-http://116.90.120.151:8000/play/a0hn/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCineClassic.in@SD" group-title="ALL INDIA FREE",Zee Cine Classic (1080p)
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@APAC" group-title="ALL INDIA FREE",Zee Cinema APAC (1080p) [Geo-blocked]
@@ -2953,8 +2937,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" group-title="ALL INDIA FREE",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in@HD" group-title="ALL INDIA FREE",Zee Talkies HD (1080p)
-http://116.90.120.151:8000/play/a0io/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTeluguNews.in@SD" group-title="ALL INDIA FREE",Zee Telugu News (720p)
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD" group-title="ALL INDIA FREE",Zee Uttar Pradesh/Uttarakhand (720p)
@@ -2995,14 +2977,6 @@ http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
 http://103.157.248.140:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" group-title="ALL INDIA FREE",Star Sports 2 Hindi HD (1080p)
 http://103.157.248.140:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" group-title="ALL INDIA FREE",Star Sports 1 Hindi (576p)
-http://103.157.248.140:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" group-title="ALL INDIA FREE",Star Gold Thrills (576p)
-http://103.157.248.140:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" group-title="ALL INDIA FREE",Star Gold Romance (576p)
-http://103.157.248.140:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@SD" group-title="ALL INDIA FREE",Star Gold 2 (576p)
-http://103.157.248.140:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="ALL INDIA FREE",Star Movies HD (1080p)
 http://103.157.248.140:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="ALL INDIA FREE",Star Movies HD (1080p)
@@ -3013,14 +2987,6 @@ http://103.157.248.140:8000/play/a015/index.m3u8
 http://103.157.248.140:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.in@HD" group-title="ALL INDIA FREE",National Geographic HD (1080p)
 http://103.157.248.140:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="ColorsTamil.in@HD" group-title="ALL INDIA FREE",Colors Tamil HD (1080p)
-http://ptuf.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
-#EXTINF:-1 tvg-id="ColorsTamil.in@HD" group-title="ALL INDIA FREE",Colors Tamil HD (1080p)
-http://103.157.248.140:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" group-title="ALL INDIA FREE",Colors Cineplex Bollywood (576p)
-http://103.157.248.140:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="Asianet.in@HD" group-title="ALL INDIA FREE",Asianet HD (1080p)
-http://103.157.248.140:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" group-title="ALL INDIA FREE",Zee TV (1080p)
 http://103.229.254.25:7001/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in@SD" group-title="ALL INDIA FREE",Isai Aruvi (576p)
@@ -3245,8 +3211,6 @@ http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
 https://cdn-2.pishow.tv/live/269/master.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" group-title="ALL INDIA FREE",B4U Music (576p)
 http://103.213.31.109:90/B4UMusic/playlist.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@HD" group-title="ALL INDIA FREE",Star Sports 1 HD (1080p)
-http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Telugu" group-title="ALL INDIA FREE",Sony Sports Ten 4 Telugu (1080p)
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Tamil" group-title="ALL INDIA FREE",Sony Sports Ten 4 (1080p) [Geo-blocked]
@@ -3306,7 +3270,7 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8
 #EXTINF:-1 tvg-id="ColorsRishteyAsia.in@SD" group-title="ALL INDIA FREE",Colors Rishtey Asia (1080p)
 http://103.154.3.101:5001/live/279.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD" group-title="ALL INDIA FREE",MTV HD (1080p)
+#EXTINF:-1 tvg-id="MTV.in@SD" group-title="ALL INDIA FREE",MTV (1080p)
 http://103.154.3.101:5001/live/248.m3u8
 #EXTINF:-1 tvg-id="ColorsGujarati.in@SD" group-title="ALL INDIA FREE",Colors Gujarati (1080p)
 http://103.154.3.101:5001/live/196.m3u8
@@ -3356,6 +3320,218 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202%20HD.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" group-title="ALL INDIA FREE",Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" group-title="ALL INDIA FREE",Hungama TV (576p)
+https://mini.allinonereborn.fun/tata.php?id=11647
+#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="ALL INDIA FREE",StarPlus HD (1080p)
+http://103.253.18.58:8000/play/a00l
+#EXTINF:-1 tvg-id="StarBharat.in@SD" group-title="ALL INDIA FREE",Star Bharat (576p)
+http://103.253.18.58:8000/play/a00u
+#EXTINF:-1 tvg-id="StarGold2.in@SD" group-title="ALL INDIA FREE",Star Gold 2 (576p)
+http://103.253.18.58:8000/play/a00r
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" group-title="ALL INDIA FREE",Star Gold Romance (576p)
+http://103.253.18.58:8000/play/a017
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" group-title="ALL INDIA FREE",Star Gold Select HD (1080p)
+http://103.253.18.58:8000/play/a02u
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" group-title="ALL INDIA FREE",Star Gold Thrills (576p)
+http://103.253.18.58:8000/play/a00o
+#EXTINF:-1 tvg-id="StarSports1.in@HD" group-title="ALL INDIA FREE",Star Sports 1 HD (1080p)
+http://103.253.18.58:8000/play/a00m
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" group-title="ALL INDIA FREE",Star Sports 1 Hindi (576p)
+http://103.253.18.58:8000/play/a03o
+#EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" group-title="ALL INDIA FREE",Epic Bhojpuri (576p)
+http://103.154.3.101:5001/live/3384.m3u8
+#EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" group-title="ALL INDIA FREE",Shemaroo Filmi Gaane (1080p)
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeZest.in@HD" group-title="ALL INDIA FREE",Zee Zest HD (1080p)
+http://103.154.3.101:5001/live/2757.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" group-title="ALL INDIA FREE",Colors Cineplex Bollywood (576p)
+http://103.154.3.101:5001/live/1763.m3u8
+#EXTINF:-1 tvg-id="ZeeClassic.in@SD" group-title="ALL INDIA FREE",Zee Classic (576p)
+http://103.154.3.101:5001/live/1691.m3u8
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD" group-title="ALL INDIA FREE",Colors Bangla Cinema (576p)
+http://103.154.3.101:5001/live/1657.m3u8
+#EXTINF:-1 tvg-id="ColorsKannadaCinema.in@SD" group-title="ALL INDIA FREE",Colors Kannada Cinema (576p)
+http://103.154.3.101:5001/live/1632.m3u8
+#EXTINF:-1 tvg-id="EVidya12.in@SD" group-title="ALL INDIA FREE",E-Vidya 12 (576p)
+http://103.154.3.101:5001/live/1532.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@HD" group-title="ALL INDIA FREE",Colors Cineplex HD (1080p)
+http://103.154.3.101:5001/live/1477.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in@SD" group-title="ALL INDIA FREE",History TV18 (576p)
+http://103.154.3.101:5001/live/1471.m3u8
+#EXTINF:-1 tvg-id="JanapriyamTV.in@SD" group-title="ALL INDIA FREE",Janapriyam TV (480p)
+http://103.154.3.101:5001/live/1455.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="ALL INDIA FREE",Colors Cineplex Superhits (576p)
+http://103.154.3.101:5001/live/1450.m3u8
+#EXTINF:-1 tvg-id="SongdewTV.in@SD" group-title="ALL INDIA FREE",Songdew TV (576p)
+http://103.154.3.101:5001/live/1411.m3u8
+#EXTINF:-1 tvg-id="EVidya11.in@SD" group-title="ALL INDIA FREE",E-Vidya 11 (576p)
+http://103.154.3.101:5001/live/1410.m3u8
+#EXTINF:-1 tvg-id="ColorsKannada.in@SD" group-title="ALL INDIA FREE",Colors Kannada (576p)
+http://103.154.3.101:5001/live/1370.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@SD" group-title="ALL INDIA FREE",Colors Bangla (576p)
+http://103.154.3.101:5001/live/1369.m3u8
+#EXTINF:-1 tvg-id="Colors.in@SD" group-title="ALL INDIA FREE",Colors (576p)
+http://103.154.3.101:5001/live/1368.m3u8
+#EXTINF:-1 tvg-id="ZeeMarathi.in@HD" group-title="ALL INDIA FREE",Zee Marathi HD (1080p)
+http://103.154.3.101:5001/live/1360.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkies.in@HD" group-title="ALL INDIA FREE",Zee Talkies HD (1080p)
+http://103.154.3.101:5001/live/1358.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in@HD" group-title="ALL INDIA FREE",Colors Infinity HD (1080p)
+http://103.154.3.101:5001/live/1158.m3u8
+#EXTINF:-1 tvg-id="ColorsMarathi.in@SD" group-title="ALL INDIA FREE",Colors Marathi (576p)
+http://103.154.3.101:5001/live/1326.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in@SD" group-title="ALL INDIA FREE",Colors Infinity (576p)
+http://103.154.3.101:5001/live/1325.m3u8
+#EXTINF:-1 tvg-id="ColorsGujaratiCinema.in@SD" group-title="ALL INDIA FREE",Colors Gujarati Cinema (360p)
+http://103.154.3.101:5001/live/1324.m3u8
+#EXTINF:-1 tvg-id="Andflix.in@HD" group-title="ALL INDIA FREE",&flix HD (1080p)
+http://103.154.3.101:5001/live/1322.m3u8
+#EXTINF:-1 tvg-id="ZeeCafe.in@HD" group-title="ALL INDIA FREE",Zee Cafe HD (1080p)
+http://103.154.3.101:5001/live/1319.m3u8
+#EXTINF:-1 tvg-id="DigiShala.in@SD" group-title="ALL INDIA FREE",Digi Shala (576p)
+http://103.154.3.101:5001/live/1227.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in@HD" group-title="ALL INDIA FREE",Nick HD+ (1080p)
+http://103.154.3.101:5001/live/1226.m3u8
+#EXTINF:-1 tvg-id="KalaignarTV.in@SD" group-title="ALL INDIA FREE",Kalaignar TV (576p)
+http://103.154.3.101:5001/live/1209.m3u8
+#EXTINF:-1 tvg-id="AsianetMovies.in@SD" group-title="ALL INDIA FREE",Asianet Movies (1080p)
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
+#EXTINF:-1 tvg-id="MTV.in@HD" group-title="ALL INDIA FREE",MTV HD (1080p)
+http://103.154.3.101:5001/live/1145.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat16.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 16 (576p)
+http://103.154.3.101:5001/live/1094.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat15.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 15 (576p)
+http://103.154.3.101:5001/live/1093.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat14.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 14 (576p)
+http://103.154.3.101:5001/live/1092.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat13.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 13 (576p)
+http://103.154.3.101:5001/live/1091.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat12.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 12 (576p)
+http://103.154.3.101:5001/live/1090.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat11.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 11 (576p)
+http://103.154.3.101:5001/live/1089.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat10.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 10 (576p)
+http://103.154.3.101:5001/live/1088.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat9.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 9 (576p)
+http://103.154.3.101:5001/live/1087.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat8.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 8 (576p)
+http://103.154.3.101:5001/live/1086.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat7.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 7 (576p)
+http://103.154.3.101:5001/live/1085.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat6.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 6 (576p)
+http://103.154.3.101:5001/live/1084.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat5.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 5 (576p)
+http://103.154.3.101:5001/live/1083.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat3.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 3 (576p)
+http://103.154.3.101:5001/live/1082.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat4.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 4 (576p)
+http://103.154.3.101:5001/live/1071.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat2.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 2 (576p)
+http://103.154.3.101:5001/live/1070.m3u8
+#EXTINF:-1 tvg-id="VandeGujarat1.in@SD" group-title="ALL INDIA FREE",Vande Gujarat 1 (576p)
+http://103.154.3.101:5001/live/1069.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha18.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 18 (576p)
+http://103.154.3.101:5001/live/999.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha22.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 22 (576p)
+http://103.154.3.101:5001/live/998.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha21.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 21 (576p)
+http://103.154.3.101:5001/live/997.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha17.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 17 (576p)
+http://103.154.3.101:5001/live/996.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha15.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 15 (576p)
+http://103.154.3.101:5001/live/995.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha16.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 16 (576p)
+http://103.154.3.101:5001/live/994.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha14.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 14 (576p)
+http://103.154.3.101:5001/live/993.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha13.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 13 (576p)
+http://103.154.3.101:5001/live/992.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha12.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 12 (576p)
+http://103.154.3.101:5001/live/991.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha11.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 11 (576p)
+http://103.154.3.101:5001/live/990.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha10.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 10 (576p)
+http://103.154.3.101:5001/live/989.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha9.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 9 (576p)
+http://103.154.3.101:5001/live/988.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha6.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 6 (576p)
+http://103.154.3.101:5001/live/987.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha5.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 5 (576p)
+http://103.154.3.101:5001/live/986.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha7.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 7 (576p)
+http://103.154.3.101:5001/live/985.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha4.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 4 (576p)
+http://103.154.3.101:5001/live/984.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha8.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 8 (576p)
+http://103.154.3.101:5001/live/983.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha3.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 3 (576p)
+http://103.154.3.101:5001/live/982.m3u8
+#EXTINF:-1 tvg-id="SwayamPrabha1.in@SD" group-title="ALL INDIA FREE",Swayam Prabha 1 (576p)
+http://103.154.3.101:5001/live/980.m3u8
+#EXTINF:-1 tvg-id="SarvDharamSangam.in@SD" group-title="ALL INDIA FREE",Sarv Dharam Sangam (576p)
+http://103.154.3.101:5001/live/972.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" group-title="ALL INDIA FREE",History TV18 HD (1080p)
+http://103.154.3.101:5001/live/579.m3u8
+#EXTINF:-1 tvg-id="EVidya10.in@SD" group-title="ALL INDIA FREE",E-Vidya 10 (576p)
+http://103.154.3.101:5001/live/411.m3u8
+#EXTINF:-1 tvg-id="EVidya9.in@SD" group-title="ALL INDIA FREE",E-Vidya 9 (576p)
+http://103.154.3.101:5001/live/410.m3u8
+#EXTINF:-1 tvg-id="EVidya8.in@SD" group-title="ALL INDIA FREE",E-Vidya 8 (576p)
+http://103.154.3.101:5001/live/409.m3u8
+#EXTINF:-1 tvg-id="EVidya6.in@SD" group-title="ALL INDIA FREE",E-Vidya 6 (576p)
+http://103.154.3.101:5001/live/408.m3u8
+#EXTINF:-1 tvg-id="EVidya5.in@SD" group-title="ALL INDIA FREE",E-Vidya 5 (576p)
+http://103.154.3.101:5001/live/407.m3u8
+#EXTINF:-1 tvg-id="Asianet.in@SD" group-title="ALL INDIA FREE",Asianet (576p)
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#EXTINF:-1 tvg-id="StarMaa.in@HD" group-title="ALL INDIA FREE",Star Maa HD (1080p)
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8
+#EXTINF:-1 tvg-id="TimesNowWorld.in@SD" group-title="ALL INDIA FREE",Times Now World (1080p)
+http://103.154.3.101:5001/live/876.m3u8
+#EXTINF:-1 tvg-id="Sonic.in@SD" group-title="ALL INDIA FREE",Sonic (576p)
+http://103.154.3.101:5001/live/815.m3u8
+#EXTINF:-1 tvg-id="TravelxpTamil.in@SD" group-title="ALL INDIA FREE",Travelxp Tamil (576p)
+http://103.154.3.101:5001/live/814.m3u8
+#EXTINF:-1 tvg-id="ColorsSuper.in@SD" group-title="ALL INDIA FREE",Colors Super (1080p)
+http://103.154.3.101:5001/live/785.m3u8
+#EXTINF:-1 tvg-id="RajNews.in@SD" group-title="ALL INDIA FREE",Raj News (576p)
+http://103.154.3.101:5001/live/767.m3u8
+#EXTINF:-1 tvg-id="StarMaaMovies.in@HD" group-title="ALL INDIA FREE",Star Maa Movies HD (1080p)
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
+#EXTINF:-1 tvg-id="ColorsKannada.in@HD" group-title="ALL INDIA FREE",Colors Kannada HD (1080p)
+http://103.154.3.101:5001/live/757.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD" group-title="ALL INDIA FREE",Colors Bangla HD (1080p)
+http://103.154.3.101:5001/live/756.m3u8
+#EXTINF:-1 tvg-id="ColorsMarathi.in@HD" group-title="ALL INDIA FREE",Colors Marathi HD (1080p)
+http://103.154.3.101:5001/live/755.m3u8
+#EXTINF:-1 tvg-id="RajMusixTamil.in@SD" group-title="ALL INDIA FREE",Raj Musix Tamil (576p)
+http://103.154.3.101:5001/live/748.m3u8
+#EXTINF:-1 tvg-id="ZeeSarthak.in@SD" group-title="ALL INDIA FREE",Zee Sarthak (576p)
+http://103.154.3.101:5001/live/722.m3u8
+#EXTINF:-1 tvg-id="RajTV.in@SD" group-title="ALL INDIA FREE",Raj TV (576p)
+http://103.154.3.101:5001/live/707.m3u8
+#EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" group-title="ALL INDIA FREE",Raj Digital Plus (576p)
+http://103.154.3.101:5001/live/683.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in@SD" group-title="ALL INDIA FREE",Zee Tamil (576p)
+http://103.154.3.101:5001/live/628.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@SD" group-title="ALL INDIA FREE",Zee Bangla (576p)
+http://103.154.3.101:5001/live/625.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" group-title="ALL INDIA FREE",Colors Cineplex (576p)
+http://103.154.3.101:5001/live/482.m3u8
+#EXTINF:-1 tvg-id="ZeeTamilNews.in@SD" group-title="ALL INDIA FREE",Zee Tamil News (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
+#EXTINF:-1 tvg-id="ZeeThirai.in@HD" group-title="ALL INDIA FREE",Zee Thirai HD (1080p)
+http://103.154.3.101:5001/live/3051.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in@HD" group-title="ALL INDIA FREE",Colors Tamil HD (1080p)
+http://103.154.3.101:5001/live/429.m3u8
+#EXTINF:-1 tvg-id="SonyPal.in@SD" group-title="ALL INDIA FREE",Sony Pal (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20PAL.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@HD" group-title="ALL INDIA FREE",Sony SAB HD (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20SAB%20HD.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
