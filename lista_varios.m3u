@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-05-21 19:47:39"
+#EXTM3U billed-msg="2026-05-22 02:52:58"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3824,8 +3824,6 @@ http://103.122.249.134:8000/play/a05f
 http://103.122.249.134:8000/play/a04y
 #EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="ALL INDIA FREE",Sony Max HD (1080p)
 http://103.122.249.134:8000/play/a05a
-#EXTINF:-1 tvg-id="SonySAB.in@HD" group-title="ALL INDIA FREE",Sony SAB HD (1080p)
-http://103.122.249.134:8000/play/a04h
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" group-title="ALL INDIA FREE",Sony Sports Ten 5 HD (1080p)
 http://103.122.249.134:8000/play/a03d
 #EXTINF:-1 tvg-id="Sonic.in@SD" group-title="ALL INDIA FREE",Sonic (576p)
