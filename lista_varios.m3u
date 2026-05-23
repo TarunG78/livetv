@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-05-22 19:28:22"
+#EXTM3U billed-msg="2026-05-23 02:38:08"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3912,3 +3912,5 @@ http://149.71.34.166:8000/play/a06c/index.m3u8
 http://149.71.34.166:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in@HD" group-title="ALL INDIA FREE",Colors Infinity HD (1080p)
 http://149.71.34.166:8002/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="MediBizTV.in@SD" group-title="ALL INDIA FREE",MediBizTV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
