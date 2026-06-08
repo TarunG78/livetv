@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-06-07 19:15:34"
+#EXTM3U billed-msg="2026-06-08 03:33:26"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3963,3 +3963,7 @@ https://joy.inet.moe/live/joytv/index.m3u8
 https://ktismaservers.in:3412/live/joytvlive.m3u8
 #EXTINF:-1 tvg-id="VijaySuper.in@SD" group-title="ALL INDIA FREE",Vijay Super (576p)
 http://202.70.146.135:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD" group-title="ALL INDIA FREE",Star Sports 2 HD (720p)
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@SD" group-title="ALL INDIA FREE",Star Sports 1 (720p)
+https://tvsen7.aynaott.com/sspts1/index.m3u8
