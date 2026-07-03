@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-07-03 02:32:34"
+#EXTM3U billed-msg="2026-07-03 08:55:26"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -5424,8 +5424,6 @@ http://103.72.101.252:8080/live/1094.m3u8
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="ALL INDIA FREE",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png" group-title="ALL INDIA FREE",Colors Rishtey Asia (1080p)
-http://103.72.101.252:8080/live/279.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Dangal TV (720p)
 http://103.213.31.109:90/Dangal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ARUNPRABHA/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",DD Arun Prabha (360p)
