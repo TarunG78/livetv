@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-07-25 02:11:40"
+#EXTM3U billed-msg="2026-07-25 07:59:52"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -6007,6 +6007,8 @@ https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
 http://103.72.101.252:8080/live/756.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Colors Gujarati (1080p)
 http://103.72.101.252:8080/live/196.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="ALL INDIA FREE",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",Colors HD
+http://59.103.38.46:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Colors Infinity HD (1080p)
 http://149.71.34.166:8002/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Colors Kannada (576p)
