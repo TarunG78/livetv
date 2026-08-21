@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-08-20 18:31:37"
+#EXTM3U billed-msg="2026-08-21 01:00:36"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1725,6 +1725,382 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 tvg-id="ColorsGujarati.in@SD" group-title="ALL INDIA FREE",Colors Gujarati (396p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" group-title="ALL INDIA FREE",Sony BBC Earth HD (720p)
+https://sra72yz.s.gy/SONY_BBC_EARTH_HD.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in@SD" group-title="ALL INDIA FREE",9X Jalwa (1080p)
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD" group-title="ALL INDIA FREE",9X Jhakaas (1080p)
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in@SD" group-title="ALL INDIA FREE",9X Tashan (1080p)
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-id="9XM.in@SD" group-title="ALL INDIA FREE",9XM (1080p)
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-id="DangalTV.in@SD" group-title="ALL INDIA FREE",Dangal TV (576p)
+https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD" group-title="ALL INDIA FREE",Shemaroo TV (576p)
+https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Dangal2.in@SD" group-title="ALL INDIA FREE",Dangal 2 (576p)
+https://streams.tangotv.in/DANGAL2/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD" group-title="ALL INDIA FREE",Shemaroo Umang (576p)
+https://streams.tangotv.in/SHEMAROOUMANG/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="EpicBharat.in@SD" group-title="ALL INDIA FREE",Epic Bharat (576p)
+https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
+#EXTINF:-1 tvg-id="DDNational.in@HD" group-title="ALL INDIA FREE",DD National HD (576p)
+https://streams.tangotv.in/DDNATIONALHD/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" group-title="ALL INDIA FREE",Manoranjan Grand (576p)
+https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" group-title="ALL INDIA FREE",Shemaroo Josh (576p)
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanTV.in@SD" group-title="ALL INDIA FREE",Manoranjan TV (576p)
+https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" group-title="ALL INDIA FREE",Manoranjan Prime (576p)
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
+#EXTINF:-1 tvg-id="AnjanTV.in@SD" group-title="ALL INDIA FREE",Anjan TV (576p)
+https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
+#EXTINF:-1 tvg-id="GangaurTV.in@SD" group-title="ALL INDIA FREE",Gangaur TV (576p)
+https://mumt04.tangotv.in/m18aqlK4GANGAURTV/index.m3u8
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" group-title="ALL INDIA FREE",All Time Movies (576p)
+https://streams.tangotv.in/ALLTIMEMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="ALL INDIA FREE",Goldmines (576p)
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="ALL INDIA FREE",Goldmines Movies (576p)
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" group-title="ALL INDIA FREE",Goldmines Bollywood (576p)
+https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="ALL INDIA FREE",B4U Kadak (576p)
+https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="ALL INDIA FREE",B4U Movies (576p)
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" group-title="ALL INDIA FREE",Manoranjan Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in@SD" group-title="ALL INDIA FREE",Music India (576p)
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="9XM.in@SD" group-title="ALL INDIA FREE",9XM (576p)
+https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" group-title="ALL INDIA FREE",Epic Music (576p)
+https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="E24.in@SD" group-title="ALL INDIA FREE",E 24 (576p)
+https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India" group-title="ALL INDIA FREE",B4U Music (576p)
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Insync.in@SD" group-title="ALL INDIA FREE",Insync (576p)
+https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD" group-title="ALL INDIA FREE",TV9 Bharatvarsh (576p)
+https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="RepublicBharat.in@SD" group-title="ALL INDIA FREE",Republic Bharat (576p)
+https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD" group-title="ALL INDIA FREE",Times Now Navbharat (576p)
+https://streams.tangotv.in/TIMESNOWNAVBHARAT/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.in@SD" group-title="ALL INDIA FREE",News Nation (576p)
+https://streams.tangotv.in/NEWSNATION/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in@SD" group-title="ALL INDIA FREE",India TV (576p)
+https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="News24.in@SD" group-title="ALL INDIA FREE",News 24 (576p)
+https://streams.tangotv.in/NEWS24/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="DDNews.in@SD" group-title="ALL INDIA FREE",DD News (576p)
+https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Bharat24.in@SD" group-title="ALL INDIA FREE",Bharat24 (576p)
+https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="SudarshanNews.in@SD" group-title="ALL INDIA FREE",Sudarshan News (576p)
+https://streams.tangotv.in/SUDARSHANNEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="APN.in@SD" group-title="ALL INDIA FREE",APN (576p)
+https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
+#EXTINF:-1 tvg-id="BharatExpress.in@SD" group-title="ALL INDIA FREE",Bharat Express (576p)
+https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
+#EXTINF:-1 tvg-id="BharatSamachar.in@SD" group-title="ALL INDIA FREE",Bharat Samachar (576p)
+https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8
+#EXTINF:-1 tvg-id="HindiKhabar.in@SD" group-title="ALL INDIA FREE",Hindi Khabar (576p)
+https://mumt04.tangotv.in/m18aqlK4HINDIKHABAR/index.m3u8
+#EXTINF:-1 tvg-id="SwarajExpressSMBC.in@SD" group-title="ALL INDIA FREE",Swaraj Express SMBC (576p)
+https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8
+#EXTINF:-1 tvg-id="KhabrainAbhiTak.in@SD" group-title="ALL INDIA FREE",Khabrain Abhi Tak (576p)
+https://mumt05.tangotv.in/87NeALx2KHABRAINABHITAK/index.m3u8
+#EXTINF:-1 tvg-id="Network10.in@SD" group-title="ALL INDIA FREE",Network 10 (576p)
+https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8
+#EXTINF:-1 tvg-id="News1India.in@SD" group-title="ALL INDIA FREE",News 1 India (576p)
+https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
+#EXTINF:-1 tvg-id="JantantraTV.in@SD" group-title="ALL INDIA FREE",Jantantra TV (576p)
+https://mumt05.tangotv.in/87NeALx2JANTANTRA/index.m3u8
+#EXTINF:-1 tvg-id="MKNMarathi.in@SD" group-title="ALL INDIA FREE",MKN Marathi (576p)
+https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
+#EXTINF:-1 tvg-id="News24MPChhattisgarh.in@SD" group-title="ALL INDIA FREE",News 24 MP & Chhattisgarh (576p)
+https://mumt04.tangotv.in/m18aqlK4NEWS24MPCG/index.m3u8
+#EXTINF:-1 tvg-id="BansalNews.in@SD" group-title="ALL INDIA FREE",Bansal News (576p)
+https://mumt07.tangotv.in/zHjX9OFlBANSALNEWS/index.m3u8
+#EXTINF:-1 tvg-id="SadhnaNewsMadhyaPradeshChhattisgarh.in@SD" group-title="ALL INDIA FREE",Sadhna News Madhya Pradesh/Chhattisgarh (576p)
+https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8
+#EXTINF:-1 tvg-id="Ind24.in@SD" group-title="ALL INDIA FREE",Ind 24 (576p)
+https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8
+#EXTINF:-1 tvg-id="RaftaarMedia.in@SD" group-title="ALL INDIA FREE",Raftaar Media (576p)
+https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="FirstIndiaNews.in@SD" group-title="ALL INDIA FREE",First India News (576p)
+https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-id="ANBNews.in@SD" group-title="ALL INDIA FREE",ANB News (576p)
+https://mumt05.tangotv.in/87NeALx2ANBNEWSNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="IBC24.in@SD" group-title="ALL INDIA FREE",IBC 24 (576p)
+https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
+#EXTINF:-1 tvg-id="IBC24.in@SD" group-title="ALL INDIA FREE",IBC 24 (576p)
+https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8
+#EXTINF:-1 tvg-id="KhabarFast.in@SD" group-title="ALL INDIA FREE",Khabar Fast (576p)
+https://mumt04.tangotv.in/m18aqlK4KHABARFAST/index.m3u8
+#EXTINF:-1 tvg-id="PublicFirst.in@SD" group-title="ALL INDIA FREE",Public First (576p)
+https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8
+#EXTINF:-1 tvg-id="NewsX.in@SD" group-title="ALL INDIA FREE",NewsX (576p)
+https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
+#EXTINF:-1 tvg-id="RepublicTV.in@SD" group-title="ALL INDIA FREE",Republic TV (576p)
+https://streams.tangotv.in/REPUBLICTV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD" group-title="ALL INDIA FREE",DD India (576p)
+https://mumt05.tangotv.in/87NeALx2DDINDIA/index.m3u8
+#EXTINF:-1 tvg-id="NewsXWorld.in@HD" group-title="ALL INDIA FREE",NewsX World (576p)
+https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
+#EXTINF:-1 tvg-id="Aastha.in@SD" group-title="ALL INDIA FREE",Aastha SD (576p)
+https://mumt05.tangotv.in/87NeALx2AASTHA/index.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" group-title="ALL INDIA FREE",Hare Krsna TV (576p)
+https://mumt05.tangotv.in/87NeALx2HAREKRSNA/index.m3u8
+#EXTINF:-1 tvg-id="ParasGold.in@SD" group-title="ALL INDIA FREE",Paras Gold (576p)
+https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" group-title="ALL INDIA FREE",Ishwar Bhakti TV (576p)
+https://mumt05.tangotv.in/87NeALx2ISHWARBHAKTI/index.m3u8
+#EXTINF:-1 tvg-id="BhaktiSagar.in@SD" group-title="ALL INDIA FREE",Bhakti Sagar (576p)
+https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
+#EXTINF:-1 tvg-id="ChannelDivya.in@SD" group-title="ALL INDIA FREE",Channel Divya (576p)
+https://streams.tangotv.in/DIVYA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="AwakeningTV.in@SD" group-title="ALL INDIA FREE",Awakening TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8
+#EXTINF:-1 tvg-id="SubhartiTV.in@SD" group-title="ALL INDIA FREE",Subharti TV (576p)
+https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8
+#EXTINF:-1 tvg-id="SadhnaTV.in@SD" group-title="ALL INDIA FREE",Sadhna TV (576p)
+https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
+#EXTINF:-1 tvg-id="Darshan24.in@SD" group-title="ALL INDIA FREE",Darshan 24 (576p)
+https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8
+#EXTINF:-1 tvg-id="AadinathTV.in@SD" group-title="ALL INDIA FREE",Aadinath TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
+#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" group-title="ALL INDIA FREE",Hope Channel India (576p)
+https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabi.in@SD" group-title="ALL INDIA FREE",PTC Punjabi (576p)
+https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD" group-title="ALL INDIA FREE",PTC Punjabi Gold (576p)
+https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" group-title="ALL INDIA FREE",Pitaara (576p)
+https://streams.tangotv.in/PITAARA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in@SD" group-title="ALL INDIA FREE",PTC Music (576p)
+https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in@SD" group-title="ALL INDIA FREE",9X Tashan (576p)
+https://streams.tangotv.in/9XTASHAN/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in@SD" group-title="ALL INDIA FREE",PTC Chakde (576p)
+https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
+#EXTINF:-1 tvg-id="TabbarHits.in@SD" group-title="ALL INDIA FREE",Tabbar Hits (576p)
+https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" group-title="ALL INDIA FREE",Balle Balle (576p)
+https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PTCNews.in@SD" group-title="ALL INDIA FREE",PTC News (576p)
+https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD" group-title="ALL INDIA FREE",Living India News (576p)
+https://streams.tangotv.in/LIVINGINDIANEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" group-title="ALL INDIA FREE",Chardikla Time TV (576p)
+https://streams.tangotv.in/CHARDIKALATIMETV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" group-title="ALL INDIA FREE",Chardikla Time TV (576p)
+https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="FatehTV.in@SD" group-title="ALL INDIA FREE",Fateh TV (576p)
+http://180.188.254.253/live/FATEHTVHD.m3u8
+#EXTINF:-1 tvg-id="TV9Gujarati.in@SD" group-title="ALL INDIA FREE",TV9 Gujarati (576p)
+https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="GujaratFirst.in@SD" group-title="ALL INDIA FREE",Gujarat First (576p)
+https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
+#EXTINF:-1 tvg-id="FaktMarathi.in@SD" group-title="ALL INDIA FREE",Fakt Marathi (576p)
+https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
+#EXTINF:-1 tvg-id="SangeetMarathi.in@SD" group-title="ALL INDIA FREE",Sangeet Marathi (576p)
+https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in@SD" group-title="ALL INDIA FREE",TV9 Marathi (576p)
+https://streams.tangotv.in/TV9MARATHI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PudhariNews.in@SD" group-title="ALL INDIA FREE",Pudhari News (576p)
+https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" group-title="ALL INDIA FREE",B4U Bhojpuri (576p)
+https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" group-title="ALL INDIA FREE",Bhojpuri Cinema (576p)
+https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" group-title="ALL INDIA FREE",Sangeet Bhojpuri (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="PeppersTV.in@SD" group-title="ALL INDIA FREE",Peppers TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
+#EXTINF:-1 tvg-id="PolimerTV.in@SD" group-title="ALL INDIA FREE",Polimer TV (576p)
+https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" group-title="ALL INDIA FREE",Puthiya Thalaimurai (576p)
+https://streams.tangotv.in/PUTHIYATHALAIMURAI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" group-title="ALL INDIA FREE",Malai Murasu TV (576p)
+https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PolimerNews.in@SD" group-title="ALL INDIA FREE",Polimer News (576p)
+https://streams.tangotv.in/POLIMERNEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" group-title="ALL INDIA FREE",News Tamil 24x7 (576p)
+https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ThanthiTV.in@SD" group-title="ALL INDIA FREE",Thanthi TV (576p)
+https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="News7Tamil.in@SD" group-title="ALL INDIA FREE",News 7 Tamil (576p)
+https://streams.tangotv.in/NEWS7TAMIL/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="SaiTV.in@SD" group-title="ALL INDIA FREE",Sai TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8
+#EXTINF:-1 tvg-id="OMTV.in@SD" group-title="ALL INDIA FREE",OM TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in@India" group-title="ALL INDIA FREE",Angel TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8
+#EXTINF:-1 tvg-id="MadhaTV.in@SD" group-title="ALL INDIA FREE",Madha TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
+#EXTINF:-1 tvg-id="VissaTV.in@SD" group-title="ALL INDIA FREE",Vissa TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
+#EXTINF:-1 tvg-id="MahaaMax.in@SD" group-title="ALL INDIA FREE",Mahaa Max (576p)
+https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8
+#EXTINF:-1 tvg-id="RajMusixTelugu.in@SD" group-title="ALL INDIA FREE",Raj Musix Telugu (576p)
+https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
+#EXTINF:-1 tvg-id="Prime9News.in@SD" group-title="ALL INDIA FREE",Prime9 News (576p)
+https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
+#EXTINF:-1 tvg-id="SakshiTV.in@SD" group-title="ALL INDIA FREE",Sakshi TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8
+#EXTINF:-1 tvg-id="TV5News.in@SD" group-title="ALL INDIA FREE",TV5 News (576p)
+https://mumt07.tangotv.in/zHjX9OFlTV5NEWS/index.m3u8
+#EXTINF:-1 tvg-id="TV9Telugu.in@SD" group-title="ALL INDIA FREE",TV9 Telugu (576p)
+https://streams.tangotv.in/TV9TELUGU/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="V6News.in@SD" group-title="ALL INDIA FREE",V6 News (576p)
+https://mumt05.tangotv.in/87NeALx2V6NEWS/index.m3u8
+#EXTINF:-1 tvg-id="VanithaTV.in@SD" group-title="ALL INDIA FREE",Vanitha TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8
+#EXTINF:-1 tvg-id="MahaaNews.in@SD" group-title="ALL INDIA FREE",Mahaa News (576p)
+https://mumt07.tangotv.in/zHjX9OFlMAHAANEWS/index.m3u8
+#EXTINF:-1 tvg-id="HinduDharmam.in@SD" group-title="ALL INDIA FREE",Hindu Dharmam (576p)
+https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
+#EXTINF:-1 tvg-id="KairaliTV.in@SD" group-title="ALL INDIA FREE",Kairali TV (576p)
+https://streams.tangotv.in/KAIRALI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="AmritaTV.in@SD" group-title="ALL INDIA FREE",Amrita TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
+#EXTINF:-1 tvg-id="KappaTV.in@SD" group-title="ALL INDIA FREE",Kappa TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
+#EXTINF:-1 tvg-id="KairaliWe.in@SD" group-title="ALL INDIA FREE",Kairali We (576p)
+https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MazhavilManorama.in@SD" group-title="ALL INDIA FREE",Mazhavil Manorama (576p)
+https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8
+#EXTINF:-1 tvg-id="KairaliNews.in@SD" group-title="ALL INDIA FREE",Kairali News (576p)
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALINEWS/index.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in@SD" group-title="ALL INDIA FREE",Manorama News (576p)
+https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" group-title="ALL INDIA FREE",Mathrubhumi News (576p)
+https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="JaihindTV.in@SD" group-title="ALL INDIA FREE",Jaihind TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
+#EXTINF:-1 tvg-id="MediaOne.in@SD" group-title="ALL INDIA FREE",Media One (576p)
+https://streams.tangotv.in/MEDIAONETV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ReporterTV.in@SD" group-title="ALL INDIA FREE",Reporter TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlREPORTERTV/index.m3u8
+#EXTINF:-1 tvg-id="DarshanaTV.in@SD" group-title="ALL INDIA FREE",Darshana TV (576p)
+https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in@SD" group-title="ALL INDIA FREE",Public Music (576p)
+https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="PublicTV.in@SD" group-title="ALL INDIA FREE",Public TV (576p)
+https://streams.tangotv.in/PUBLICTV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="RepublicKannada.in@SD" group-title="ALL INDIA FREE",Republic Kannada (576p)
+https://streams.tangotv.in/REPUBLICKANNADA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Kannada.in@SD" group-title="ALL INDIA FREE",TV9 Kannada (576p)
+https://streams.tangotv.in/TV9KANNADA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV5Kannada.in@SD" group-title="ALL INDIA FREE",TV5 Kannada (576p)
+https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
+#EXTINF:-1 tvg-id="GuaranteeNews.in@SD" group-title="ALL INDIA FREE",Guarantee News (576p)
+https://mumt03.tangotv.in/Dsly5z3HGAURANTEENEWS/index.m3u8
+#EXTINF:-1 tvg-id="PowerTV.in@SD" group-title="ALL INDIA FREE",Power TV (576p)
+https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8
+#EXTINF:-1 tvg-id="RajNewsKannada.in@SD" group-title="ALL INDIA FREE",Raj News Kannada (576p)
+https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8
+#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="ALL INDIA FREE",Khushboo Bangla (576p)
+https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" group-title="ALL INDIA FREE",Enterr 10 Bangla (576p)
+https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla.in@SD" group-title="ALL INDIA FREE",Sangeet Bangla (576p)
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="DhoomMusic.in@SD" group-title="ALL INDIA FREE",Dhoom Music (576p)
+https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="RongeenTV.in@SD" group-title="ALL INDIA FREE",Rongeen TV (576p)
+https://mumt05.tangotv.in/87NeALx2RONGEENTV/index.m3u8
+#EXTINF:-1 tvg-id="RepublicBangla.in@SD" group-title="ALL INDIA FREE",Republic Bangla (576p)
+https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Bangla.in@SD" group-title="ALL INDIA FREE",TV9 Bangla (576p)
+https://streams.tangotv.in/TV9BANGLA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="KalingaTV.in@SD" group-title="ALL INDIA FREE",Kalinga TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
+#EXTINF:-1 tvg-id="NandighoshaTV.in@SD" group-title="ALL INDIA FREE",Nandighosha TV (576p)
+https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
+#EXTINF:-1 tvg-id="ArgusNews.in@SD" group-title="ALL INDIA FREE",Argus News (576p)
+https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
+#EXTINF:-1 tvg-id="PrameyaNews7.in@SD" group-title="ALL INDIA FREE",Prameya News7 (576p)
+https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
+#EXTINF:-1 tvg-id="OdishaTV.in@SD" group-title="ALL INDIA FREE",Odisha TV (576p)
+https://streams.tangotv.in/OTVLIVE24X7/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Rengoni.in@SD" group-title="ALL INDIA FREE",Rengoni (576p)
+https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Spondon.in@SD" group-title="ALL INDIA FREE",Spondon (576p)
+https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8
+#EXTINF:-1 tvg-id="Rang.in@SD" group-title="ALL INDIA FREE",Rang (576p)
+https://streams.tangotv.in/RANG/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Ramdhenu.in@SD" group-title="ALL INDIA FREE",Ramdhenu (576p)
+https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8
+#EXTINF:-1 tvg-id="NewsLive.in@SD" group-title="ALL INDIA FREE",News Live (576p)
+https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
+#EXTINF:-1 tvg-id="AssamTalks.in@SD" group-title="ALL INDIA FREE",Assam Talks (576p)
+https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
+#EXTINF:-1 tvg-id="PratidinTime.in@SD" group-title="ALL INDIA FREE",Pratidin Time (576p)
+https://streams.tangotv.in/PROTIDINTIME/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PragNews.in@SD" group-title="ALL INDIA FREE",Prag News (576p)
+https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="NortheastLive.in@HD" group-title="ALL INDIA FREE",Northeast Live (576p)
+https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8
+#EXTINF:-1 tvg-id="HornbillTV.in@SD" group-title="ALL INDIA FREE",Hornbill TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
+#EXTINF:-1 tvg-id="NagalandTV.in@SD" group-title="ALL INDIA FREE",Nagaland TV (576p)
+https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
+#EXTINF:-1 tvg-id="TehzeebTV.in@SD" group-title="ALL INDIA FREE",Tehzeeb TV (576p)
+https://mumt05.tangotv.in/87NeALx2TEHZEEBTV/index.m3u8
+#EXTINF:-1 tvg-id="SalaamTV.in@SD" group-title="ALL INDIA FREE",Salaam TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlZEESALAM/index.m3u8
+#EXTINF:-1 tvg-id="ChannelWIN.in@SD" group-title="ALL INDIA FREE",Channel WIN (576p)
+https://mumt05.tangotv.in/87NeALx2CHANNELWIN/index.m3u8
+#EXTINF:-1 tvg-id="Nepal1.in@SD" group-title="ALL INDIA FREE",Nepal 1 (576p)
+https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in@SD" group-title="ALL INDIA FREE",&pictures (720p)
+https://tvsen3.aynaott.com/jzT482XQ/index.m3u8
+#EXTINF:-1 tvg-id="9XM.in@SD" group-title="ALL INDIA FREE",9XM (576p)
+https://tvsen3.aynaott.com/qCrLpS9v/index.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in@SD" group-title="ALL INDIA FREE",9X Jalwa (576p)
+https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD" group-title="ALL INDIA FREE",9X Jhakaas (576p)
+https://tvsen3.aynaott.com/zmcc2Yy4/index.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in@SD" group-title="ALL INDIA FREE",9X Tashan (576p)
+https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="ALL INDIA FREE",B4U Kadak (576p)
+https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India" group-title="ALL INDIA FREE",B4U Music (576p)
+https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8
+#EXTINF:-1 tvg-id="BharatSamachar.in@SD" group-title="ALL INDIA FREE",Bharat Samachar (576p)
+https://tvsen3.aynaott.com/m94BZDYb/index.m3u8
+#EXTINF:-1 tvg-id="DangalTV.in@SD" group-title="ALL INDIA FREE",Dangal TV (576p)
+https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8
+#EXTINF:-1 tvg-id="Dangal2.in@SD" group-title="ALL INDIA FREE",Dangal 2 (576p)
+https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="ALL INDIA FREE",Goldmines (576p)
+https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="ALL INDIA FREE",Goldmines Movies (576p)
+https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" group-title="ALL INDIA FREE",Goldmines Bollywood (576p)
+https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanTV.in@SD" group-title="ALL INDIA FREE",Manoranjan TV (576p)
+https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8
+#EXTINF:-1 tvg-id="Network10.in@SD" group-title="ALL INDIA FREE",Network 10 (576p)
+https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8
+#EXTINF:-1 tvg-id="News1India.in@SD" group-title="ALL INDIA FREE",News 1 India (576p)
+https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
+#EXTINF:-1 tvg-id="RupasiBangla.in@SD" group-title="ALL INDIA FREE",Rupasi Bangla (576p)
+https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD" group-title="ALL INDIA FREE",Shemaroo TV (576p)
+https://tvsen3.aynaott.com/27jCLCUX/index.m3u8
+#EXTINF:-1 tvg-id="TaazaTV.in@SD" group-title="ALL INDIA FREE",Taaza TV (576p)
+https://tvsen3.aynaott.com/yRMLky2j/index.m3u8
+#EXTINF:-1 tvg-id="Zee24Ghanta.in@SD" group-title="ALL INDIA FREE",Zee 24 Ghanta (576p)
+https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
@@ -3298,186 +3674,186 @@ https://mactom3u.vodep39240327.workers.dev/477936.m3u8?host=tv.saartv.cc&path=%2
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Uncategorized",tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Spider-Man: Brand New Day
-https://fmftp.net/api/stream/video/stream?type=movies&id=21074
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM1OWU5N2QtMTQwYy00N2Q5LTg5NjUtYWZhOTgwZjkxOWFlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Vadh 2
-https://fmftp.net/api/stream/video/stream?type=movies&id=20769
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE1OTg5ZDMtYjllZC00YzE2LTg1N2UtZmI0OTBmMWE3NzFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Hai Jawani Toh Ishq Hona Hai
-https://fmftp.net/api/stream/video/stream?type=movies&id=20935
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc4MTA5NjY5OF5BMl5BanBnXkFtZTgwNDUzMzI2NTE@._V1_.jpg" group-title="Hindi Movies",Badmaash Company
-https://fmftp.net/api/stream/video/stream?type=movies&id=15806
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Supergirl
-https://fmftp.net/api/stream/video/stream?type=movies&id=21090
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA4MTQxZjUtMDI2NC00ZWE1LWFiMzAtYTIwYTA5ZTYyMjgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Hotspot 2 Much
-https://fmftp.net/api/stream/video/stream?type=movies&id=20637
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVmYjc4M2YtYjUwYi00NmIyLTk0NWUtNDMxMzlmMzdlYmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",1920 Horrors of the Heart
-https://fmftp.net/api/stream/video/stream?type=movies&id=17427
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE0ZTA5MTgtNTE4NC00NThmLWFiM2EtZTI2MTc2Y2FmZjkwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Pati Patni Aur Woh Do
-https://fmftp.net/api/stream/video/stream?type=movies&id=20885
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1ZTQ3YjctMGZjMi00MjAzLWE1NTQtOWVhNDBjZjQ3YzIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Everybody Loves Sohrab Handa
-https://fmftp.net/api/stream/video/stream?type=movies&id=20791
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZkNmI4MWUtMDAzNS00OTAzLWJmNDYtMDBkMGQyZWRiMzVjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ek Din
-https://fmftp.net/api/stream/video/stream?type=movies&id=20855
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJkNDFjMDctOGVhYS00ZGE1LWIzY2YtMzBiNjQwMjVhNmQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Assi
-https://fmftp.net/api/stream/video/stream?type=movies&id=20812
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGEyMzAxZTEtNTMzZi00NTU5LTg2OTktNzM2YTYxMzdkODE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",System
-https://fmftp.net/api/stream/video/stream?type=movies&id=20901
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNiNzcxMDQtY2RlOS00MjAxLWIyN2MtNTYyMmIyMDM0ZDJhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Lucky
-https://fmftp.net/api/stream/video/stream?type=movies&id=20639
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJlYjZkMDUtM2MzMi00NmVhLWJhYWYtYzI4NTA4ZGIxZjM3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Rahu Ketu
-https://fmftp.net/api/stream/video/stream?type=movies&id=20564
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODA0ZWI5YTktZmE3Ny00NTUyLWEwZGMtNjEyMWZhZDhmNGRlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",The Kerala Story 2 Goes Beyond
-https://fmftp.net/api/stream/video/stream?type=movies&id=20673
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Ikkis_Poster.jpg" group-title="Hindi Movies",Ikkis
-https://fmftp.net/api/stream/video/stream?type=movies&id=20505
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y3NjRhYmMtNWVjMy00ZmE1LWJkNGYtNDY3Y2I3NjkzOGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Bhooth Bangla
-https://fmftp.net/api/stream/video/stream?type=movies&id=20813
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFr3ysBEwmNVIrABKyFOTUsLPTYll79z_rph6tHz8Tvx9qrts8Z9S-fE&s=10" group-title="Hindi Movies",Cocktail 2
-https://fmftp.net/api/stream/video/stream?type=movies&id=20977
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dhurandhar The Revenge
-https://fmftp.net/api/stream/video/stream?type=movies&id=20702
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVjYWQzZTQtNTI2MC00NzlmLTg3MjUtNGZlYzViNjcyODU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Subedaar
-https://fmftp.net/api/stream/video/stream?type=movies&id=20672
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWUyZTBjYTctMGQyNS00Mjg0LTg5ZTMtZDA1YmEyZDIxZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Happy Patel Khatarnak Jasoos
-https://fmftp.net/api/stream/video/stream?type=movies&id=20563
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg2MzhlN2YtYzU5ZC00OTZlLTgwNzctMjJmMzQ1ODQ1NDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Kartavya
-https://fmftp.net/api/stream/video/stream?type=movies&id=20884
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEyMDRmYTMtZjNhYy00Mjc0LTg4NDItYWE5NzE1ZDE3NjM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Daadi Ki Shaadi
-https://fmftp.net/api/stream/video/stream?type=movies&id=20898
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNiZmRlMzctNTRmYi00OTk1LWFhZGMtMTE2NjM3NDNlZGNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Nukkad Naatak
-https://fmftp.net/api/stream/video/stream?type=movies&id=20830
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM5M2I0YWEtMjNlOS00ZmIwLThiYjYtODA5ODAzYTc3ZDU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Indian Institute of Zombies
-https://fmftp.net/api/stream/video/stream?type=movies&id=20900
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc4ZmY1ZGEtZmRmYi00OTQzLTliY2MtMzhkNGFjYjM4ZTdhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mcoca
-https://fmftp.net/api/stream/video/stream?type=movies&id=20576
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUzMGZjMjYtYjRmMy00NWNkLWExMmUtZTc4MDU4NDZmNzcwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Alpha
+https://fmftp.net/api/stream/video/stream?type=movies&id=21004
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU5NzQwMTktZTVhOC00MjllLThjZDEtMGNkYjgwNWFhMmVmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bhabiji Ghar Par Hain - Fun on the Run
+https://fmftp.net/api/stream/video/stream?type=movies&id=20605
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Toaster_film_poster.jpg/250px-Toaster_film_poster.jpg" group-title="Hindi Movies",Toaster
+https://fmftp.net/api/stream/video/stream?type=movies&id=20795
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEwNTU4MzEtY2Y4Ni00ZWRmLThhMGMtMDE5MTZmMDIzMGVjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Raja Shivaji
 https://fmftp.net/api/stream/video/stream?type=movies&id=20867
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y3NjRhYmMtNWVjMy00ZmE1LWJkNGYtNDY3Y2I3NjkzOGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Bhooth Bangla
+https://fmftp.net/api/stream/video/stream?type=movies&id=20813
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhkY2ViNTYtYjc3MC00OWU3LWFhYWMtMjU5ZDhjZTNkYTc3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dhamaal 4
+https://fmftp.net/api/stream/video/stream?type=movies&id=21026
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA4MTQxZjUtMDI2NC00ZWE1LWFiMzAtYTIwYTA5ZTYyMjgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Hotspot 2 Much
+https://fmftp.net/api/stream/video/stream?type=movies&id=20637
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEyMDRmYTMtZjNhYy00Mjc0LTg4NDItYWE5NzE1ZDE3NjM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Daadi Ki Shaadi
+https://fmftp.net/api/stream/video/stream?type=movies&id=20898
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVmYjc4M2YtYjUwYi00NmIyLTk0NWUtNDMxMzlmMzdlYmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",1920 Horrors of the Heart
+https://fmftp.net/api/stream/video/stream?type=movies&id=17427
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM1OWU5N2QtMTQwYy00N2Q5LTg5NjUtYWZhOTgwZjkxOWFlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Vadh 2
+https://fmftp.net/api/stream/video/stream?type=movies&id=20769
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Ikka_film_poster.jpg/250px-Ikka_film_poster.jpg" group-title="Hindi Movies",Ikka
+https://fmftp.net/api/stream/video/stream?type=movies&id=21028
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5ODUxNDctZGJjNC00OTk0LWIzMzAtMWQ5NTAyMGZhY2NmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Welcome to the Jungle
 https://fmftp.net/api/stream/video/stream?type=movies&id=20993
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2VlMTM0OTEtYmU1My00ODBhLTk2MzItMDlkMDRiZjcwYWQ1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Aakhri Sawal
-https://fmftp.net/api/stream/video/stream?type=movies&id=20899
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFjODQwNWYtMzMyOC00MzhhLWE1OTgtYmZjMzNjYjBhOTllXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Accused
-https://fmftp.net/api/stream/video/stream?type=movies&id=20654
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Spider-Man: Brand New Day
+https://fmftp.net/api/stream/video/stream?type=movies&id=21074
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE1OTg5ZDMtYjllZC00YzE2LTg1N2UtZmI0OTBmMWE3NzFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Hai Jawani Toh Ishq Hona Hai
+https://fmftp.net/api/stream/video/stream?type=movies&id=20935
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFr3ysBEwmNVIrABKyFOTUsLPTYll79z_rph6tHz8Tvx9qrts8Z9S-fE&s=10" group-title="Hindi Movies",Cocktail 2
+https://fmftp.net/api/stream/video/stream?type=movies&id=20977
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFGZcW1fZ9wmGZeEkAUnpI1iIR9EgduJYUA&s" group-title="Hindi Movies",Ginny Wedss Sunny 2
 https://fmftp.net/api/stream/video/stream?type=movies&id=20850
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZjYjhmOTUtNDg2MS00YjcwLTg4NzMtMWY1OTA4NWU0MDVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Toh, Ti ani Fuji
 https://fmftp.net/api/stream/video/stream?type=movies&id=20811
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Ikka_film_poster.jpg/250px-Ikka_film_poster.jpg" group-title="Hindi Movies",Ikka
-https://fmftp.net/api/stream/video/stream?type=movies&id=21028
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIwMzcwNzEtYzU4ZS00ZjhjLWFlYTAtMzc4Y2RjMDFjNDNlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Chand Mera Dil
-https://fmftp.net/api/stream/video/stream?type=movies&id=20914
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQzZTgyODItYzg5My00YzhhLWFlYzctYTljM2E5NWI5NDcyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",O' Romeo
-https://fmftp.net/api/stream/video/stream?type=movies&id=20640
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Toaster_film_poster.jpg/250px-Toaster_film_poster.jpg" group-title="Hindi Movies",Toaster
-https://fmftp.net/api/stream/video/stream?type=movies&id=20795
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUzMGZjMjYtYjRmMy00NWNkLWExMmUtZTc4MDU4NDZmNzcwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Alpha
-https://fmftp.net/api/stream/video/stream?type=movies&id=21004
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/DDSM_Poster.jpg" group-title="Hindi Movies",Do Deewane Seher Mein
-https://fmftp.net/api/stream/video/stream?type=movies&id=20655
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU5NzQwMTktZTVhOC00MjllLThjZDEtMGNkYjgwNWFhMmVmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bhabiji Ghar Par Hain - Fun on the Run
-https://fmftp.net/api/stream/video/stream?type=movies&id=20605
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZjMzgxMjctZDMzYi00MmMxLThiZmMtZjk3ZDAxZjcwZDE3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mardaani 3
-https://fmftp.net/api/stream/video/stream?type=movies&id=20577
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ5MzQ5ZDAtOTlkMi00YmIwLWI3MzctZGM5OGQ5OWU2MjJiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Border 2
-https://fmftp.net/api/stream/video/stream?type=movies&id=20565
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI0NmU5MTItY2RjNC00MzRiLThkMzEtNGFhMTAxZDU1MDdiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Tu Yaa Main
-https://fmftp.net/api/stream/video/stream?type=movies&id=20641
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFjODQwNWYtMzMyOC00MzhhLWE1OTgtYmZjMzNjYjBhOTllXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Accused
+https://fmftp.net/api/stream/video/stream?type=movies&id=20654
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJlYjZkMDUtM2MzMi00NmVhLWJhYWYtYzI4NTA4ZGIxZjM3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Rahu Ketu
+https://fmftp.net/api/stream/video/stream?type=movies&id=20564
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGEyMzAxZTEtNTMzZi00NTU5LTg2OTktNzM2YTYxMzdkODE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",System
+https://fmftp.net/api/stream/video/stream?type=movies&id=20901
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM5M2I0YWEtMjNlOS00ZmIwLThiYjYtODA5ODAzYTc3ZDU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Indian Institute of Zombies
+https://fmftp.net/api/stream/video/stream?type=movies&id=20900
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVjYWQzZTQtNTI2MC00NzlmLTg3MjUtNGZlYzViNjcyODU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Subedaar
+https://fmftp.net/api/stream/video/stream?type=movies&id=20672
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Supergirl
+https://fmftp.net/api/stream/video/stream?type=movies&id=21090
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2VlMTM0OTEtYmU1My00ODBhLTk2MzItMDlkMDRiZjcwYWQ1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Aakhri Sawal
+https://fmftp.net/api/stream/video/stream?type=movies&id=20899
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg2MzhlN2YtYzU5ZC00OTZlLTgwNzctMjJmMzQ1ODQ1NDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Kartavya
+https://fmftp.net/api/stream/video/stream?type=movies&id=20884
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODA0ZWI5YTktZmE3Ny00NTUyLWEwZGMtNjEyMWZhZDhmNGRlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",The Kerala Story 2 Goes Beyond
+https://fmftp.net/api/stream/video/stream?type=movies&id=20673
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc4MTA5NjY5OF5BMl5BanBnXkFtZTgwNDUzMzI2NTE@._V1_.jpg" group-title="Hindi Movies",Badmaash Company
+https://fmftp.net/api/stream/video/stream?type=movies&id=15806
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVmYmJhOTMtMzlhOS00ZDgwLWE3OGUtMGJmZTI3MjRiZmJhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",The Raja Saab
 https://fmftp.net/api/stream/video/stream?type=movies&id=20608
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhkY2ViNTYtYjc3MC00OWU3LWFhYWMtMjU5ZDhjZTNkYTc3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dhamaal 4
-https://fmftp.net/api/stream/video/stream?type=movies&id=21026
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE2YjkzOTgtYmJhYi00NGE2LTg2ZWQtMTgyMTFiMjBjODFkXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Jana Nayagan
-https://fmftp.net/api/stream/video/stream?type=movies&id=20854
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQwM2QwMDEtMDk5MC00NmNlLThjMGMtY2IwZDhmZTU1MzFmXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Ugly Story
-https://fmftp.net/api/stream/video/stream?type=movies&id=20933
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT2rcj4xr5EEEI8G6K1d62SovnzZ-IIO_0FTGklGGEBw&s" group-title="Southindian Hindi Dubbed",Drishyam 3
-https://fmftp.net/api/stream/video/stream?type=movies&id=21016
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZjMzgxMjctZDMzYi00MmMxLThiZmMtZjk3ZDAxZjcwZDE3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mardaani 3
+https://fmftp.net/api/stream/video/stream?type=movies&id=20577
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE0ZTA5MTgtNTE4NC00NThmLWFiM2EtZTI2MTc2Y2FmZjkwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Pati Patni Aur Woh Do
+https://fmftp.net/api/stream/video/stream?type=movies&id=20885
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNiNzcxMDQtY2RlOS00MjAxLWIyN2MtNTYyMmIyMDM0ZDJhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Lucky
+https://fmftp.net/api/stream/video/stream?type=movies&id=20639
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNiZmRlMzctNTRmYi00OTk1LWFhZGMtMTE2NjM3NDNlZGNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Nukkad Naatak
+https://fmftp.net/api/stream/video/stream?type=movies&id=20830
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJkNDFjMDctOGVhYS00ZGE1LWIzY2YtMzBiNjQwMjVhNmQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Assi
+https://fmftp.net/api/stream/video/stream?type=movies&id=20812
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI0NmU5MTItY2RjNC00MzRiLThkMzEtNGFhMTAxZDU1MDdiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Tu Yaa Main
+https://fmftp.net/api/stream/video/stream?type=movies&id=20641
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc4ZmY1ZGEtZmRmYi00OTQzLTliY2MtMzhkNGFjYjM4ZTdhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mcoca
+https://fmftp.net/api/stream/video/stream?type=movies&id=20576
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1ZTQ3YjctMGZjMi00MjAzLWE1NTQtOWVhNDBjZjQ3YzIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Everybody Loves Sohrab Handa
+https://fmftp.net/api/stream/video/stream?type=movies&id=20791
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIwMzcwNzEtYzU4ZS00ZjhjLWFlYTAtMzc4Y2RjMDFjNDNlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Chand Mera Dil
+https://fmftp.net/api/stream/video/stream?type=movies&id=20914
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZkNmI4MWUtMDAzNS00OTAzLWJmNDYtMDBkMGQyZWRiMzVjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ek Din
+https://fmftp.net/api/stream/video/stream?type=movies&id=20855
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQzZTgyODItYzg5My00YzhhLWFlYzctYTljM2E5NWI5NDcyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",O' Romeo
+https://fmftp.net/api/stream/video/stream?type=movies&id=20640
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ5MzQ5ZDAtOTlkMi00YmIwLWI3MzctZGM5OGQ5OWU2MjJiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Border 2
+https://fmftp.net/api/stream/video/stream?type=movies&id=20565
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dhurandhar The Revenge
+https://fmftp.net/api/stream/video/stream?type=movies&id=20702
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Ikkis_Poster.jpg" group-title="Hindi Movies",Ikkis
+https://fmftp.net/api/stream/video/stream?type=movies&id=20505
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWUyZTBjYTctMGQyNS00Mjg0LTg5ZTMtZDA1YmEyZDIxZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Happy Patel Khatarnak Jasoos
+https://fmftp.net/api/stream/video/stream?type=movies&id=20563
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/DDSM_Poster.jpg" group-title="Hindi Movies",Do Deewane Seher Mein
+https://fmftp.net/api/stream/video/stream?type=movies&id=20655
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDViOGJmYjYtZjI5Yi00YTE1LTljMDgtZjQ4OTMyZjZjMDZhXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Gatta Kusthi 2
 https://fmftp.net/api/stream/video/stream?type=movies&id=21084
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT2rcj4xr5EEEI8G6K1d62SovnzZ-IIO_0FTGklGGEBw&s" group-title="Southindian Hindi Dubbed",Drishyam 3
+https://fmftp.net/api/stream/video/stream?type=movies&id=21016
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQwM2QwMDEtMDk5MC00NmNlLThjMGMtY2IwZDhmZTU1MzFmXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Ugly Story
+https://fmftp.net/api/stream/video/stream?type=movies&id=20933
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE2YjkzOTgtYmJhYi00NGE2LTg2ZWQtMTgyMTFiMjBjODFkXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Jana Nayagan
+https://fmftp.net/api/stream/video/stream?type=movies&id=20854
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWE5NzE3NDEtNjAzNC00OTQ2LWJjZWYtNmQ1MjIxODk5ZTk5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Nagabandham - The Secret Treasure
+https://fmftp.net/api/stream/video/stream?type=movies&id=21086
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y5NjY0NzktZjc2MS00YWMyLThlNDAtYWY3YWZlNGM5YjA2XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Blast
 https://fmftp.net/api/stream/video/stream?type=movies&id=20984
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY4NWY2MWQtMGFkMi00MDViLWEwZDgtNGMyZjA3MmYzMWU5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Karuppu
 https://fmftp.net/api/stream/video/stream?type=movies&id=20948
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWE5NzE3NDEtNjAzNC00OTQ2LWJjZWYtNmQ1MjIxODk5ZTk5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Nagabandham - The Secret Treasure
-https://fmftp.net/api/stream/video/stream?type=movies&id=21086
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZiM2VjZTUtZTI5My00MjhmLWJjMGEtMzU1MmRhYTY2NjdlXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Peddi
 https://fmftp.net/api/stream/video/stream?type=movies&id=20931
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBiYWQyMWQtYTQwMC00NmZiLWFkOWYtNmNlNjM4NDlkNjQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Sathi Leelavathi
-https://fmftp.net/api/stream/video/stream?type=movies&id=20918
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk2NjNmYjUtMGEzNS00ZDFiLWE5NmItMDAzZDAyNDYwYTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",TN 2026
+https://fmftp.net/api/stream/video/stream?type=movies&id=20919
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YzhlYTUtMGJmMS00MjlmLWExMjYtOWEzOTBmMTViMWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Dacoit
+https://fmftp.net/api/stream/video/stream?type=movies&id=20794
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUzOGQyNTEtZDlhOC00OTRlLThiNzMtMWI5NDliYWVhMTllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Kara
 https://fmftp.net/api/stream/video/stream?type=movies&id=20915
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5FJuZJLGDzsBPlFyMwDOgLeCva0vmlRMT5g&s" group-title="Southindian Hindi Dubbed",Madhuvidhu
 https://fmftp.net/api/stream/video/stream?type=movies&id=20904
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGViNGU3MWUtNDY0Zi00ZTJiLTg0MDUtZGNkN2ZkNjYwOWJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Love Insurance Kompany
-https://fmftp.net/api/stream/video/stream?type=movies&id=20868
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk2NjNmYjUtMGEzNS00ZDFiLWE5NmItMDAzZDAyNDYwYTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",TN 2026
-https://fmftp.net/api/stream/video/stream?type=movies&id=20919
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBiYWQyMWQtYTQwMC00NmZiLWFkOWYtNmNlNjM4NDlkNjQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Sathi Leelavathi
+https://fmftp.net/api/stream/video/stream?type=movies&id=20918
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZkN2FlMTQtZTI1MC00OGE4LTgxNDktOTdjNTlhYzVkN2MwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Mohiniyattam
 https://fmftp.net/api/stream/video/stream?type=movies&id=20869
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YzhlYTUtMGJmMS00MjlmLWExMjYtOWEzOTBmMTViMWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Dacoit
-https://fmftp.net/api/stream/video/stream?type=movies&id=20794
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Bonolota Express
-https://fmftp.net/api/stream/video/stream?type=movies&id=20909
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjExOGFmYTYtMzE3NS00ODY2LTg4N2YtN2YxOTE0NzYzZWIwXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Ghumpori
-https://fmftp.net/api/stream/video/stream?type=movies&id=18621
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGViNGU3MWUtNDY0Zi00ZTJiLTg0MDUtZGNkN2ZkNjYwOWJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Love Insurance Kompany
+https://fmftp.net/api/stream/video/stream?type=movies&id=20868
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY5MTJmNDEtMjM5Zi00NmEwLWI5YjgtMzc2MmRhYTYyMDRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Domm
+https://fmftp.net/api/stream/video/stream?type=movies&id=20887
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkY9Nys3OtNsrz72yXkP_DYdyydd6ZVhgOH4sIhoYcrsC9Twx4062w5g&s=10" group-title="Bangla Movies",Rockstar
 https://fmftp.net/api/stream/video/stream?type=movies&id=21055
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliMTg2MWMtZmM2NS00MWFmLTg1NjMtYTdmZmM4ZjEyZGZkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="Bangla Movies",2,190,281_.jpg" group-title="Bangla Movies",Rakkhosh
 https://fmftp.net/api/stream/video/stream?type=movies&id=20888
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2MGQyYmYtNWY4My00Yjc2LTgwZmItMzRkYjQ3ZDVmNmIwXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Prince Once Upon a Time in Dhaka
+https://fmftp.net/api/stream/video/stream?type=movies&id=20886
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjExOGFmYTYtMzE3NS00ODY2LTg4N2YtN2YxOTE0NzYzZWIwXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Ghumpori
+https://fmftp.net/api/stream/video/stream?type=movies&id=18621
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNiZjM4NzctMWFmOC00MGI4LWJjMDctZjIwNDY5ZjIwNmQ2XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Djinner Bachcha
+https://fmftp.net/api/stream/video/stream?type=movies&id=20656
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgzM2IyZGQtOWEyNC00MmQyLTg5ZTAtMzlhZjlhMGJlNzZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Utshob
+https://fmftp.net/api/stream/video/stream?type=movies&id=20022
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTAwODc4NDYtOGI3MS00Nzc1LTk2MzctZTE3MzM2OThkMTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Dimlight
+https://fmftp.net/api/stream/video/stream?type=movies&id=20460
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHGinJgclavls6-dqn0jISlax3MJ2BeNAFQ&s" group-title="Bangla Movies",Shortcut
+https://fmftp.net/api/stream/video/stream?type=movies&id=20355
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhMjAyMmItZTAwNS00ZmI1LThlZmMtYWE0ZmE0N2FiMmExXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Last Defenders of Monogamy
+https://fmftp.net/api/stream/video/stream?type=movies&id=18639
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Jazz_City_2026_poster.jpg" group-title="Bangla Movies",Jazz City
+https://fmftp.net/api/stream/video/stream?type=movies&id=20706
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk4NmJkZjgtMDAwNS00N2EwLTllZDktNTkzZDA2MTZkYTRkXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Cactus
+https://fmftp.net/api/stream/video/stream?type=movies&id=20703
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzczZThkYmItMjk4YS00NDU3LWIwNzItMzkzYWIwODE0ZTQ3XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Ekshathe Alada
+https://fmftp.net/api/stream/video/stream?type=movies&id=20704
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDc5YjcxYmEtOWYzMy00YjE2LThiMTEtZmYyYzI2NGFjMzk1XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Antaratma
+https://fmftp.net/api/stream/video/stream?type=movies&id=20459
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Noor_2025_film.jpg/250px-Noor_2025_film.jpg" group-title="Bangla Movies",Noor
+https://fmftp.net/api/stream/video/stream?type=movies&id=20461
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZhYjMwMmEtM2NmOS00OWQxLWI5ZTUtYjJiNGJkNjY1MDA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Neel Chokro
+https://fmftp.net/api/stream/video/stream?type=movies&id=20354
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Hubba_film_poster.jpg" group-title="Bangla Movies",Hubba
+https://fmftp.net/api/stream/video/stream?type=movies&id=18648
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eB8lmSUI6pCh_dsexHng6Ha6qNxQce-TgQ&s" group-title="Bangla Movies",Taarkata
+https://fmftp.net/api/stream/video/stream?type=movies&id=20938
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Chokkor_302_official_logo.jpg" group-title="Bangla Movies",Chokkor 302
+https://fmftp.net/api/stream/video/stream?type=movies&id=18623
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkDrZ0O6BCvMBRI8nDs8bDrpL-gpn5XDPxw&s" group-title="Bangla Movies",Jackpot
+https://fmftp.net/api/stream/video/stream?type=movies&id=20708
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViZjY5MWItYWVhMy00ODdmLTg3ZjUtNjE2Y2IyODM0YzQ0XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Tomar Jonno Mon
+https://fmftp.net/api/stream/video/stream?type=movies&id=20358
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRlNWFmNmItZjFkMy00OGRkLWEyMzUtNDZlMDIxMjRlN2M2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Daagi
+https://fmftp.net/api/stream/video/stream?type=movies&id=18619
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1Y2Q3MzMtMzFiZi00OGEwLTg5OGMtZThmZmYyNjlkODEyXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Insaaf: Tale of Legends
+https://fmftp.net/api/stream/video/stream?type=movies&id=20098
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWViYzgzNzQtMTA0YS00NmRhLWFhZDEtNzEzMjM5OTA4NzRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Borbaad
+https://fmftp.net/api/stream/video/stream?type=movies&id=18616
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Bonolota Express
+https://fmftp.net/api/stream/video/stream?type=movies&id=20909
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmMwZTk1MDctMjM1My00YTA5LTg0YmYtZWE5Y2Q4N2JhZGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Taandob
+https://fmftp.net/api/stream/video/stream?type=movies&id=20021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGI2NjI2MzAtNTkwYi00NWRlLWIwN2ItYTYyYTc3YjE0NjdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Jongli
+https://fmftp.net/api/stream/video/stream?type=movies&id=18624
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ3ZDM2ZjEtMjFjMy00NDljLWI2ZDktNDFkODYwMzFkOGNhXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Cha Gorom
 https://fmftp.net/api/stream/video/stream?type=movies&id=20809
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVhYmNhNTgtN2UwMi00NjYwLWE5ZDYtNjhiZGZmOGQ2MGQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Surongo
 https://fmftp.net/api/stream/video/stream?type=movies&id=18651
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRlNWFmNmItZjFkMy00OGRkLWEyMzUtNDZlMDIxMjRlN2M2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Daagi
-https://fmftp.net/api/stream/video/stream?type=movies&id=18619
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViZjY5MWItYWVhMy00ODdmLTg3ZjUtNjE2Y2IyODM0YzQ0XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Tomar Jonno Mon
-https://fmftp.net/api/stream/video/stream?type=movies&id=20358
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk4NmJkZjgtMDAwNS00N2EwLTllZDktNTkzZDA2MTZkYTRkXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Cactus
-https://fmftp.net/api/stream/video/stream?type=movies&id=20703
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY5MTJmNDEtMjM5Zi00NmEwLWI5YjgtMzc2MmRhYTYyMDRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Domm
-https://fmftp.net/api/stream/video/stream?type=movies&id=20887
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGI2NjI2MzAtNTkwYi00NWRlLWIwN2ItYTYyYTc3YjE0NjdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Jongli
-https://fmftp.net/api/stream/video/stream?type=movies&id=18624
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHGinJgclavls6-dqn0jISlax3MJ2BeNAFQ&s" group-title="Bangla Movies",Shortcut
-https://fmftp.net/api/stream/video/stream?type=movies&id=20355
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmMwZTk1MDctMjM1My00YTA5LTg0YmYtZWE5Y2Q4N2JhZGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Taandob
-https://fmftp.net/api/stream/video/stream?type=movies&id=20021
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eB8lmSUI6pCh_dsexHng6Ha6qNxQce-TgQ&s" group-title="Bangla Movies",Taarkata
-https://fmftp.net/api/stream/video/stream?type=movies&id=20938
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2MGQyYmYtNWY4My00Yjc2LTgwZmItMzRkYjQ3ZDVmNmIwXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Prince Once Upon a Time in Dhaka
-https://fmftp.net/api/stream/video/stream?type=movies&id=20886
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Noor_2025_film.jpg/250px-Noor_2025_film.jpg" group-title="Bangla Movies",Noor
-https://fmftp.net/api/stream/video/stream?type=movies&id=20461
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWViYzgzNzQtMTA0YS00NmRhLWFhZDEtNzEzMjM5OTA4NzRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Borbaad
-https://fmftp.net/api/stream/video/stream?type=movies&id=18616
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDc5YjcxYmEtOWYzMy00YjE2LThiMTEtZmYyYzI2NGFjMzk1XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Antaratma
-https://fmftp.net/api/stream/video/stream?type=movies&id=20459
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzczZThkYmItMjk4YS00NDU3LWIwNzItMzkzYWIwODE0ZTQ3XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Ekshathe Alada
-https://fmftp.net/api/stream/video/stream?type=movies&id=20704
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Chokkor_302_official_logo.jpg" group-title="Bangla Movies",Chokkor 302
-https://fmftp.net/api/stream/video/stream?type=movies&id=18623
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgzM2IyZGQtOWEyNC00MmQyLTg5ZTAtMzlhZjlhMGJlNzZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Utshob
-https://fmftp.net/api/stream/video/stream?type=movies&id=20022
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZhYjMwMmEtM2NmOS00OWQxLWI5ZTUtYjJiNGJkNjY1MDA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Neel Chokro
-https://fmftp.net/api/stream/video/stream?type=movies&id=20354
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdlMDUyZGItYTBkYS00OWJjLTkyMjYtZGE0ZDVjYmQ1ZWJjXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Toofan
-https://fmftp.net/api/stream/video/stream?type=movies&id=18641
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1Y2Q3MzMtMzFiZi00OGEwLTg5OGMtZThmZmYyNjlkODEyXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Insaaf: Tale of Legends
-https://fmftp.net/api/stream/video/stream?type=movies&id=20098
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFkN2IwMjctYzBmNC00NDZlLThiYjUtZDdhMDI3NWZhNTZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Aatka
 https://fmftp.net/api/stream/video/stream?type=movies&id=20529
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTAwODc4NDYtOGI3MS00Nzc1LTk2MzctZTE3MzM2OThkMTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Dimlight
-https://fmftp.net/api/stream/video/stream?type=movies&id=20460
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhMjAyMmItZTAwNS00ZmI1LThlZmMtYWE0ZmE0N2FiMmExXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Last Defenders of Monogamy
-https://fmftp.net/api/stream/video/stream?type=movies&id=18639
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNiZjM4NzctMWFmOC00MGI4LWJjMDctZjIwNDY5ZjIwNmQ2XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Djinner Bachcha
-https://fmftp.net/api/stream/video/stream?type=movies&id=20656
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkDrZ0O6BCvMBRI8nDs8bDrpL-gpn5XDPxw&s" group-title="Bangla Movies",Jackpot
-https://fmftp.net/api/stream/video/stream?type=movies&id=20708
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Hubba_film_poster.jpg" group-title="Bangla Movies",Hubba
-https://fmftp.net/api/stream/video/stream?type=movies&id=18648
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Jazz_City_2026_poster.jpg" group-title="Bangla Movies",Jazz City
-https://fmftp.net/api/stream/video/stream?type=movies&id=20706
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdlMDUyZGItYTBkYS00OWJjLTkyMjYtZGE0ZDVjYmQ1ZWJjXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Toofan
+https://fmftp.net/api/stream/video/stream?type=movies&id=18641
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ5MDI5YTEtYmJkMi00MjczLTg0NzMtN2Y5MGEyZDlmMTdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Pariah Volume 1 Every Street Dog Has a Name
 https://fmftp.net/api/stream/video/stream?type=movies&id=18649
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMwYTQ5ZTktODVjMC00ZmRmLTgzM2YtMzM5MDljM2IwODU0XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Grihapravesh
