@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-08-29 20:19:06"
+#EXTM3U billed-msg="2026-08-30 03:16:26"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2265,6 +2265,18 @@ https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="BRKNews.in@SD" group-title="ALL INDIA FREE",BRK News (720p)
 https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
+#EXTINF:-1 tvg-id="DeewanaHD.in@SD" group-title="ALL INDIA FREE",Deewana HD (540p)
+https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
+#EXTINF:-1 tvg-id="DishaTV.in@SD" group-title="ALL INDIA FREE",Disha TV (396p)
+https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPunjabiTV.in@SD" group-title="ALL INDIA FREE",World Punjabi TV (1080p)
+https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
+#EXTINF:-1 tvg-id="TV13Gujarati.in@SD" group-title="ALL INDIA FREE",TV13 Gujarati (480p)
+https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+#EXTINF:-1 tvg-id="DailyPostTV.in@SD" group-title="ALL INDIA FREE",Daily Post TV (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
+#EXTINF:-1 tvg-id="EpicBhojpuri.in@Digital" group-title="ALL INDIA FREE",Epic Bhojpuri Digital (1080p)
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
