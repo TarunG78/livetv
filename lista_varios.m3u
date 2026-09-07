@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-09-06 19:54:38"
+#EXTM3U billed-msg="2026-09-07 02:34:06"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -370,8 +370,6 @@ http://103.154.3.101:5001/live/577.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" group-title="ALL INDIA FREE",History TV18 HD Hindi (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" group-title="ALL INDIA FREE",History TV18 HD Tamil (1080p)
-http://103.72.101.252:8080/live/579.m3u8
 #EXTINF:-1 tvg-id="HornbillTV.in@SD" group-title="ALL INDIA FREE",Hornbill TV (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in@SD" group-title="ALL INDIA FREE",India Ahead (576p)
@@ -2083,7 +2081,7 @@ http://66.102.126.10:8000/play/a028/index.m3u8
 http://202.70.146.135:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="LiveIndia.in@SD" group-title="ALL INDIA FREE",Live India (576p)
 http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@HD" group-title="ALL INDIA FREE",Travelxp HD (1080p)
+#EXTINF:-1 tvg-id="Travelxp.in@Russia" group-title="ALL INDIA FREE",Travelxp Russia (1080p)
 http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 tvg-id="NewsLiveBangla.in@SD" group-title="ALL INDIA FREE",News Live Bangla (576p)
 https://cdn-6.pishow.tv/live/10003/master.m3u8
