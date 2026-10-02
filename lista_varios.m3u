@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-10-01 22:15:50"
+#EXTM3U billed-msg="2026-10-02 03:46:42"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -1760,8 +1760,6 @@ https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD" group-title="ALL INDIA FREE",Sony Sports Ten 5 (1080p)
 https://cloudplay-sonyliv.pages.dev/ten5.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen5.in@HD" group-title="ALL INDIA FREE",Sony Sports Ten 5 HD (1080p)
-https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in@SD" group-title="ALL INDIA FREE",Sony Yay! (1080p)
 https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" group-title="ALL INDIA FREE",Sony BBC Earth HD (1080p)
@@ -2858,6 +2856,58 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/aadinathtv/playlist.m3u8?hdnts=st=1
 https://yuppparoriglin.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="JinvaniChannel.in@SD" group-title="ALL INDIA FREE",Jinvani Channel (576p)
 https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8
+#EXTINF:-1 tvg-id="SantvaniChannel.in@SD" group-title="ALL INDIA FREE",Santvani Channel (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8
+#EXTINF:-1 tvg-id="MangalmayTV.in@SD" group-title="ALL INDIA FREE",Mangalmay TV (576p)
+https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="SarvDharmSangam.in@SD" group-title="ALL INDIA FREE",Sarv Dharm Sangam (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/playlist.m3u8
+#EXTINF:-1 tvg-id="SharnamTV.in@SD" group-title="ALL INDIA FREE",Sharnam TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/sharanamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AwakeningTV.in@SD" group-title="ALL INDIA FREE",Awakening TV (576p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="MNaduTV.in@SD" group-title="ALL INDIA FREE",M Nadu TV (576p)
+https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD" group-title="ALL INDIA FREE",Colors Cineplex (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+#EXTINF:-1 tvg-id="ZeeTelugu.in@HD" group-title="ALL INDIA FREE",Zee Telugu HD (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8
+#EXTINF:-1 tvg-id="JeevanTV.in@SD" group-title="ALL INDIA FREE",Jeevan TV (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
+#EXTINF:-1 tvg-id="JaihindTV.in@SD" group-title="ALL INDIA FREE",Jaihind TV (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JaihindTV.m3u8
+#EXTINF:-1 tvg-id="MadhaTV.in@SD" group-title="ALL INDIA FREE",Madha TV (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MadhaTV.m3u8
+#EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" group-title="ALL INDIA FREE",Kalaignar Seithigal (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
+#EXTINF:-1 tvg-id="MirrorNow.in@SD" group-title="ALL INDIA FREE",Mirror Now (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8
+#EXTINF:-1 tvg-id="MazhavilManorama.in@SD" group-title="ALL INDIA FREE",Mazhavil Manorama (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MazhavilManoramaInternational.m3u8
+#EXTINF:-1 tvg-id="StudioOnePlus.in@SD" group-title="ALL INDIA FREE",Studio One + (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/StudioOnePlus.m3u8
+#EXTINF:-1 tvg-id="PolimerTV.in@SD" group-title="ALL INDIA FREE",Polimer TV (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/PolimerTV.m3u8
+#EXTINF:-1 tvg-id="PolimerNews.in@SD" group-title="ALL INDIA FREE",Polimer News (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/PolimerNews.m3u8
+#EXTINF:-1 tvg-id="TNews.in@SD" group-title="ALL INDIA FREE",T News (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TNews.m3u8
+#EXTINF:-1 tvg-id="V6News.in@SD" group-title="ALL INDIA FREE",V6 News (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/V6News.m3u8
+#EXTINF:-1 tvg-id="VendharTV.in@SD" group-title="ALL INDIA FREE",Vendhar TV (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/VendharTV.m3u8
+#EXTINF:-1 tvg-id="Colors.in@SD" group-title="ALL INDIA FREE",Colors (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" group-title="ALL INDIA FREE",All Time Movies (576p)
+https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="UPNOW.in@SD" group-title="ALL INDIA FREE",UP NOW (720p)
+http://45.122.122.61:8080/UPNOW/video.m3u8
+#EXTINF:-1 tvg-id="GTCPunjabi.in@SD" group-title="ALL INDIA FREE",GTC Punjabi (576p)
+https://streams.tangotv.in/GTC/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV7Bharat.in@SD" group-title="ALL INDIA FREE",TV7 Bharat (576p)
+https://stream.ottlive.co.in/tv7bharat/index.m3u8
+#EXTINF:-1 tvg-id="NewsLeader.in@SD" group-title="ALL INDIA FREE",News Leader (576p)
+https://stream.ottlive.co.in/newsleader/index.m3u8
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
