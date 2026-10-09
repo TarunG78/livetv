@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-10-09 04:17:02"
+#EXTM3U billed-msg="2026-10-09 12:28:41"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -6208,7 +6208,7 @@ http://103.151.60.162:2122/play/a01m/index.m3u8?hls
 http://51.75.127.199:3141/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OGyeLLR.png" group-title="ALL INDIA FREE",DocuBay TV (1080p)
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EFDsCkH.png" group-title="ALL INDIA FREE",Epic Crimes (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a5kaqDc.png" group-title="ALL INDIA FREE",Epic Crimes (1080p)
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",History TV18 (576p)
 http://51.75.127.199:3141/historytv18/index.m3u8
