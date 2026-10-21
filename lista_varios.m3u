@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-10-20 21:10:07"
+#EXTM3U billed-msg="2026-10-21 03:03:10"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -2474,8 +2474,6 @@ http://103.151.60.162:2122/play/a01n/index.m3u8?hls
 http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports2.in@SD" group-title="ALL INDIA FREE",Star Sports 2 (576p)
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
-#EXTINF:-1 tvg-id="StarSports1.in@SD" group-title="ALL INDIA FREE",Star Sports 1 (576p)
-http://103.151.60.162:2122/play/a01a/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports2.in@SD" group-title="ALL INDIA FREE",Star Sports 2 (576p)
 http://103.151.60.162:2122/play/a019/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports3.in@SD" group-title="ALL INDIA FREE",Star Sports 3 (576p)
