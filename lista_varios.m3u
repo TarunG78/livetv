@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-10-24 20:06:19"
+#EXTM3U billed-msg="2026-10-25 02:55:58"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -843,8 +843,6 @@ https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD" group-title="ALL INDIA FREE",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="ALL INDIA FREE",StarPlus HD (1080i)
-http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" group-title="ALL INDIA FREE",Steelbird Music (720p) [Not 24/7]
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="StudioYuva.in@SD" group-title="ALL INDIA FREE",Studio Yuva (576p)
@@ -1668,12 +1666,8 @@ https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
 #EXTINF:-1 tvg-id="AndxplorHD.in@HD" group-title="ALL INDIA FREE",&xplor HD (1080p) [Geo-blocked]
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
-#EXTINF:-1 tvg-id="SonyMax.in@SD" group-title="ALL INDIA FREE",Sony Max (576p) [Geo-blocked]
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1 tvg-id="StarJalsha.in@SD" group-title="ALL INDIA FREE",Star Jalsha (1080p) [Geo-blocked]
 http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV
-#EXTINF:-1 tvg-id="NationalGeographic.in@SD" group-title="ALL INDIA FREE",National Geographic (576p) [Geo-blocked]
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
 #EXTINF:-1 tvg-id="SandeshNews.in@SD" group-title="ALL INDIA FREE",Sandesh News (576p)
 https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 #EXTINF:-1 tvg-id="KNewsIndia.in@SD" group-title="ALL INDIA FREE",K News India (576p)
@@ -2358,12 +2352,6 @@ http://103.185.24.134:3001/Star-Movies/index.m3u8
 http://103.185.24.134:3001/Star-Plus/index.m3u8
 #EXTINF:-1 tvg-id="StarGold.in@HD" group-title="ALL INDIA FREE",Star Gold HD (1080p)
 http://103.185.24.134:3001/Star-Gold/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@HD" group-title="ALL INDIA FREE",National Geographic HD (1080p)
-http://103.185.24.134:3001/NATGEO-HD/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" group-title="ALL INDIA FREE",National Geographic Wild HD (1080p)
-http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="ALL INDIA FREE",Sony Max HD (1080p)
-http://103.185.24.134:3001/SonyMAX/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" group-title="ALL INDIA FREE",Sony Sports Ten 1 HD (1080p)
 http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" group-title="ALL INDIA FREE",Sony BBC Earth HD (1080p)
@@ -2390,14 +2378,10 @@ http://103.151.60.162:2122/play/a018/index.m3u8?hls
 http://103.151.60.162:2122/play/a016/index.m3u8?hls
 #EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" group-title="ALL INDIA FREE",Enterr 10 Bangla (576p)
 http://103.151.60.162:2122/play/a0fa/index.m3u8?hls
-#EXTINF:-1 tvg-id="HistoryTV18.in@SD" group-title="ALL INDIA FREE",History TV18 (576p)
-http://103.151.60.162:2122/play/a00y/index.m3u8?hls
 #EXTINF:-1 tvg-id="JalshaMovies.in@HD" group-title="ALL INDIA FREE",Jalsha Movies HD (1080p)
 http://103.151.60.162:2122/play/a00x/index.m3u8?hls
 #EXTINF:-1 tvg-id="MoviesNow.in@HD" group-title="ALL INDIA FREE",Movies Now HD (1080p)
 http://103.151.60.162:2122/play/a02w/index.m3u8?hls
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" group-title="ALL INDIA FREE",National Geographic Wild HD (1080p)
-http://103.151.60.162:2122/play/a01f/index.m3u8?hls
 #EXTINF:-1 tvg-id="Pogo.in@SD" group-title="ALL INDIA FREE",Pogo (576p)
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
 #EXTINF:-1 tvg-id="RupasiBangla.in@SD" group-title="ALL INDIA FREE",Rupasi Bangla (576p)
@@ -2470,10 +2454,6 @@ http://103.151.60.162:2122/play/a028/index.m3u8?hls
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" group-title="ALL INDIA FREE",History TV18 HD
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://techtraveleat.in/stream.m3u8?id=historytv18eng
 #EXTINF:-1 tvg-id="Zoom.in@Nepal" group-title="ALL INDIA FREE",Zoom Nepal (720p)
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in@Nepal" group-title="ALL INDIA FREE",YRF Music Nepal
@@ -2502,8 +2482,6 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.in@SD" group-title="ALL INDIA FREE",Animal Planet (720p)
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax1.in@SD" group-title="ALL INDIA FREE",Sony Max 1
-http://27.116.22.53:5001/live/3418.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@SD" group-title="ALL INDIA FREE",Sony SAB (720p)
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="SunTV.in@HD" group-title="ALL INDIA FREE",Sun TV HD (1080p)
@@ -2642,6 +2620,8 @@ https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8
 #EXTINF:-1 tvg-id="PuthiyaThalaimuraiExpress.in@SD" group-title="ALL INDIA FREE",Puthiya Thalaimurai Express (720p)
 https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ETNowSwadesh.in@SD" group-title="ALL INDIA FREE",ET Now Swadesh (1080p) [Geo-blocked]
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
@@ -4642,12 +4622,8 @@ https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/in
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png" group-title="ALL INDIA FREE",Soneri Cinema (360p)
 https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sony Max 1
-http://27.116.22.53:5001/live/3418.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sony Max (576p) [Geo-blocked]
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sony Max HD (1080p)
-http://103.185.24.134:3001/SonyMAX/index.m3u8
+http://103.151.60.162:2122/play/a014/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="ALL INDIA FREE",Sony Pix HD (1080p)
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sony Wah (1080p) [Geo-blocked]
@@ -5072,8 +5048,8 @@ http://103.151.60.162:2122/play/a032/index.m3u8?hls
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="ALL INDIA FREE",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="ALL INDIA FREE",StarPlus (India) HD (1080i)
-http://202.70.146.135:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="ALL INDIA FREE",StarPlus (India) HD (1080p)
+http://66.102.126.10:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOhgz2T.png" group-title="ALL INDIA FREE",Studio Yuva (576p)
 https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" group-title="ALL INDIA FREE",Subin TV (1080p)
@@ -5138,20 +5114,12 @@ https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5kaqDc.png" group-title="ALL INDIA FREE",Epic Crimes (1080p)
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",History TV18 (576p)
-http://103.151.60.162:2122/play/a00y/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",History TV18 HD
-https://techtraveleat.in/stream.m3u8?id=historytv18eng
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",History TV18 HD (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Investigation Discovery (India) (720p)
 https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="ALL INDIA FREE",INWILD (1080p)
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",National Geographic (India) (576p) [Geo-blocked]
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",National Geographic (India) HD (1080p)
-http://103.185.24.134:3001/NATGEO-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",National Geographic Wild (India) HD (1080p)
-http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Safari TV (576p)
 https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sony BBC Earth HD (1080p)
@@ -5372,7 +5340,7 @@ https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",MBC TV (576p)
 https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.meialai.in/assets/meialai-DBaBUZTH.png" group-title="ALL INDIA FREE",Mei Alai TV (576p)
+#EXTINF:-1 tvg-logo="https://www.meialai.com/assets/meialai-DBaBUZTH.png" group-title="ALL INDIA FREE",Mei Alai TV (576p)
 https://meialai.iptelevishion.com/meialai/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" group-title="ALL INDIA FREE",Metro TV (India) (1080p)
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
@@ -5438,6 +5406,8 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",ET Now (720p) [Geo-blocked]
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",ET Now Swadesh (1080p) [Geo-blocked]
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",NDTV Profit (1080p)
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapitalMarket.png" group-title="ALL INDIA FREE",News Capital Market (1080p)
