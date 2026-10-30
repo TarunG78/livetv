@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-10-29 22:21:40"
+#EXTM3U billed-msg="2026-10-30 04:05:15"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -2997,9 +2997,6 @@ https://fta.ektv.in/live/247/master.m3u8
 #EXTINF:-1 tvg-id="AnmolTV.in@SD" group-title="ALL INDIA FREE",Anmol TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/256/master.m3u8
-#EXTINF:-1 tvg-id="AnmolCinema2.in@SD" group-title="ALL INDIA FREE",Anmol Cinema 2 (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/257/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.in@SD" group-title="ALL INDIA FREE",Shemaroo Umang (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/258/master.m3u8
@@ -3009,9 +3006,6 @@ https://fta.ektv.in/live/259/master.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in@SD" group-title="ALL INDIA FREE",Zee Action (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/270/master.m3u8
-#EXTINF:-1 tvg-id="AnmolCinema.in@SD" group-title="ALL INDIA FREE",Anmol Cinema (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/271/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooTV.in@SD" group-title="ALL INDIA FREE",Shemaroo TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/274/master.m3u8
