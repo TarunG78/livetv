@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-10-30 21:53:14"
+#EXTM3U billed-msg="2026-10-31 03:49:41"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -2706,7 +2706,7 @@ https://mumt01.tangotv.in/O5aw8Zn3MAHABHAKTI/index.m3u8
 https://cdn.pishow.tv/ott/live/315/master.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" group-title="ALL INDIA FREE",NDTV Good Times (576p)
 https://cdn.pishow.tv/ott/live/1285/master.m3u8
-#EXTINF:-1 tvg-id="DY365.in@SD" group-title="ALL INDIA FREE",DY 365 (576p)
+#EXTINF:-1 tvg-id="DivyavaniTV.in@SD" group-title="ALL INDIA FREE",Divyavani TV (576p)
 https://cdn.pishow.tv/ott/live/1624/master.m3u8
 #EXTINF:-1 tvg-id="TotalTVHaryana.in@SD" group-title="ALL INDIA FREE",Total TV Haryana (576p)
 https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8
@@ -3546,6 +3546,72 @@ https://fta.ektv.in/live/710/master.m3u8
 #EXTINF:-1 tvg-id="RepublicBangla.in@SD" group-title="ALL INDIA FREE",Republic Bangla (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/663/master.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla.in@SD" group-title="ALL INDIA FREE",Sangeet Bangla (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/379/master.m3u8
+#EXTINF:-1 tvg-id="DivyavaniTV.in@SD" group-title="ALL INDIA FREE",Divyavani TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/382/master.m3u8
+#EXTINF:-1 tvg-id="SafariTV.in@SD" group-title="ALL INDIA FREE",Safari TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/410/master.m3u8
+#EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" group-title="ALL INDIA FREE",Epic Bhojpuri (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/467/master.m3u8
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" group-title="ALL INDIA FREE",Epic Music (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/469/master.m3u8
+#EXTINF:-1 tvg-id="EpicBharat.in@SD" group-title="ALL INDIA FREE",Epic Bharat (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/471/master.m3u8
+#EXTINF:-1 tvg-id="GoldminesAction.in@SD" group-title="ALL INDIA FREE",Goldmines Action (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/584/master.m3u8
+#EXTINF:-1 tvg-id="MunsifTV.in@SD" group-title="ALL INDIA FREE",Munsif TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/598/master.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" group-title="ALL INDIA FREE",Hare Krsna TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/617/master.m3u8
+#EXTINF:-1 tvg-id="Sadhna.in@SD" group-title="ALL INDIA FREE",Sadhna (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/620/master.m3u8
+#EXTINF:-1 tvg-id="SVBC4.in@SD" group-title="ALL INDIA FREE",SVBC 4 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/621/master.m3u8
+#EXTINF:-1 tvg-id="PrarthanaBhawanTV.in@SD" group-title="ALL INDIA FREE",Prarthana Bhawan TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/623/master.m3u8
+#EXTINF:-1 tvg-id="DharmSandesh.in@SD" group-title="ALL INDIA FREE",Dharm Sandesh (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/625/master.m3u8
+#EXTINF:-1 tvg-id="ShubhTV.in@SD" group-title="ALL INDIA FREE",Shubh TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/626/master.m3u8
+#EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD" group-title="ALL INDIA FREE",Shubhsandesh TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/627/master.m3u8
+#EXTINF:-1 tvg-id="Vedic.in@SD" group-title="ALL INDIA FREE",Vedic (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/628/master.m3u8
+#EXTINF:-1 tvg-id="SarvDharmSangam.in@SD" group-title="ALL INDIA FREE",Sarv Dharm Sangam (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/630/master.m3u8
+#EXTINF:-1 tvg-id="DhoolTV.in@SD" group-title="ALL INDIA FREE",Dhool TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/631/master.m3u8
+#EXTINF:-1 tvg-id="AwakeningTV.in@SD" group-title="ALL INDIA FREE",Awakening TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/633/master.m3u8
+#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" group-title="ALL INDIA FREE",Hope Channel India (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/634/master.m3u8
+#EXTINF:-1 tvg-id="FatehTV.in@SD" group-title="ALL INDIA FREE",Fateh TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/635/master.m3u8
+#EXTINF:-1 tvg-id="TehzeebTV.in@SD" group-title="ALL INDIA FREE",Tehzeeb TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/636/master.m3u8
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
