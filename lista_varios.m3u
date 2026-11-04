@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-11-03 22:49:18"
+#EXTM3U billed-msg="2026-11-04 04:36:12"
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" group-title="ALL INDIA FREE",7S Music (360p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
@@ -1872,8 +1872,6 @@ https://jmp2.uk/stvp-IN3000846P
 https://jmp2.uk/stvp-IN46000140Q
 #EXTINF:-1 tvg-id="NHBollyRaga.in@HD" group-title="ALL INDIA FREE",NH BollyRaga (1080p)
 https://jmp2.uk/stvp-IN460001373
-#EXTINF:-1 tvg-id="NHBollyGold.in@HD" group-title="ALL INDIA FREE",NH BollyGold (1080p)
-https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
 #EXTINF:-1 tvg-id="NSC9News.in@SD" group-title="ALL INDIA FREE",NSC9 News (1080p)
 https://legitpro.co.in/nsc9/index.m3u8
 #EXTINF:-1 tvg-id="Pradesh24Gujarati.in@SD" group-title="ALL INDIA FREE",Pradesh24 Gujarati (1080p)
@@ -2366,8 +2364,6 @@ http://103.151.60.162:2122/play/a01e/index.m3u8?hls
 http://103.151.60.162:2122/play/a02n/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@SD" group-title="ALL INDIA FREE",Sony Entertainment Television (576p)
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
-#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="ALL INDIA FREE",Star Movies HD (1080p)
-http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 #EXTINF:-1 tvg-id="Sonic.in@SD" group-title="ALL INDIA FREE",Sonic (576p)
 http://103.151.60.162:2122/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyPix.in@HD" group-title="ALL INDIA FREE",Sony Pix HD (1080p)
@@ -3610,6 +3606,8 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3
 http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@Czechia" group-title="ALL INDIA FREE",Travelxp Czechia
 http://88.212.7.14/live/travel_xp/index.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@4KCzechia" group-title="ALL INDIA FREE",Travelxp 4K Czechia
+http://88.212.7.14/live/travel_xp_4k/index.m3u8
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
