@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-11-06 22:38:53"
+#EXTM3U billed-msg="2026-11-07 04:20:59"
 #EXTM3U
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" group-title="ALL INDIA FREE",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
@@ -88,8 +88,6 @@ https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 tvg-id="24News.in@SD" group-title="ALL INDIA FREE",24 News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-#EXTINF:-1 tvg-id="AndTV.in@SD" group-title="ALL INDIA FREE",&TV (720p)
-https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@International" group-title="ALL INDIA FREE",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in@SD" group-title="ALL INDIA FREE",Aadinath TV (576p)
@@ -2981,18 +2979,8 @@ http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@SD" group-title="ALL INDIA FREE",Sony SAB (576p)
 http://103.151.60.162:2122/play/a01q/index.m3u8?hls
-#EXTINF:-1 tvg-id="SonySportsTen1.in@SD" group-title="ALL INDIA FREE",Sony Sports Ten 1 (576p)
-http://103.151.60.162:2122/play/a01c/index.m3u8?hls
-#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" group-title="ALL INDIA FREE",Sony Sports Ten 1 HD (1080p)
-http://103.185.24.134:3001/SonyTenSports1/index.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in@SD" group-title="ALL INDIA FREE",Sony Sports Ten 2 (576p)
-http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" group-title="ALL INDIA FREE",Sony Sports Ten 3 Hindi (576p)
 http://103.151.60.162:2122/play/a01t/index.m3u8?hls
-#EXTINF:-1 tvg-id="SonySportsTen4.in@Kannada" group-title="ALL INDIA FREE",Sony Sports Ten 4 Kannada (576p)
-http://103.151.60.162:2122/play/a021/index.m3u8?hls
-#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" group-title="ALL INDIA FREE",Sony Sports Ten 5 (576p)
-http://103.151.60.162:2122/play/a028/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyWah.in@SD" group-title="ALL INDIA FREE",Sony Wah (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 #EXTINF:-1 tvg-id="SouthStation.in@HD" group-title="ALL INDIA FREE",South Station (1080p)
@@ -3022,21 +3010,9 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b262
 #EXTINF:-1 tvg-id="StarPravah.in@HD" group-title="ALL INDIA FREE",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in@SD" group-title="ALL INDIA FREE",Star Sports 2 (576p)
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
-#EXTINF:-1 tvg-id="StarSports2.in@SD" group-title="ALL INDIA FREE",Star Sports 2 (576p)
 http://103.151.60.162:2122/play/a019/index.m3u8?hls
-#EXTINF:-1 tvg-id="StarSports2.in@HD" group-title="ALL INDIA FREE",Star Sports 2 HD (720p)
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" group-title="ALL INDIA FREE",Star Sports 2 Hindi (720p)
-https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" group-title="ALL INDIA FREE",Star Sports 2 Telugu HD (576p)
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="StarSports3.in@SD" group-title="ALL INDIA FREE",Star Sports 3 (576p)
-http://103.151.60.162:2122/play/a029/index.m3u8?hls
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" group-title="ALL INDIA FREE",Star Sports Select 1 HD (1080p)
-http://103.151.60.162:2122/play/a026/index.m3u8?hls
-#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" group-title="ALL INDIA FREE",Star Sports Select 2 HD (1080p)
-http://103.151.60.162:2122/play/a027/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" group-title="ALL INDIA FREE",Star Sports Select 2 HD (720p)
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@UK" group-title="ALL INDIA FREE",Star Vijay (396p)
@@ -3186,8 +3162,6 @@ https://fta.ektv.in/live/636/master.m3u8
 https://mumt05.tangotv.in/87NeALx2TEHZEEBTV/index.m3u8
 #EXTINF:-1 tvg-id="TeluguOne.in@HD" group-title="ALL INDIA FREE",Telugu One (1080p)
 https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
-#EXTINF:-1 tvg-id="TenCricket.in@SD" group-title="ALL INDIA FREE",Ten Cricket (576p)
-http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
 #EXTINF:-1 tvg-id="ThanthiOne.in@SD" group-title="ALL INDIA FREE",Thanthi One (576p)
 https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8
 #EXTINF:-1 tvg-id="ThanthiOne.in@SD" group-title="ALL INDIA FREE",Thanthi One (576p)
@@ -3349,9 +3323,6 @@ https://fta.ektv.in/live/688/master.m3u8
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 #EXTINF:-1 tvg-id="Unite8Sports2.in@SD" group-title="ALL INDIA FREE",Unite8 Sports 2 (576p)
 http://103.151.60.162:2122/play/a01m/index.m3u8?hls
-#EXTINF:-1 tvg-id="Unite8Sports2.in@SD" group-title="ALL INDIA FREE",Unite8 Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://59.103.38.46:8000/play/a126/index.m3u8
 #EXTINF:-1 tvg-id="UPNOW.in@SD" group-title="ALL INDIA FREE",UP NOW (720p)
 http://45.122.122.61:8080/UPNOW/video.m3u8
 #EXTINF:-1 tvg-id="UTVPalakkad.in@SD" group-title="ALL INDIA FREE",UTV Palakkad (1080p)
@@ -3608,6 +3579,296 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@Nepal" group-title="ALL INDIA FREE",Zoom Nepal (720p)
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" group-title="ALL INDIA FREE",Hungama TV (576p)
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" group-title="ALL INDIA FREE",National Geographic HD (1080p)
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@HD" group-title="ALL INDIA FREE",Movies Now + (1080p)
+http://103.135.253.32:8080/MN-PLUS/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNow.in@HD" group-title="ALL INDIA FREE",Movies Now HD (1080p)
+http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in@HD" group-title="ALL INDIA FREE",Star Bharat HD (1080p)
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="ALL INDIA FREE",Star Movies HD (1080p)
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" group-title="ALL INDIA FREE",Nickelodeon (576p)
+http://103.135.253.32:8080/NICK/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.in@SD" group-title="ALL INDIA FREE",Nick Jr. (576p)
+http://103.135.253.32:8080/NICK-Jr/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD" group-title="ALL INDIA FREE",Colors Bangla HD (1080p)
+http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD" group-title="ALL INDIA FREE",Colors Bangla Cinema (576p)
+http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@HD" group-title="ALL INDIA FREE",Colors Cineplex HD (1080p)
+http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="ALL INDIA FREE",StarPlus HD (1080p)
+http://103.135.253.32:8080/STAR-PLUS/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" group-title="ALL INDIA FREE",Star Gold HD (1080p)
+http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in@HD" group-title="ALL INDIA FREE",Jalsha Movies HD (1080p)
+http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" group-title="ALL INDIA FREE",Star Jalsha HD (1080p)
+http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in@HD" group-title="ALL INDIA FREE",Zee TV HD (1080p)
+http://103.135.253.32:8080/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="ALL INDIA FREE",Zee Cinema HD (1080p)
+http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" group-title="ALL INDIA FREE",Zee Bangla Sonar (576p)
+http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" group-title="ALL INDIA FREE",Discovery Channel HD (1080p)
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" group-title="ALL INDIA FREE",Cartoon Network HD+ (1080p)
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD" group-title="ALL INDIA FREE",Pogo (576p)
+http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-id="SonyAath.in@SD" group-title="ALL INDIA FREE",Sony Aath (576p)
+http://103.135.253.32:8080/SONY_AATH/index.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in@HD" group-title="ALL INDIA FREE",&pictures HD (1080p)
+http://103.135.253.32:8080/PICTURE-HD/index.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="ALL INDIA FREE",B4U Movies (1080p)
+http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@HD" group-title="ALL INDIA FREE",Sony Max HD (1080p)
+http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in@HD" group-title="ALL INDIA FREE",Colors HD (1080p)
+https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD" group-title="ALL INDIA FREE",Colors Bangla HD (1080p)
+https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD" group-title="ALL INDIA FREE",Colors Bangla Cinema (576p)
+https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.in@HD" group-title="ALL INDIA FREE",Eurosport HD (1080p)
+https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" group-title="ALL INDIA FREE",Enterr 10 Bangla (576p)
+https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in@SD" group-title="ALL INDIA FREE",Jalsha Movies (720p)
+https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD" group-title="ALL INDIA FREE",Zee Bangla HD (1080p)
+https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD" group-title="ALL INDIA FREE",Zee Cinema HD (1080p)
+https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in@SD" group-title="ALL INDIA FREE",Sony Yay! (576p)
+https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
+#EXTINF:-1 tvg-id="SonyAath.in@SD" group-title="ALL INDIA FREE",Sony Aath (576p)
+https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" group-title="ALL INDIA FREE",Star Jalsha HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="ALL INDIA FREE",StarPlus HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" group-title="ALL INDIA FREE",Star Gold HD (1080p)
+https://livetv.shamon-cable.net:8443/StarGold/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="ALL INDIA FREE",Star Movies HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="ALL INDIA FREE",Star Movies Select HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@SD" group-title="ALL INDIA FREE",Star Gold Select (1080p)
+https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
+#EXTINF:-1 tvg-id="TV7National.in@SD" group-title="ALL INDIA FREE",TV7 National (1080p)
+https://stream.ottlive.co.in/tv7national/index.m3u8
+#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD" group-title="ALL INDIA FREE",NDTV Rajasthan (1080p)
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-753641/main.m3u8
+#EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in@SD" group-title="ALL INDIA FREE",NDTV Madhya Pradesh Chhattisgarh (1080p)
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" group-title="ALL INDIA FREE",Chardikla Time TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/211125/chardiklatv/playlist.m3u8
+#EXTINF:-1 tvg-id="News24.in@SD" group-title="ALL INDIA FREE",News 24 (720p)
+https://stream.ottlive.co.in/news24/index.m3u8
+#EXTINF:-1 tvg-id="NewsIndia24x7.in@SD" group-title="ALL INDIA FREE",News India 24x7 (1080p)
+https://stream.ottlive.co.in/newsindia/index.m3u8
+#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" group-title="ALL INDIA FREE",News Tamil 24x7 (1080p)
+https://stream.ottlive.co.in/newstamil/index.m3u8
+#EXTINF:-1 tvg-id="NewsMarathi24x7.in@SD" group-title="ALL INDIA FREE",News Marathi 24x7 (1080p)
+https://stream.ottlive.co.in/newsmarathi/index.m3u8
+#EXTINF:-1 tvg-id="NewsLiveBangla.in@SD" group-title="ALL INDIA FREE",News Live Bangla (1080p)
+https://stream.ottlive.co.in/newslivebangla/index.m3u8
+#EXTINF:-1 tvg-id="RPlusGold.in@SD" group-title="ALL INDIA FREE",R Plus Gold (1080p)
+https://stream.ottlive.co.in/rplusgold/index.m3u8
+#EXTINF:-1 tvg-id="TNPNews.in@SD" group-title="ALL INDIA FREE",TNP News (1080p)
+https://stream.ottlive.co.in/tnpnews/index.m3u8
+#EXTINF:-1 tvg-id="DNN.in@SD" group-title="ALL INDIA FREE",DNN (576p)
+https://stream.ottlive.co.in/dnnnews/index.m3u8
+#EXTINF:-1 tvg-id="PrathamKhabar24x7.in@SD" group-title="ALL INDIA FREE",Pratham Khabar 24x7 (576p)
+https://stream.ottlive.co.in/prathamkhabar24x7/index.m3u8
+#EXTINF:-1 tvg-id="RongeenTV.in@SD" group-title="ALL INDIA FREE",Rongeen TV (720p)
+https://stream.ottlive.co.in/rongeentv/index.m3u8
+#EXTINF:-1 tvg-id="IBC24.in@SD" group-title="ALL INDIA FREE",IBC 24 (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8
+#EXTINF:-1 tvg-id="DailyPostTV.in@SD" group-title="ALL INDIA FREE",Daily Post TV (1080p)
+https://stream.ottlive.co.in/dailypost/index.m3u8
+#EXTINF:-1 tvg-id="TopNewsMarathi.in@SD" group-title="ALL INDIA FREE",Top News Marathi (1080p)
+https://stream.ottlive.co.in/topnewsmarathi/index.m3u8
+#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" group-title="ALL INDIA FREE",India Daily Live (1080p)
+https://vglivessai.akamaized.net/ptnr-lg/title-India_Daily_24*7/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/594fc7fe-7762-4362-aba6-f3958757b8c5/index.m3u8
+#EXTINF:-1 tvg-id="ABPGanga.in@SD" group-title="ALL INDIA FREE",ABP Ganga (576p)
+https://mumt05.tangotv.in/87NeALx2ABPGANGA/index.m3u8
+#EXTINF:-1 tvg-id="ABPAsmita.in@SD" group-title="ALL INDIA FREE",ABP Asmita (576p)
+https://mumt07.tangotv.in/zHjX9OFlABPASMITA/index.m3u8
+#EXTINF:-1 tvg-id="ABPSanjha.in@SD" group-title="ALL INDIA FREE",ABP Sanjha (576p)
+https://mumt04.tangotv.in/m18aqlK4ABPSANJHA/index.m3u8
+#EXTINF:-1 tvg-id="ABPMajha.in@SD" group-title="ALL INDIA FREE",ABP Majha (576p)
+https://mumt05.tangotv.in/87NeALx2ABPMAJHA/index.m3u8
+#EXTINF:-1 tvg-id="ABPAnanda.in@SD" group-title="ALL INDIA FREE",ABP Ananda (576p)
+https://mumt05.tangotv.in/87NeALx2ABPANANDA/index.m3u8
+#EXTINF:-1 tvg-id="PrameyaNews7.in@SD" group-title="ALL INDIA FREE",Prameya News7 (720p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7c8ab820-a4ad-4c48-b326-2d7bc6639cef/index.m3u8
+#EXTINF:-1 tvg-id="RPlus.in@SD" group-title="ALL INDIA FREE",R Plus (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="ALL INDIA FREE",B4U Kadak (1080p)
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="ALL INDIA FREE",B4U Movies (1080p)
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsOnly.in@SD" group-title="ALL INDIA FREE",News Only (1080p)
+https://newsonly.kableone.com/newsonly/master.m3u8
+#EXTINF:-1 tvg-id="Bharat24.in@SD" group-title="ALL INDIA FREE",Bharat24 (1080p)
+https://vglivessai.akamaized.net/ptnr-lg/title-Bharat24News_LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ebcf5152-686a-43ae-ad13-15bc198112b7/index.m3u8
+#EXTINF:-1 tvg-id="AajKiKhabar.in@SD" group-title="ALL INDIA FREE",Aaj Ki Khabar (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a65577ae-f9df-4ba8-bcb5-bcd1f04d06cb/index.m3u8
+#EXTINF:-1 tvg-id="HindiKhabar.in@SD" group-title="ALL INDIA FREE",Hindi Khabar (1080p)
+https://livingindiaottlive.akamaized.net/hindikhabar/index.m3u8
+#EXTINF:-1 tvg-id="NammaBangalore.in@SD" group-title="ALL INDIA FREE",Namma Bangalore (1080p)
+https://stream.ottlive.co.in/nammatv/index.m3u8
+#EXTINF:-1 tvg-id="KanakNews.in@SD" group-title="ALL INDIA FREE",Kanak News (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/kanaknews/playlist.m3u8
+#EXTINF:-1 tvg-id="ArgusNews.in@SD" group-title="ALL INDIA FREE",Argus News (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/argusnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ANBNews.in@SD" group-title="ALL INDIA FREE",ANB News (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/anb/playlist.m3u8
+#EXTINF:-1 tvg-id="KalingaTV.in@SD" group-title="ALL INDIA FREE",Kalinga TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/kalingatv/playlist.m3u8
+#EXTINF:-1 tvg-id="NandighoshaTV.in@SD" group-title="ALL INDIA FREE",Nandighosha TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/Nandighoshatv/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTVMarathi.in@SD" group-title="ALL INDIA FREE",NDTV Marathi (576p)
+https://vg-ndtvwatcho.akamaized.net/vglive-sk-238731/main.m3u8
+#EXTINF:-1 tvg-id="NDTVMarathi.in@SD" group-title="ALL INDIA FREE",NDTV Marathi (576p)
+https://janya-ndtv.akamaized.net/ptnr-monitoring/vglive-sk-238731/ndtvmarathi_1500k.m3u8
+#EXTINF:-1 tvg-id="PitaaraComedy.in@SD" group-title="ALL INDIA FREE",Pitaara Comedy (1080p)
+https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
+#EXTINF:-1 tvg-id="PitaaraComedy.in@SD" group-title="ALL INDIA FREE",Pitaara Comedy (1080p)
+https://janya-pitaaralive.akamaized.net/ptnr-monitoring/v1/vglive-sk-217489/live/PitaaraComedy_15/chunks.m3u8
+#EXTINF:-1 tvg-id="PitaaraComedy.in@SD" group-title="ALL INDIA FREE",Pitaara Comedy (1080p)
+https://pitaara-lg.vgcdn.net/v1/vglive-sk-217489/playlist.m3u8
+#EXTINF:-1 tvg-id="PitaaraComedy.in@SD" group-title="ALL INDIA FREE",Pitaara Comedy (1080p)
+https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-Pitaara_Comedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-343626/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" group-title="ALL INDIA FREE",News Malayalam 24x7 (1080p)
+https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" group-title="ALL INDIA FREE",News Malayalam 24x7 (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8
+#EXTINF:-1 tvg-id="Aastha.in@UK" group-title="ALL INDIA FREE",Aastha UK (576p)
+https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AasthaInternational.in@SD" group-title="ALL INDIA FREE",Aastha International (576p)
+https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SuryaSamachar.in@SD" group-title="ALL INDIA FREE",Surya Samachar (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/suryasamachar/playlist.m3u8
+#EXTINF:-1 tvg-id="KhabarFast.in@SD" group-title="ALL INDIA FREE",Khabar Fast (576p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/khabarfast/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="PrimeNews.in@SD" group-title="ALL INDIA FREE",Prime News (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/primenews/playlist.m3u8
+#EXTINF:-1 tvg-id="JanamTV.in@SD" group-title="ALL INDIA FREE",Janam TV (576p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtvdev/playlist.m3u8
+#EXTINF:-1 tvg-id="CalvaryTV.in@SD" group-title="ALL INDIA FREE",Calvary TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/211125/calvarytv/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" group-title="ALL INDIA FREE",News Tamil 24x7 (1080p)
+https://vglivessai.akamaized.net/ptnr-yupptv/title-News_Tamil/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc657abd-5bf5-4526-9038-d42bbb9ca249/index.m3u8
+#EXTINF:-1 tvg-id="PragNews.in@SD" group-title="ALL INDIA FREE",Prag News (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/pragnews/playlist.m3u8
+#EXTINF:-1 tvg-id="EpicBharat.in@Digital" group-title="ALL INDIA FREE",Epic Bharat Digital (1080p)
+https://dt4psgz92awc5.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/naazara_tv/master.m3u8
+#EXTINF:-1 tvg-id="EpicTV.in@Digital" group-title="ALL INDIA FREE",Epic TV Digital (1080p)
+https://d1fodel5fjpe8b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-68r9vf9490xt2/master.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" group-title="ALL INDIA FREE",Zee Business (1080p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8
+#EXTINF:-1 tvg-id="SakshiTV.in@SD" group-title="ALL INDIA FREE",Sakshi TV (1080p)
+https://stream.ottlive.co.in/sakshitv/index.m3u8
+#EXTINF:-1 tvg-id="ANBNews.in@SD" group-title="ALL INDIA FREE",ANB News (1080p)
+https://stream.ottlive.co.in/anb/index.m3u8
+#EXTINF:-1 tvg-id="SadvidyaTV.in@SD" group-title="ALL INDIA FREE",Sadvidya TV (720p)
+https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
+#EXTINF:-1 tvg-id="SRKTV.in@SD" group-title="ALL INDIA FREE",SRK TV (1080p)
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in@SD" group-title="ALL INDIA FREE",Jalsha Movies (1080p)
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV27News.in@SD" group-title="ALL INDIA FREE",TV27 News (1080p)
+https://stream.ottlive.co.in/tv27/index.m3u8
+#EXTINF:-1 tvg-id="TV45.in@SD" group-title="ALL INDIA FREE",TV45 (1080p)
+https://stream.ottlive.co.in/tv45/index.m3u8
+#EXTINF:-1 tvg-id="HindiHits.in@SD" group-title="ALL INDIA FREE",Hindi Hits (1080p)
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="ALL INDIA FREE",Goldmines (576p)
+https://tvsen6.aynaott.com/hKrngve2/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD" group-title="ALL INDIA FREE",Shemaroo TV (576p)
+https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8
+#EXTINF:-1 tvg-id="TaazaTV.in@SD" group-title="ALL INDIA FREE",Taaza TV (576p)
+https://tvsen7.aynaott.com/TaazaTV/index.m3u8
+#EXTINF:-1 tvg-id="ChannelWIN.in@SD" group-title="ALL INDIA FREE",Channel WIN (720p)
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-id="OnkarNews.in@SD" group-title="ALL INDIA FREE",Onkar News (1080p)
+https://stream.ottlive.co.in/onkarnews/index.m3u8
+#EXTINF:-1 tvg-id="Aastha.in@SD" group-title="ALL INDIA FREE",Aastha (576p)
+http://163.61.226.31:9981/stream/channelid/565086134?profile=pass
+#EXTINF:-1 tvg-id="ABPNews.in@SD" group-title="ALL INDIA FREE",ABP News (576p)
+http://163.61.226.31:9981/stream/channelid/326226352?profile=pass
+#EXTINF:-1 tvg-id="RepublicBharat.in@SD" group-title="ALL INDIA FREE",Republic Bharat (576p)
+http://163.61.226.31:9981/stream/channelid/1090287783?profile=pass
+#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" group-title="ALL INDIA FREE",B4U Bhojpuri (576p)
+http://163.61.226.31:9981/stream/channelid/1866402338?profile=pass
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="ALL INDIA FREE",B4U Kadak (576p)
+http://163.61.226.31:9981/stream/channelid/282021969?profile=pass
+#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="ALL INDIA FREE",B4U Movies (576p)
+http://163.61.226.31:9981/stream/channelid/1547127176?profile=pass
+#EXTINF:-1 tvg-id="B4UMusic.in@India" group-title="ALL INDIA FREE",B4U Music (576p)
+http://163.61.226.31:9981/stream/channelid/494430938?profile=pass
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" group-title="ALL INDIA FREE",Colors Cineplex Bollywood (576p)
+http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" group-title="ALL INDIA FREE",Colors Cineplex Superhits (576p)
+http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
+#EXTINF:-1 tvg-id="ColorsRishtey.in@SD" group-title="ALL INDIA FREE",Colors Rishtey (576p)
+http://163.61.226.31:9981/stream/channelid/297962113?profile=pass
+#EXTINF:-1 tvg-id="DangalTV.in@SD" group-title="ALL INDIA FREE",Dangal TV (576p)
+http://163.61.226.31:9981/stream/channelid/359795895?profile=pass
+#EXTINF:-1 tvg-id="Dangal2.in@SD" group-title="ALL INDIA FREE",Dangal 2 (576p)
+http://163.61.226.31:9981/stream/channelid/568470441?profile=pass
+#EXTINF:-1 tvg-id="DDNational.in@SD" group-title="ALL INDIA FREE",DD National (576p)
+http://163.61.226.31:9981/stream/channelid/1991369999?profile=pass
+#EXTINF:-1 tvg-id="DDNews.in@SD" group-title="ALL INDIA FREE",DD News (576p)
+http://163.61.226.31:9981/stream/channelid/920088460?profile=pass
+#EXTINF:-1 tvg-id="DDPunjabi.in@SD" group-title="ALL INDIA FREE",DD Punjabi (576p)
+http://163.61.226.31:9981/stream/channelid/2094424586?profile=pass
+#EXTINF:-1 tvg-id="FashionTV.in@SD" group-title="ALL INDIA FREE",FashionTV (576p)
+http://163.61.226.31:9981/stream/channelid/943090988?profile=pass
+#EXTINF:-1 tvg-id="FashionTV.in@SD" group-title="ALL INDIA FREE",FashionTV (576p)
+http://163.61.226.31:9981/stream/channelid/448803688?profile=pass
+#EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="ALL INDIA FREE",Goldmines (576p)
+http://163.61.226.31:9981/stream/channelid/863672695?profile=pass
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" group-title="ALL INDIA FREE",Goldmines Bollywood (576p)
+http://163.61.226.31:9981/stream/channelid/1436412639?profile=pass
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="ALL INDIA FREE",Goldmines Movies (576p)
+http://163.61.226.31:9981/stream/channelid/1393052638?profile=pass
+#EXTINF:-1 tvg-id="GoodNewsToday.in@SD" group-title="ALL INDIA FREE",Good News Today (576p)
+http://163.61.226.31:9981/stream/channelid/1288881331?profile=pass
+#EXTINF:-1 tvg-id="GTCPunjabi.in@SD" group-title="ALL INDIA FREE",GTC Punjabi (576p)
+http://163.61.226.31:9981/stream/channelid/836075567?profile=pass
+#EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" group-title="ALL INDIA FREE",Manoranjan Grand (576p)
+http://163.61.226.31:9981/stream/channelid/1752367052?profile=pass
+#EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" group-title="ALL INDIA FREE",Manoranjan Movies (576p)
+http://163.61.226.31:9981/stream/channelid/509213855?profile=pass
+#EXTINF:-1 tvg-id="ManoranjanTV.in@SD" group-title="ALL INDIA FREE",Manoranjan TV (576p)
+http://163.61.226.31:9981/stream/channelid/889274687?profile=pass
+#EXTINF:-1 tvg-id="SonyPal.in@SD" group-title="ALL INDIA FREE",Sony Pal (576p)
+http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass
+#EXTINF:-1 tvg-id="SonyWah.in@SD" group-title="ALL INDIA FREE",Sony Wah (576p)
+http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
+#EXTINF:-1 tvg-id="StarUtsav.in@SD" group-title="ALL INDIA FREE",Star Utsav (576p)
+http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
+#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" group-title="ALL INDIA FREE",Star Utsav Movies (576p)
+http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
+#EXTINF:-1 tvg-id="QTV.in@SD" group-title="ALL INDIA FREE",Q TV (576p)
+http://163.61.226.31:9981/stream/channelid/359164420?profile=pass
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD" group-title="ALL INDIA FREE",TV9 Bharatvarsh (576p)
+http://163.61.226.31:9981/stream/channelid/581061846?profile=pass
+#EXTINF:-1 tvg-id="UniqueTV.in@SD" group-title="ALL INDIA FREE",Unique TV (576p)
+http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
+#EXTINF:-1 tvg-id="RajMusixKannada.in@SD" group-title="ALL INDIA FREE",Raj Musix Kannada (576p)
+https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTelugu.in@HD" group-title="ALL INDIA FREE",Zee Telugu HD (720p)
+https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
@@ -4914,8 +5175,8 @@ https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 https://amarujala.ottlive.co.in/amarujala/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png" group-title="ALL INDIA FREE",Ananda Barta (720p)
 https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",ANB News (720p)
-https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",ANB News (1080p)
+https://stream.ottlive.co.in/anb/index.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png" group-title="ALL INDIA FREE",APN (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARGUS/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Argus News (576p)
@@ -4942,8 +5203,8 @@ https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
 https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Bansal News (720p)
 https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142710_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Bharat24 (720p)
-https://cdn.ottlive.co.in/bharat24/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142710_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Bharat24 (1080p)
+https://vglivessai.akamaized.net/ptnr-lg/title-Bharat24News_LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ebcf5152-686a-43ae-ad13-15bc198112b7/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_AtoZ.png" group-title="ALL INDIA FREE",Bharat AtoZ (720p)
 https://live.ekamraott.com/4tv/bharata2z/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Bharat Express (576p)
@@ -5030,8 +5291,8 @@ https://cdn.pishow.tv/ott/live/280/master.m3u8
 https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HORNBILL/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",Hornbill TV (576p)
 https://fta.ektv.in/live/710/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_IBC24/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",IBC 24 (576p)
-https://fta.ektv.in/live/309/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_IBC24/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",IBC 24 (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exRpVmL.png" group-title="ALL INDIA FREE",Ind 24 (720p)
 https://livestream.jswk.online/ind24/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hBkTmf9.png" group-title="ALL INDIA FREE",India Ahead (576p)
@@ -5202,32 +5463,34 @@ https://newscapital.com/hls/main4/stream.m3u8
 https://fta.ektv.in/live/316/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b83af98cdfd7d995b46178788a835bff.png" group-title="ALL INDIA FREE",News Hour (576p)
 https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540" group-title="ALL INDIA FREE",News India 24x7 (576p)
-https://cdn.pishow.tv/ott/live/273/master.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540" group-title="ALL INDIA FREE",News India 24x7 (1080p)
+https://stream.ottlive.co.in/newsindia/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png" group-title="ALL INDIA FREE",News J (720p) [Not 24/7]
 https://cdn.pishow.tv/ott/live/1279/master.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/360x280/filters:format(webp)/newsleaderlive/media/agency_attachments/2026/04/15/2026-04-15t100517555z-news-leader-640-480-1-sarvajeet-singh-chauhan-2026-04-15-15-35-17.png" group-title="ALL INDIA FREE",News Leader (576p)
 https://stream.ottlive.co.in/newsleader/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_LIVE/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",News Live (576p)
 https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVE24X7/index.m3u8
-#EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/News_Live_Bangla.png" group-title="ALL INDIA FREE",News Live Bangla (576p)
-https://cdn.pishow.tv/ott/live/10003/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",News Malayalam 24x7 (576p)
-https://cdn.pishow.tv/ott/live/1629/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cb84d7f7e19bcbfb9b6d664e7fb2adee.png" group-title="ALL INDIA FREE",News Marathi 24x7 (720p)
-https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
+#EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/News_Live_Bangla.png" group-title="ALL INDIA FREE",News Live Bangla (1080p)
+https://stream.ottlive.co.in/newslivebangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",News Malayalam 24x7 (1080p)
+https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cb84d7f7e19bcbfb9b6d664e7fb2adee.png" group-title="ALL INDIA FREE",News Marathi 24x7 (1080p)
+https://stream.ottlive.co.in/newsmarathi/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation_81.png" group-title="ALL INDIA FREE",News Nation 81 (1080p)
 https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",News Nation (1080p)
 https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Only.png" group-title="ALL INDIA FREE",News Only (1080p)
+https://newsonly.kableone.com/newsonly/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_STATE_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",News State MP & CHG (1080p)
 https://jmp2.uk/stvp-IN4000012ML
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="ALL INDIA FREE",News State Punjab Haryana Himachal (1080p)
 https://jmp2.uk/stvp-IN300083R1
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_STATE_UP_UK/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",News State UP & UK (1080p)
 https://jmp2.uk/stvp-IN3000846P
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",News Tamil 24x7 (576p)
-https://cdn.pishow.tv/ott/live/1433/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",News Tamil 24x7 (1080p)
+https://stream.ottlive.co.in/newstamil/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",NewsX (720p)
 https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_X_World.png" group-title="ALL INDIA FREE",NewsX World (576p)
@@ -5242,6 +5505,8 @@ https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
 https://legitpro.co.in/nsc9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqTIoWS.png" group-title="ALL INDIA FREE",NTV Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/onkarnews.png" group-title="ALL INDIA FREE",Onkar News (1080p)
+https://stream.ottlive.co.in/onkarnews/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AMV_NETWORK/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Only Bharat (576p)
 https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540" group-title="ALL INDIA FREE",Polimer News (576p)
@@ -5252,8 +5517,8 @@ https://cdn.pishow.tv/ott/live/247/master.m3u8
 https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",Prag News (576p)
 https://fta.ektv.in/live/336/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Prameya News7 (576p)
-https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Prameya News7 (720p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7c8ab820-a4ad-4c48-b326-2d7bc6639cef/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNsg5Px.png" group-title="ALL INDIA FREE",Pratham Khabar 24x7 (576p)
 https://livelegitpro.in/hls2/newstime/index.m3u8
 #EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/channels/Pratham_news.png" group-title="ALL INDIA FREE",Pratham News (576p)
@@ -5312,8 +5577,8 @@ https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3odbJJq.png" group-title="ALL INDIA FREE",Sahana News (576p)
 https://mumt03.tangotv.in/Dsly5z3HSAHANANEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Sakshi TV (576p)
-https://cdn.pishow.tv/ott/live/409/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Sakshi TV (1080p)
+https://stream.ottlive.co.in/sakshitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s144466_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Salaam TV (720p)
 https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Plus.png" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",Samachar Plus 24x7 (576p)
@@ -5324,10 +5589,14 @@ https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143765_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sathiyam TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="ALL INDIA FREE",Star Bharat (India) HD (1080p)
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJRZo9e.png" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",STV Haryana News (576p)
 https://fta.ektv.in/live/607/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUDARSHAN_NEWS/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Sudarshan News (1080p)
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxs1kRB.png" group-title="ALL INDIA FREE",Surya Samachar (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/suryasamachar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0H1HObK.png" group-title="ALL INDIA FREE",Suvarna News SD (576p)
 https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swadesh_News.png" group-title="ALL INDIA FREE",Swadesh News (720p)
@@ -5362,6 +5631,8 @@ https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8
 https://cdn.pishow.tv/ott/live/387/master.m3u8
 #EXTINF:-1 tvg-logo="https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg" group-title="ALL INDIA FREE",TV7 Bharat (576p)
 https://stream.ottlive.co.in/tv7bharat/index.m3u8
+#EXTINF:-1 tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/52ac91e7-2c9d-415b-a63f-fb41413105ff.jpg" group-title="ALL INDIA FREE",TV7 National (1080p)
+https://stream.ottlive.co.in/tv7national/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_BANGLA/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",TV9 Bangla (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_BHARATVARSH/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",TV9 Bharatvarsh (720p)
@@ -5376,8 +5647,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv13gujarati.com/assets/front/img/footer-logo.jpg" group-title="ALL INDIA FREE",TV13 Gujarati (480p)
 https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png" group-title="ALL INDIA FREE",TV27 News (360p)
-https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png" group-title="ALL INDIA FREE",TV27 News (1080p)
+https://stream.ottlive.co.in/tv27/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV30India.png" group-title="ALL INDIA FREE",TV30 India (1080p)
 https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV45.png" group-title="ALL INDIA FREE",TV45 (1080p)
@@ -5466,8 +5737,8 @@ https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://jmp2.uk/stvp-IN4900002RV
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETVMusic12.png" group-title="ALL INDIA FREE",ETV Music (1080p)
 https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="ALL INDIA FREE",Hindi Hits (720p)
-https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="ALL INDIA FREE",Hindi Hits (1080p)
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" group-title="ALL INDIA FREE",Insync (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Isai Aruvi (396p)
@@ -5558,8 +5829,8 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Zoom (India) Nepal (720p)
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="ALL INDIA FREE",&TV (720p)
-https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="ALL INDIA FREE",&pictures HD (1080p)
+http://103.135.253.32:8080/PICTURE-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Alankar TV (720p)
 https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",All Time Movies (576p)
@@ -5570,10 +5841,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="ALL INDIA FREE",B4U Bhojpuri Plus (1080p)
 https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",B4U Kadak (576p)
-https://cdn.pishow.tv/ott/live/227/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="ALL INDIA FREE",B4U Movies (576p)
-http://66.102.126.10:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",B4U Kadak (1080p)
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="ALL INDIA FREE",B4U Movies (1080p)
+http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Bhojpuri Cinema (720p)
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png" group-title="ALL INDIA FREE",Bollygold (1080p)
@@ -5584,6 +5855,10 @@ http://103.151.60.162:2122/play/a02m/index.m3u8?hls
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Colors Cineplex HD (1080p)
 http://103.151.60.162:2122/play/a02s/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Colors Cineplex Bollywood (576p)
+http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Colors Cineplex Superhits (576p)
+http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",Epic Bhojpuri (576p)
 https://fta.ektv.in/live/467/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="ALL INDIA FREE",Epic Bhojpuri Digital (1080p)
@@ -5604,6 +5879,10 @@ https://fta.ektv.in/live/52/52_0.m3u8
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/FreeTV_India_Talkies.png" group-title="ALL INDIA FREE",India Talkies (360p)
 https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="ALL INDIA FREE",Jalsha Movies (1080p)
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="ALL INDIA FREE",Jalsha Movies HD (1080p)
+http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Kairali We (576p)
 https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",Maha Movie (576p)
@@ -5620,6 +5899,8 @@ https://fta.ektv.in/live/639/master.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Movies Now HD (1080p)
 http://103.151.60.162:2122/play/a02w/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Movies Now + (1080p)
+http://103.135.253.32:8080/MN-PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yF9MPTDK/blyflx.png" group-title="ALL INDIA FREE",NH BollyFlix (1080p)
 https://jmp2.uk/stvp-IN46000140Q
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260623T015348SQUARE.png" group-title="ALL INDIA FREE",NH Tamil Gold (1080p)
@@ -5648,16 +5929,24 @@ https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 http://103.151.60.162:2122/play/a014/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="ALL INDIA FREE",Sony Pix HD (1080p)
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sony Wah (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sony Wah (576p)
+http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" group-title="ALL INDIA FREE",South Station (1080p)
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="ALL INDIA FREE",Star Gold 2 HD (1080p)
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xC460sj.png" group-title="ALL INDIA FREE",Star Gold HD (1080p)
 http://103.151.60.162:2122/play/a01n/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="ALL INDIA FREE",Star Gold Select (1080p)
+https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Star Movies (India) HD (1080p)
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Star Movies Select HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="ALL INDIA FREE",Star Utsav Movies (576p)
+http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="ALL INDIA FREE",Studio One + (720p)
 https://cdn.pishow.tv/ott/live/276/master.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="ALL INDIA FREE",Suriyan TV (576p)
@@ -5728,10 +6017,12 @@ https://cdn.pishow.tv/ott/live/397/master.m3u8
 https://newsliveindia.com:4433/bhaktidhara/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" group-title="ALL INDIA FREE",Bhakti Sagar (576p)
 https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo" group-title="ALL INDIA FREE",BTL TV (Netherlands) (1080p)
+https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143010_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Channel Divya (1080p)
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_WIN/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Channel WIN (720p)
-https://cdn.pishow.tv/ott/live/229/master.m3u8
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/channels/Chhaya_Chitram_Telugu.png" group-title="ALL INDIA FREE",Chhaya Chitram Telugu (360p)
 https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/Chintpurni_Live.png" group-title="ALL INDIA FREE",Chintpurni Live (720p)
@@ -5844,6 +6135,8 @@ https://samitaorigin.tangotv.in/SAANGTV/SAMITAORIGIN/index.m3u8
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sadhna TV (576p)
 https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadvidya_TV.png" group-title="ALL INDIA FREE",Sadvidya TV (720p)
+https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="ALL INDIA FREE",Sairam TV (576p)
 https://cdn.pishow.tv/ott/live/1611/master.m3u8
 #EXTINF:-1 tvg-logo="https://content.jdmagicbox.com/comp/bangalore/l5/080pxx80.xx80.150207120517.e4l5/catalogue/salvation-tv-network-pvt-m-g-road-bangalore-religious-organizations-1sabn2d.jpg" group-title="ALL INDIA FREE",Salvation TV (India) (1080p)
@@ -5943,15 +6236,15 @@ https://cdn.pishow.tv/ott/live/1453/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZjmjJJs/DD-Malayalam.png" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",DD Malayalam (576p)
 https://fta.ektv.in/live/680/master.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" group-title="ALL INDIA FREE",DD National (576p)
-https://cdn.pishow.tv/ott/live/11/master.m3u8
+http://163.61.226.31:9981/stream/channelid/1991369999?profile=pass
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",DD National HD (1080p)
 https://fta.ektv.in/live/15/master.m3u8
 #EXTINF:-1 tvg-logo="https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png" group-title="ALL INDIA FREE",Desi Channel (720p)
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="ALL INDIA FREE",Discovery Channel (India) (720p)
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Discovery Channel (India) HD (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Discovery Channel (India) HD (1080p)
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",E 24 (576p)
 https://fta.ektv.in/live/159/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Enterr 10 Bangla (720p)
@@ -6022,6 +6315,8 @@ https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",MTV (India) HD (396p)
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Namma_Bangalore.png" group-title="ALL INDIA FREE",Namma Bangalore (1080p)
+https://stream.ottlive.co.in/nammatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMZpdbYJ/Nepal-1.png" group-title="ALL INDIA FREE",Nepal 1 (576p)
 https://cdn.pishow.tv/ott/live/1490/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" group-title="ALL INDIA FREE",NTC TV (720p)
@@ -6078,16 +6373,20 @@ https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" group-title="ALL INDIA FREE",Spondon (1080p)
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg" group-title="ALL INDIA FREE",SRK TV (1080p)
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="ALL INDIA FREE",Star Jalsha (576p)
 http://103.151.60.162:2122/play/a00w/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="ALL INDIA FREE",Star Jalsha HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="ALL INDIA FREE",Star Jalsha HD (1080p)
+http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Star Kiran (576p)
 http://103.151.60.162:2122/play/a032/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="ALL INDIA FREE",Star Maa HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="ALL INDIA FREE",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="ALL INDIA FREE",Star Utsav (576p)
+http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="ALL INDIA FREE",StarPlus (India) HD (1080p)
 http://66.102.126.10:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOhgz2T.png" group-title="ALL INDIA FREE",Studio Yuva (576p)
@@ -6116,8 +6415,8 @@ https://fta.ektv.in/live/223/master.m3u8
 https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="ALL INDIA FREE",Zee Bangla (576p)
 http://103.151.60.162:2122/play/a011/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="ALL INDIA FREE",Zee Bangla HD (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="ALL INDIA FREE",Zee Bangla HD (1080p)
+https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="ALL INDIA FREE",Zee Bangla Sonar (576p)
 http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="ALL INDIA FREE",Zee Dil Se (1080p)
@@ -6132,12 +6431,12 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="ALL INDIA FREE",Zee Tamil HD (1080p)
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png" group-title="ALL INDIA FREE",Zee Telugu HD (576p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png" group-title="ALL INDIA FREE",Zee Telugu HD (720p)
+https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="ALL INDIA FREE",Zee TV (576p)
 http://103.151.60.162:2122/play/a01u/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="ALL INDIA FREE",Zee TV HD (720p) [Geo-blocked]
-http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="ALL INDIA FREE",Zee TV HD (1080p)
+http://103.135.253.32:8080/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/zingabad.png" group-title="ALL INDIA FREE",Zingabad (1080p)
 https://stream.ottlive.co.in/zingabad/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gE166hZ.jpeg" group-title="ALL INDIA FREE",Zodiak TV (1080p)
@@ -6146,6 +6445,8 @@ https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 https://live.onecloudlive.in/amn/amntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="ALL INDIA FREE",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png" group-title="ALL INDIA FREE",Colors Rishtey (576p)
+http://163.61.226.31:9981/stream/channelid/297962113?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkOunuW.png" group-title="ALL INDIA FREE",Colors Rishtey Americas (396p)
 https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Dangal TV (720p)
@@ -6272,6 +6573,8 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="ALL INDIA FREE",INWILD (1080p)
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",National Geographic (India) HD (1080p)
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",Safari TV (576p)
 https://fta.ektv.in/live/410/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sony BBC Earth HD (1080p)
@@ -6298,10 +6601,10 @@ https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143693_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Puthuyugam TV (576p)
 https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="ALL INDIA FREE",R Plus (768p)
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dpI7XPC.png" group-title="ALL INDIA FREE",R Plus Gold (720p)
-https://cdn.pishow.tv/ott/live/1231/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="ALL INDIA FREE",R Plus (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpI7XPC.png" group-title="ALL INDIA FREE",R Plus Gold (1080p)
+https://stream.ottlive.co.in/rplusgold/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",Raftaar Media (576p)
 https://fta.ektv.in/live/306/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143717_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Ramdhenu (576p)
@@ -6402,10 +6705,18 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Cartoon Network (India) (720p)
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Cartoon Network HD+ (1080p)
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Doraemon_Merch_EN_Logo.svg" group-title="ALL INDIA FREE",Doraemon (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="ALL INDIA FREE",Mr Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Pogo (576p)
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fIYWvHIeqc1A9D4PyayFkgjRxCh.png" group-title="ALL INDIA FREE",Shin-chan (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sony Yay! (576p)
+https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" group-title="ALL INDIA FREE",WOW Kidz (720p)
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" group-title="ALL INDIA FREE",WOW Kidz Tamil (720p)
@@ -6426,6 +6737,8 @@ http://103.151.60.162:2122/play/a016/index.m3u8?hls
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" group-title="ALL INDIA FREE",Green Gold TV (1080p)
 https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Hungama TV (576p)
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Nick Jr. (India) (576p)
 http://103.151.60.162:2122/play/a00s/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Nickelodeon (India) (576p)
@@ -6452,8 +6765,8 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapitalMarket.png" group-title="ALL INDIA FREE",News Capital Market (1080p)
 https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="ALL INDIA FREE",Zee Business (720p)
-https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="ALL INDIA FREE",Zee Business (1080p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="ALL INDIA FREE",DD Bharati (720p)
 https://cdn.pishow.tv/ott/live/10/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="ALL INDIA FREE",DD Punjabi (576p)
@@ -6472,36 +6785,18 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="ALL INDIA FREE",Eurosport (720p)
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="ALL INDIA FREE",Eurosport HD (1080p)
+https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/kabaddi_24x7.png" group-title="ALL INDIA FREE",Kabaddi 24x7 (720p)
 https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Sony Sports Ten 1 (576p)
-http://103.151.60.162:2122/play/a01c/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Sony Sports Ten 1 HD (1080p)
-http://103.185.24.134:3001/SonyTenSports1/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Sony Sports Ten 2 (576p)
-http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="ALL INDIA FREE",Sony Sports Ten 3 Hindi (576p)
 http://103.151.60.162:2122/play/a01t/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png" group-title="ALL INDIA FREE",Sony Sports Ten 4 Kannada (576p)
-http://103.151.60.162:2122/play/a021/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Sony Sports Ten 5 (576p)
-http://103.151.60.162:2122/play/a028/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Star Sports 2 (576p)
-http://103.151.60.162:2122/play/a00v/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Star Sports 2 HD (720p)
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kHerF19.png" group-title="ALL INDIA FREE",Star Sports 2 Hindi (720p)
-https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
+http://103.151.60.162:2122/play/a019/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7DvvqF.png" group-title="ALL INDIA FREE",Star Sports 2 Telugu HD (576p)
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="ALL INDIA FREE",Star Sports 3 (576p)
-http://103.151.60.162:2122/play/a029/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="ALL INDIA FREE",Star Sports Select 1 HD (1080p)
-http://103.151.60.162:2122/play/a026/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="ALL INDIA FREE",Star Sports Select 2 HD (1080p)
-http://103.151.60.162:2122/play/a027/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K5XIFuW.png" group-title="ALL INDIA FREE",Ten Cricket (576p)
-http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="ALL INDIA FREE",Star Sports Select 2 HD (720p)
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" group-title="ALL INDIA FREE",Unite8 Sports 2 (576p)
 http://103.151.60.162:2122/play/a01m/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="ALL INDIA FREE",Discovery Science (720p)
@@ -6512,6 +6807,8 @@ https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg0
 https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Comedy.png" group-title="ALL INDIA FREE",ETV Comedy (1080p)
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PitaaraComedy.png" group-title="ALL INDIA FREE",Pitaara Comedy (1080p)
+https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540" group-title="ALL INDIA FREE",Sirippoli TV (576p)
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png" group-title="ALL INDIA FREE",Zee Comedy Nation (1080p)
