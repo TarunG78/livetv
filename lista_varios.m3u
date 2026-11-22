@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="2026-11-22 04:47:25"
+#EXTM3U billed-msg="2026-11-22 13:57:02"
 #EXTM3U
 #EXTINF:-1 tvg-id="4TVNews.in@SD" group-title="ALL INDIA FREE",4TV News (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -4177,7 +4177,7 @@ http://41.205.93.154/ZEE-TV/index.m3u8
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD" group-title="ALL INDIA FREE",Zee Uttar Pradesh/Uttarakhand (576p)
 https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8
-#EXTINF:-1 tvg-id="ZillarBartaNews.in@HD" group-title="ALL INDIA FREE",ZillarBarta News
+#EXTINF:-1 tvg-id="ZillarBartaNews.in@HD" group-title="ALL INDIA FREE",ZillarBarta News (720p)
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 #EXTINF:-1 tvg-id="Zingabad.in@SD" group-title="ALL INDIA FREE",Zingabad (1080p)
 https://stream.ottlive.co.in/zingabad/index.m3u8
